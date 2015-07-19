@@ -1,0 +1,30 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "unknown",
+			"url": "https://raw.githubusercontent.com/guriroyals/walbase/master/frozenui/wall_1.jpg",
+			"name": "wall_1"
+		},
+		{
+			"author": "unknown",
+			"url": "https://raw.githubusercontent.com/guriroyals/walbase/master/frozenui/wall_2.jpg",
+			"name": "wall_2"
+		},
+		{
+			"author": "unknown",
+			"url": "https://raw.githubusercontent.com/guriroyals/walbase/master/frozenui/wall_3.jpg",
+			"name": "wall_3"
+		},
+		{
+			"author": "unknown",
+			"url": "https://raw.githubusercontent.com/guriroyals/walbase/master/frozenui/wall_4.jpg",
+			"name": "wall_4"
+		},
+		{
+			"author": "unknown",
+			"url": "https://raw.githubusercontent.com/guriroyals/walbase/master/frozenui/wall_5.jpg",
+			"name": "wall_5"
+		}
+	]
+}
