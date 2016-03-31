@@ -2,6 +2,16 @@
 "wallpapers": 
 	[
 		{
+        "author": "Romain Guy"
+        "url": "https://raw.githubusercontent.com/guriroyals/chromecastbackgrounds/master/chbg1.jpg",
+        "name": "chbg1"
+    },
+	{
+        "author": "Alistair Nicol"
+        "url": "https://raw.githubusercontent.com/guriroyals/chromecastbackgrounds/master/chbg2.jpg",
+        "name": "chbg2"
+    },
+		{
 			"author": "guriroyals",
 			"url": "https://raw.githubusercontent.com/guriroyals/walbase/master/pheonix/wall1.png",
 			"name": "wall1"
