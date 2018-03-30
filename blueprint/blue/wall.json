@@ -25,21 +25,21 @@
         {
             "name":"ShotA",
             "author":"Someone",
-            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+            "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/1.png",
             "collections":"featured,landscapes,people",
             "downloadable":false
         },
         {
             "name":"ShotB",
             "author":"Someone",
-            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+            "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/2.png",
             "dimensions":"3200x2560",
             "collections":"people,city",
             "downloadable":false
         },
         {
             "author":"Someone",
-            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+            "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/3.png",
             "name":"ShotC",
             "dimensions":"1280x720",
             "copyright":"Credits to its creator",
@@ -48,8 +48,8 @@
         {
             "name":"Wallsplash 1",
             "author":"wallsplash",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+            "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/4.png",
+            "thumbnail":"hhttps://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb4.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
             "collections":"featured,landscapes,people,city"
@@ -66,8 +66,8 @@
         {
             "name":"Wallsplash 3",
             "author":"wallsplash",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
+            "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/5.png",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb5.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
             "collections":"featured,food,people"
