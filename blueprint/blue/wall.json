@@ -26,7 +26,7 @@
             "name":"wallpaper1",
             "author":"wallhaven",
             "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/1.png",
-            "thumbnail":"hhttps://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb1.png",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb1.png",
             "dimensions":"1440x2960",
             "collections":"featured,landscapes,people",
             "downloadable":false
@@ -35,7 +35,7 @@
             "name":"wallpaper2",
             "author":"wallhaven",
             "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/2.png",
-            "thumbnail":"hhttps://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb2.png",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb2.png",
             "dimensions":"1440x2960",
             "collections":"people,city",
             "downloadable":false
@@ -43,7 +43,7 @@
         {
             "author":"wallhaven",
             "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/3.png",
-            "thumbnail":"hhttps://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb3.png",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb3.png",
             "name":"wallpaper3",
             "dimensions":"1440x2960",
             "copyright":"personal use only",
@@ -53,7 +53,7 @@
             "name":"wallpaper4",
             "author":"wallhaven",
             "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/4.png",
-            "thumbnail":"hhttps://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb4.png",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb4.png",
             "dimensions":"1440x2960",
             "copyright":"personal use only",
             "collections":"featured,landscapes,people,city"
