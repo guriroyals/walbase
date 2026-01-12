@@ -1,14 +1,14 @@
 {
     "Wallpapers":[
         {
-            "name":"name of the wallpaper",
-            "author":"author of the wallpaper",
-            "url":"raw github url of the wallpaper",
-            "thumbnail":"raw github wallpaper of the thumbnail",
-            "dimensions":"1440x2960 (dimention of the wallpaper",
+            "name":"samplewall1",
+            "author":"preet",
+            "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/1.png",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb1.png",
+            "dimensions":"1440x2960",
             "copyright":"personal use only",
-            "collections":"categories of the wallpaper. multiple can be seperated by a comma and the wallpaper will be shown in all",
-            "downloadable":false
+            "collections":"sample1,sample2",
+            "downloadable":true
         },
         {
             "name":"sample",
@@ -17,7 +17,7 @@
             "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb2.png",
             "dimensions":"1440x2960",
             "collections":"people,city",
-            "downloadable":false
+            "downloadable":true
         },
     ]
 }
