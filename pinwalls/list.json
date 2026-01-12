@@ -1,0 +1,116 @@
+{
+    "Collections":[
+        {
+            "name":"Landscapes",
+            "preview_url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/1.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb1.png"
+        },
+        {
+            "name":"City",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+        },
+        {
+            "name":"Food",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+        },
+        {
+            "name":"People",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+        }
+    ],
+    "Wallpapers":[
+        {
+            "name":"wallpaper1",
+            "author":"wallhaven",
+            "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/1.png",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb1.png",
+            "dimensions":"1440x2960",
+            "collections":"featured,landscapes,people",
+            "downloadable":false
+        },
+        {
+            "name":"wallpaper2",
+            "author":"wallhaven",
+            "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/2.png",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb2.png",
+            "dimensions":"1440x2960",
+            "collections":"people,city",
+            "downloadable":false
+        },
+        {
+            "author":"wallhaven",
+            "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/3.png",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb3.png",
+            "name":"wallpaper3",
+            "dimensions":"1440x2960",
+            "copyright":"personal use only",
+            "collections":"landscapes,city"
+        },
+        {
+            "name":"wallpaper4",
+            "author":"wallhaven",
+            "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/4.png",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb4.png",
+            "dimensions":"1440x2960",
+            "copyright":"personal use only",
+            "collections":"featured,landscapes,people,city"
+        },
+        {
+            "name":"wallpaper5",
+            "author":"wallhaven",
+            "url":"hhttps://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/5.png",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb5.png",
+            "dimensions":"1440x2960",
+            "copyright":"personal use only",
+            "collections":"featured,landscapes,people,food"
+        },
+        {
+            "name":"wallpaper6",
+            "author":"wallhaven",
+            "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/6.png",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb6.png",
+            "dimensions":"1440x2960",
+            "copyright":"personal use only",
+            "collections":"featured,food,people"
+        },
+        {
+            "name":"wallpaper7",
+            "author":"wallhaven",
+            "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/7.png",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb7.png",
+            "dimensions":"1440x2960",
+            "copyright":"personal use only",
+            "collections":"landscapes,people,city"
+        },
+        {
+            "name":"wallpaper8",
+            "author":"wallhaven",
+            "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/8.png",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb8.png",
+            "dimensions":"1440x2960",
+            "copyright":"personal use only",
+            "collections":"featured,landscapes"
+        },
+        {
+            "name":"wallpaper9",
+            "author":"wallhaven",
+            "url":"hhttps://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/9.png",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb9.png",
+            "dimensions":"1440x2960",
+            "copyright":"personal use only",
+            "collections":"featured,people"
+        },
+        {
+            "name":"wallpaper10",
+            "author":"wallhaven",
+            "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/10.png",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb10.png",
+            "dimensions":"1440x2960",
+            "copyright":"personal use only",
+            "collections":"landscapes,people"
+        }
+    ]
+}
