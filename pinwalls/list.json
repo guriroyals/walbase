@@ -1,24 +1,24 @@
 {
-    "Wallpapers":[
-        {
-            "name":"pagoda",
-            "author":"preet",
-            "url":"https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/pagoda.jpeg",
-            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/pagoda.jpeg",
-            "dimensions":"736x1472",
-            "copyright":"personal use only",
-            "collections":"nature",
-            "downloadable":true
-        },
-        {
-            "name":"mountain in the ocean",
-            "author":"self",
-            "url":"https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/mountain_in_the_ocean.jpeg",
-            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/mountain_in_the_ocean.jpeg",
-            "dimensions":"736x1472",
-            "copyright":"personal use only",
-            "collections":"nature",
-            "downloadable":true
-        },
-    ]
+  "Wallpapers": [
+    {
+      "name": "pagoda",
+      "author": "preet",
+      "url": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/pagoda.jpeg",
+      "thumbnail": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/pagoda.jpeg",
+      "dimensions": "736x1472",
+      "copyright": "personal use only",
+      "collections": "nature, architecture",
+      "downloadable": true
+    },
+    {
+      "name": "mountain in the ocean",
+      "author": "self",
+      "url": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/mountain_in_the_ocean.jpeg",
+      "thumbnail": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/mountain_in_the_ocean.jpeg",
+      "dimensions": "736x1472",
+      "copyright": "personal use only",
+      "collections": "nature",
+      "downloadable": true
+    }
+  ]
 }
