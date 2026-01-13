@@ -1,22 +1,22 @@
 {
     "Wallpapers":[
         {
-            "name":"samplewall1",
+            "name":"pagoda",
             "author":"preet",
-            "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/1.png",
-            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb1.png",
-            "dimensions":"1440x2960",
+            "url":"https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/pagoda.jpeg",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/pagoda.jpeg",
+            "dimensions":"736x1472",
             "copyright":"personal use only",
-            "collections":"sample1,sample2",
+            "collections":"nature",
             "downloadable":true
         },
         {
-            "name":"sample",
+            "name":"mountain in the ocean",
             "author":"self",
-            "url":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/2.png",
-            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/master/blueprint/blue/thumb2.png",
-            "dimensions":"1440x2960",
-            "collections":"people,city",
+            "url":"https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/mountain_in_the_ocean.jpeg",
+            "thumbnail":"https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/mountain_in_the_ocean.jpeg",
+            "dimensions":"736x1472",
+            "collections":"nature",
             "downloadable":true
         },
     ]
