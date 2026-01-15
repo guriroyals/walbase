@@ -1,17 +1,17 @@
 {
   "Wallpapers": [
     {
-      "name": "pagoda",
+      "name": "Pagoda",
       "author": "preet",
       "url": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/pagoda.jpeg",
       "thumbnail": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/pagoda.jpeg",
       "dimensions": "736x1472",
       "copyright": "personal use only",
-      "collections": "nature, architecture",
+      "collections": "architecture",
       "downloadable": true
     },
     {
-      "name": "mountain in the ocean",
+      "name": "Mountain In The Ocean",
       "author": "self",
       "url": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/mountain_in_the_ocean.jpeg",
       "thumbnail": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/mountain_in_the_ocean.jpeg",
@@ -20,8 +20,68 @@
       "collections": "nature",
       "downloadable": true
     },
+     {
+      "name": "Red Lines",
+      "author": "self",
+      "url": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/redilines.jpeg",
+      "thumbnail": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/redilines.jpeg",
+      "dimensions": "736x1411",
+      "copyright": "personal use only",
+      "collections": "patterns",
+      "downloadable": true
+    },
+     {
+      "name": "Green Squiggles",
+      "author": "self",
+      "url": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/green_squigles.jpeg",
+      "thumbnail": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/green_squigles.jpeg",
+      "dimensions": "736x1472",
+      "copyright": "personal use only",
+      "collections": "patterns",
+      "downloadable": true
+    },
+     {
+      "name": "Desert",
+      "author": "self",
+      "url": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/desert.jpeg",
+      "thumbnail": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/desert.jpeg",
+      "dimensions": "736x1472",
+      "copyright": "personal use only",
+      "collections": "nature",
+      "downloadable": true
+    },
+     {
+      "name": "Shipwreck",
+      "author": "self",
+      "url": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/shipwreck.jpeg",
+      "thumbnail": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/shipwreck.jpeg",
+      "dimensions": "564x128",
+      "copyright": "personal use only",
+      "collections": "nature",
+      "downloadable": true
+    },
+     {
+      "name": "Taj Mahal",
+      "author": "self",
+      "url": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/tajmahal.jpeg",
+      "thumbnail": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/tajmahal.jpeg",
+      "dimensions": "736x1308",
+      "copyright": "personal use only",
+      "collections": "architecture",
+      "downloadable": true
+    },
+     {
+      "name": "Arch",
+      "author": "self",
+      "url": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/arch.jpeg",
+      "thumbnail": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/arch.jpeg",
+      "dimensions": "736x155",
+      "copyright": "personal use only",
+      "collections": "architecture",
+      "downloadable": true
+    },
     {
-      "name": "cats on the wall",
+      "name": "Cats On The Wall",
       "author": "self",
       "url": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/cats_on_the_wall.jpeg",
       "thumbnail": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/cats_on_the_wall.jpeg",
