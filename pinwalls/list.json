@@ -1,11 +1,5 @@
 {
 "Wallpapers": [
-      "Notification": {
-    "id":1,
-    "title": "initial release!",
-    "message": "Check out the brand spanking app.",
-    "enabled": true
-  }
     {
       "name": "Pagoda",
       "author": "preet",
@@ -1897,4 +1891,10 @@
     "downloadable": true
   }
 ]
+      "Notification": {
+    "id":1,
+    "title": "initial release!",
+    "message": "Check out the brand spanking app.",
+    "enabled": true
+  }
 }
