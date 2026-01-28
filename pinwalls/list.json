@@ -1807,16 +1807,6 @@
     "downloadable": true
   },
   {
-    "name": "abstract_waves_pattern.jpg",
-    "author": "preet",
-    "url": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/abstract_waves_pattern.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/abstract_waves_pattern.jpg",
-    "dimensions": "236x515",
-    "copyright": "personal use only",
-    "collections": "patterns",
-    "downloadable": true
-  },
-  {
     "name": "white_sports_car_1.jpg",
     "author": "preet",
     "url": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/white_sports_car_1.jpg",
@@ -1824,16 +1814,6 @@
     "dimensions": "236x472",
     "copyright": "personal use only",
     "collections": "machines",
-    "downloadable": true
-  },
-  {
-    "name": "mechanical_pattern.jpg",
-    "author": "preet",
-    "url": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/mechanical_pattern.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/mechanical_pattern.jpg",
-    "dimensions": "236x435",
-    "copyright": "personal use only",
-    "collections": "patterns",
     "downloadable": true
   },
   {
