@@ -7,7 +7,7 @@
       "thumbnail": "pagoda.jpeg",
       "dimensions": "736x1472",
       "copyright": "personal use only",
-      "collections": "architecture",
+      "collections": "Architecture",
       "downloadable": true
     },
     {
@@ -17,7 +17,7 @@
       "thumbnail": "mountain_in_the_ocean.jpeg",
       "dimensions": "736x1472",
       "copyright": "personal use only",
-      "collections": "nature",
+      "collections": "Nature",
       "downloadable": true
     },
      {
@@ -27,7 +27,7 @@
       "thumbnail": "redilines.jpeg",
       "dimensions": "736x1411",
       "copyright": "personal use only",
-      "collections": "patterns",
+      "collections": "Patterns",
       "downloadable": true
     },
      {
@@ -37,7 +37,7 @@
       "thumbnail": "green_squigles.jpeg",
       "dimensions": "736x1472",
       "copyright": "personal use only",
-      "collections": "patterns",
+      "collections": "Patterns",
       "downloadable": true
     },
      {
@@ -47,7 +47,7 @@
       "thumbnail": "desert.jpeg",
       "dimensions": "736x1472",
       "copyright": "personal use only",
-      "collections": "nature",
+      "collections": "Nature",
       "downloadable": true
     },
      {
@@ -57,7 +57,7 @@
       "thumbnail": "shipwreck.jpeg",
       "dimensions": "564x128",
       "copyright": "personal use only",
-      "collections": "nature",
+      "collections": "Nature",
       "downloadable": true
     },
      {
@@ -67,7 +67,7 @@
       "thumbnail": "tajmahal.jpeg",
       "dimensions": "736x1308",
       "copyright": "personal use only",
-      "collections": "architecture",
+      "collections": "Architecture",
       "downloadable": true
     },
      {
@@ -77,17 +77,7 @@
       "thumbnail": "arch.jpeg",
       "dimensions": "736x155",
       "copyright": "personal use only",
-      "collections": "architecture",
-      "downloadable": true
-    },
-    {
-      "name": "Cats On The Wall",
-      "author": "self",
-      "url": "cats_on_the_wall.jpeg",
-      "thumbnail": "cats_on_the_wall.jpeg",
-      "dimensions": "736x1472",
-      "copyright": "personal use only",
-      "collections": "animals",
+      "collections": "Architecture",
       "downloadable": true
     },
   {
@@ -97,7 +87,7 @@
     "thumbnail": "red_roof_structure.jpg",
     "dimensions": "1080x1927",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -107,7 +97,7 @@
     "thumbnail": "modern_house_landscape.jpg",
     "dimensions": "2880x5120",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -117,7 +107,7 @@
     "thumbnail": "stonehenge_night_sky.jpg",
     "dimensions": "1200x2133",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -127,7 +117,7 @@
     "thumbnail": "colosseum_at_night.jpg",
     "dimensions": "2048x4096",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -137,7 +127,7 @@
     "thumbnail": "road_clouds_sunset.jpg",
     "dimensions": "1179x2358",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -147,7 +137,7 @@
     "thumbnail": "orange_flower_closeup.png",
     "dimensions": "1440x3200",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -157,7 +147,7 @@
     "thumbnail": "ferris_wheel_night.jpg",
     "dimensions": "736x1592",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -167,7 +157,7 @@
     "thumbnail": "red_flower_bloom.jpg",
     "dimensions": "1080x2340",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -187,7 +177,7 @@
     "thumbnail": "historic_building.jpg",
     "dimensions": "640x1280",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -197,7 +187,7 @@
     "thumbnail": "urban_building_corner.jpg",
     "dimensions": "946x2048",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -207,7 +197,7 @@
     "thumbnail": "mountain_landscape_night.jpg",
     "dimensions": "1170x2595",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -217,7 +207,7 @@
     "thumbnail": "historic_building_sunset.jpg",
     "dimensions": "1200x2531",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -227,7 +217,7 @@
     "thumbnail": "blue_frog_macro.jpg",
     "dimensions": "736x1595",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -247,7 +237,7 @@
     "thumbnail": "mountain_stream_scene.jpg",
     "dimensions": "1200x2656",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -267,7 +257,7 @@
     "thumbnail": "purple_flower_bush.jpg",
     "dimensions": "736x1592",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -277,7 +267,7 @@
     "thumbnail": "towering_clocktower.jpg",
     "dimensions": "1174x2544",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -287,7 +277,7 @@
     "thumbnail": "black_horse_fog.jpg",
     "dimensions": "1095x2374",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -297,7 +287,7 @@
     "thumbnail": "serene_hillside_hut.jpg",
     "dimensions": "944x2161",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -317,7 +307,7 @@
     "thumbnail": "blue_flower_closeup.png",
     "dimensions": "1440x3200",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -327,7 +317,7 @@
     "thumbnail": "elephant_in_mist.jpg",
     "dimensions": "945x2048",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -337,7 +327,7 @@
     "thumbnail": "modern_house_forest.jpg",
     "dimensions": "1080x2340",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -347,7 +337,7 @@
     "thumbnail": "purple_flower_closeup.jpg",
     "dimensions": "944x2046",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -357,7 +347,7 @@
     "thumbnail": "abstract_patterns.jpg",
     "dimensions": "554x1200",
     "copyright": "personal use only",
-    "collections": "patterns",
+    "collections": "Patterns",
     "downloadable": true
   },
   {
@@ -367,7 +357,7 @@
     "thumbnail": "purple_flower_vase.jpg",
     "dimensions": "1179x2614",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -377,7 +367,7 @@
     "thumbnail": "mount_fuji_landscape.jpg",
     "dimensions": "828x1839",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -387,7 +377,7 @@
     "thumbnail": "green_leaves_texture.jpg",
     "dimensions": "945x2048",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -397,7 +387,7 @@
     "thumbnail": "misty_architecture.jpg",
     "dimensions": "736x1633",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -407,7 +397,7 @@
     "thumbnail": "surreal_road_clouds.jpg",
     "dimensions": "736x1308",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -417,7 +407,7 @@
     "thumbnail": "stacked_stones.jpg",
     "dimensions": "736x1643",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -427,7 +417,7 @@
     "thumbnail": "serene_nature_landscape.jpg",
     "dimensions": "1200x2400",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -437,7 +427,7 @@
     "thumbnail": "mountain_landscape.jpg",
     "dimensions": "2944x6400",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -447,7 +437,7 @@
     "thumbnail": "purple_flower_landscape.jpg",
     "dimensions": "2944x6400",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -457,7 +447,7 @@
     "thumbnail": "pink_flower_field.jpg",
     "dimensions": "736x1303",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -467,7 +457,7 @@
     "thumbnail": "flower_branch_red.jpg",
     "dimensions": "736x1398",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -477,7 +467,7 @@
     "thumbnail": "cherry_blossom_branch.jpg",
     "dimensions": "1110x1973",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -487,7 +477,7 @@
     "thumbnail": "cherry_blossom_branch_1.jpg",
     "dimensions": "1143x2048",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -497,7 +487,7 @@
     "thumbnail": "pink_flower_branch.jpg",
     "dimensions": "1908x3428",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -507,7 +497,7 @@
     "thumbnail": "purple_flower_blossoms.jpg",
     "dimensions": "1080x2340",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -517,7 +507,7 @@
     "thumbnail": "campsite_night_scene.jpg",
     "dimensions": "1080x1853",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -527,7 +517,7 @@
     "thumbnail": "modern_forest_house.jpg",
     "dimensions": "1080x2418",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -537,7 +527,7 @@
     "thumbnail": "windmill_sunset_sky.jpg",
     "dimensions": "2048x4096",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -547,7 +537,7 @@
     "thumbnail": "sunset_over_field.jpg",
     "dimensions": "1272x2168",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -557,7 +547,7 @@
     "thumbnail": "abandoned_wagon_field.jpg",
     "dimensions": "1080x1920",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -567,7 +557,7 @@
     "thumbnail": "windmill_wheat_field.jpg",
     "dimensions": "1080x1920",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -577,7 +567,7 @@
     "thumbnail": "serene_winter_landscape.jpg",
     "dimensions": "1080x1920",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -587,7 +577,7 @@
     "thumbnail": "snowy_train_landscape.jpg",
     "dimensions": "1262x2216",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -597,7 +587,7 @@
     "thumbnail": "hogwarts_sign_night.jpg",
     "dimensions": "2304x4096",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -607,7 +597,7 @@
     "thumbnail": "sleeping_cat.jpg",
     "dimensions": "1302x2312",
     "copyright": "personal use only",
-    "collections": "animals",
+    "collections": "Animals",
     "downloadable": true
   },
   {
@@ -617,7 +607,7 @@
     "thumbnail": "grey_tabby_cat.jpg",
     "dimensions": "720x1560",
     "copyright": "personal use only",
-    "collections": "animals",
+    "collections": "Animals",
     "downloadable": true
   },
   {
@@ -627,7 +617,7 @@
     "thumbnail": "traditional_japanese_street.jpg",
     "dimensions": "1420x3073",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -647,7 +637,7 @@
     "thumbnail": "dark_red_foliage.jpg",
     "dimensions": "735x1272",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -657,7 +647,7 @@
     "thumbnail": "pink_blossom_branch.jpg",
     "dimensions": "1080x2160",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -667,7 +657,7 @@
     "thumbnail": "purple_flower.jpg",
     "dimensions": "576x1024",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -677,7 +667,7 @@
     "thumbnail": "lavender_field_bench.jpg",
     "dimensions": "1200x2133",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -687,7 +677,7 @@
     "thumbnail": "purple_tulips.jpg",
     "dimensions": "800x1422",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -697,7 +687,7 @@
     "thumbnail": "cherry_blossom_scene.jpg",
     "dimensions": "2048x4096",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -707,7 +697,7 @@
     "thumbnail": "car_in_foggy_forest.jpg",
     "dimensions": "1170x2340",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -727,7 +717,7 @@
     "thumbnail": "lonely_tree_landscape.jpg",
     "dimensions": "1440x2569",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -737,7 +727,7 @@
     "thumbnail": "blue_flower_night.jpg",
     "dimensions": "736x1262",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -747,7 +737,7 @@
     "thumbnail": "purple_flower_in_dark.jpg",
     "dimensions": "1178x2160",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -757,7 +747,7 @@
     "thumbnail": "purple_flower_1.jpg",
     "dimensions": "736x1472",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -767,7 +757,7 @@
     "thumbnail": "purple_flower_2.jpg",
     "dimensions": "640x1280",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -777,7 +767,7 @@
     "thumbnail": "purple_flower_details.jpg",
     "dimensions": "2944x6400",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -787,7 +777,7 @@
     "thumbnail": "blossoming_night_sky.jpg",
     "dimensions": "1080x1900",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -797,7 +787,7 @@
     "thumbnail": "abstract_black_hills.png",
     "dimensions": "1200x2400",
     "copyright": "personal use only",
-    "collections": "patterns",
+    "collections": "Patterns",
     "downloadable": true
   },
   {
@@ -807,7 +797,7 @@
     "thumbnail": "snow_capped_mountain.jpg",
     "dimensions": "1200x2133",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -817,7 +807,7 @@
     "thumbnail": "abstract_art_patterns.jpg",
     "dimensions": "2304x4096",
     "copyright": "personal use only",
-    "collections": "patterns",
+    "collections": "Patterns",
     "downloadable": true
   },
   {
@@ -827,7 +817,7 @@
     "thumbnail": "abstract_patterns_black.jpg",
     "dimensions": "638x1134",
     "copyright": "personal use only",
-    "collections": "patterns",
+    "collections": "Patterns",
     "downloadable": true
   },
   {
@@ -837,7 +827,7 @@
     "thumbnail": "bridge_under_fog.jpg",
     "dimensions": "1242x2208",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -847,7 +837,7 @@
     "thumbnail": "street_lights_fog.jpg",
     "dimensions": "720x1249",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -877,7 +867,7 @@
     "thumbnail": "daisy_flowers_sky.jpg",
     "dimensions": "1080x1920",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -887,7 +877,7 @@
     "thumbnail": "sleeping_cat_1.jpg",
     "dimensions": "1080x1920",
     "copyright": "personal use only",
-    "collections": "animals",
+    "collections": "Animals",
     "downloadable": true
   },
   {
@@ -897,7 +887,7 @@
     "thumbnail": "sleeping_black_cat.png",
     "dimensions": "816x1456",
     "copyright": "personal use only",
-    "collections": "animals",
+    "collections": "Animals",
     "downloadable": true
   },
   {
@@ -907,7 +897,7 @@
     "thumbnail": "cat_under_tree.jpg",
     "dimensions": "1343x2374",
     "copyright": "personal use only",
-    "collections": "animals",
+    "collections": "Animals",
     "downloadable": true
   },
   {
@@ -917,7 +907,7 @@
     "thumbnail": "cat_on_wall.jpg",
     "dimensions": "1211x2160",
     "copyright": "personal use only",
-    "collections": "animals",
+    "collections": "Animals",
     "downloadable": true
   },
   {
@@ -927,7 +917,7 @@
     "thumbnail": "sunset_street_scene.jpg",
     "dimensions": "736x1308",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -937,7 +927,7 @@
     "thumbnail": "cherry_blossom_scenery.jpg",
     "dimensions": "736x1308",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -947,7 +937,7 @@
     "thumbnail": "pink_tree_reflection.jpg",
     "dimensions": "1181x2559",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -957,7 +947,7 @@
     "thumbnail": "offroad_adventure.png",
     "dimensions": "816x1456",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1087,7 +1077,7 @@
     "thumbnail": "modern_architecture_palette.jpg",
     "dimensions": "2048x4096",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -1097,7 +1087,7 @@
     "thumbnail": "cats_on_wall.jpg",
     "dimensions": "1035x2048",
     "copyright": "personal use only",
-    "collections": "animals",
+    "collections": "Animals",
     "downloadable": true
   },
   {
@@ -1107,7 +1097,7 @@
     "thumbnail": "camels_desert_sunset.jpg",
     "dimensions": "768x1376",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1117,7 +1107,7 @@
     "thumbnail": "camel_and_palm_tree.png",
     "dimensions": "1632x2912",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1157,7 +1147,7 @@
     "thumbnail": "offroad_vehicle_mountains.jpg",
     "dimensions": "945x2048",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1167,7 +1157,7 @@
     "thumbnail": "boat_on_lily_pads.jpg",
     "dimensions": "736x1595",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1177,7 +1167,7 @@
     "thumbnail": "waterfall_nature_scene.jpg",
     "dimensions": "1016x2032",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1187,7 +1177,7 @@
     "thumbnail": "glowing_waterfall_night.jpg",
     "dimensions": "2048x4096",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1197,7 +1187,7 @@
     "thumbnail": "tree_under_starry_sky.jpg",
     "dimensions": "2048x4096",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1207,7 +1197,7 @@
     "thumbnail": "blue_flower_field.jpg",
     "dimensions": "736x1469",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1217,7 +1207,7 @@
     "thumbnail": "yellow_flower_field.jpg",
     "dimensions": "1272x2544",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1227,7 +1217,7 @@
     "thumbnail": "water_lilies_surface.jpg",
     "dimensions": "1080x1919",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1237,7 +1227,7 @@
     "thumbnail": "blue_flower_vines.jpg",
     "dimensions": "736x1308",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1247,7 +1237,7 @@
     "thumbnail": "red_flowering_branch.jpg",
     "dimensions": "750x1500",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1257,7 +1247,7 @@
     "thumbnail": "cherry_blossoms_night.jpg",
     "dimensions": "736x1313",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1267,7 +1257,7 @@
     "thumbnail": "blue_flower_bloom.jpg",
     "dimensions": "736x1600",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1277,7 +1267,7 @@
     "thumbnail": "mountain_sunset_view.jpg",
     "dimensions": "848x1696",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1287,7 +1277,7 @@
     "thumbnail": "mountain_sunset_view_1.jpg",
     "dimensions": "2048x4096",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1307,7 +1297,7 @@
     "thumbnail": "moonlit_tree.jpg",
     "dimensions": "1080x1920",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1317,7 +1307,7 @@
     "thumbnail": "night_cottage_lilies.jpg",
     "dimensions": "1440x2520",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1327,7 +1317,7 @@
     "thumbnail": "lotus_flower_water.png",
     "dimensions": "1696x3392",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1337,7 +1327,7 @@
     "thumbnail": "water_lilies_pond.jpg",
     "dimensions": "1039x1847",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1347,7 +1337,7 @@
     "thumbnail": "tulip_field_sunset.jpg",
     "dimensions": "717x1280",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1357,7 +1347,7 @@
     "thumbnail": "purple_tree_bench.jpg",
     "dimensions": "2048x4096",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1367,7 +1357,7 @@
     "thumbnail": "lavender_field_house.jpg",
     "dimensions": "2304x4096",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1377,7 +1367,7 @@
     "thumbnail": "purple_flower_field.jpg",
     "dimensions": "720x1280",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1387,7 +1377,7 @@
     "thumbnail": "moonlit_flower_field.jpg",
     "dimensions": "1272x2544",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1397,7 +1387,7 @@
     "thumbnail": "moonlit_red_blossoms.jpg",
     "dimensions": "1080x1920",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1407,7 +1397,7 @@
     "thumbnail": "tree_house_lake.jpg",
     "dimensions": "1080x1920",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1417,7 +1407,7 @@
     "thumbnail": "cabin_in_nature.jpg",
     "dimensions": "1080x1884",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1427,7 +1417,7 @@
     "thumbnail": "train_in_nature.jpg",
     "dimensions": "1080x1927",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1437,7 +1427,7 @@
     "thumbnail": "train_over_bridge.jpg",
     "dimensions": "1080x1927",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1447,7 +1437,7 @@
     "thumbnail": "urban_scene_with_trees.jpg",
     "dimensions": "1080x1848",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -1457,7 +1447,7 @@
     "thumbnail": "bus_stop_scenery.jpg",
     "dimensions": "1080x1920",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1467,7 +1457,7 @@
     "thumbnail": "cherry_blossoms_mountain.jpg",
     "dimensions": "1440x2560",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1477,7 +1467,7 @@
     "thumbnail": "mountain_landscape_1.jpg",
     "dimensions": "1181x2559",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1487,7 +1477,7 @@
     "thumbnail": "mountain_station_scene.jpg",
     "dimensions": "2172x3840",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1497,7 +1487,7 @@
     "thumbnail": "sunset_street_scene_1.jpg",
     "dimensions": "810x1440",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1507,7 +1497,7 @@
     "thumbnail": "sunset_landscape.jpg",
     "dimensions": "1200x2400",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1517,7 +1507,7 @@
     "thumbnail": "mountain_pagoda_sunset.jpg",
     "dimensions": "1440x2532",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1527,7 +1517,7 @@
     "thumbnail": "black_cat_cherry_blossoms.jpg",
     "dimensions": "1024x2048",
     "copyright": "personal use only",
-    "collections": "animals",
+    "collections": "Animals",
     "downloadable": true
   },
   {
@@ -1537,7 +1527,7 @@
     "thumbnail": "pink_tree_mountain.jpg",
     "dimensions": "1080x1920",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1547,7 +1537,7 @@
     "thumbnail": "mountain_with_tree.jpg",
     "dimensions": "1080x1927",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1567,7 +1557,7 @@
     "thumbnail": "lighthouse_at_sunset.png",
     "dimensions": "2184x4368",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1577,7 +1567,7 @@
     "thumbnail": "rocket_launch_night.png",
     "dimensions": "1536x3072",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1597,7 +1587,7 @@
     "thumbnail": "mountains_moonlight.jpg",
     "dimensions": "848x1696",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1607,7 +1597,7 @@
     "thumbnail": "starry_mountain_cabin.jpg",
     "dimensions": "736x1313",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1617,7 +1607,7 @@
     "thumbnail": "northern_lights_cabin.png",
     "dimensions": "1200x2400",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1627,7 +1617,7 @@
     "thumbnail": "night_sky_cottage.jpg",
     "dimensions": "1440x2520",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1637,7 +1627,7 @@
     "thumbnail": "cozy_night_scene.jpg",
     "dimensions": "720x1285",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -1647,7 +1637,7 @@
     "thumbnail": "campfire_night_scene.jpg",
     "dimensions": "720x1285",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1657,7 +1647,7 @@
     "thumbnail": "cozy_japanese_street.jpg",
     "dimensions": "1080x1920",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -1667,7 +1657,7 @@
     "thumbnail": "boat_in_forest.jpg",
     "dimensions": "848x1696",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1677,7 +1667,7 @@
     "thumbnail": "starry_night_van.jpg",
     "dimensions": "574x1024",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1687,7 +1677,7 @@
     "thumbnail": "moody_road_landscape.jpg",
     "dimensions": "720x1280",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1697,7 +1687,7 @@
     "thumbnail": "snowy_forest_deer.jpg",
     "dimensions": "896x1593",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1707,7 +1697,7 @@
     "thumbnail": "snowy_mountain_city.jpg",
     "dimensions": "747x1330",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1717,7 +1707,7 @@
     "thumbnail": "frosty_tree_branch.png",
     "dimensions": "752x1504",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1727,7 +1717,7 @@
     "thumbnail": "night_camping_scene.jpg",
     "dimensions": "736x1472",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1737,7 +1727,7 @@
     "thumbnail": "green_house_mountain.jpg",
     "dimensions": "736x1308",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1747,7 +1737,7 @@
     "thumbnail": "vintage_van_nature.jpg",
     "dimensions": "736x1288",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1757,7 +1747,7 @@
     "thumbnail": "foxes_at_sunset.jpg",
     "dimensions": "897x1595",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1767,7 +1757,7 @@
     "thumbnail": "monochrome_rock_island.jpg",
     "dimensions": "236x511",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1777,7 +1767,7 @@
     "thumbnail": "black_and_white_tree.jpg",
     "dimensions": "236x510",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1787,7 +1777,7 @@
     "thumbnail": "orange_house_mountain.jpg",
     "dimensions": "236x510",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1817,7 +1807,7 @@
     "thumbnail": "abstract_flower_pattern.jpg",
     "dimensions": "236x472",
     "copyright": "personal use only",
-    "collections": "patterns",
+    "collections": "Patterns",
     "downloadable": true
   },
   {
@@ -1827,7 +1817,7 @@
     "thumbnail": "dark_flower_pattern.jpg",
     "dimensions": "236x472",
     "copyright": "personal use only",
-    "collections": "patterns",
+    "collections": "Patterns",
     "downloadable": true
   },
   {
@@ -1837,7 +1827,7 @@
     "thumbnail": "blue_flower_pattern.jpg",
     "dimensions": "236x511",
     "copyright": "personal use only",
-    "collections": "patterns",
+    "collections": "Patterns",
     "downloadable": true
   },
   {
@@ -1847,7 +1837,7 @@
     "thumbnail": "colosseum_night_view.jpg",
     "dimensions": "236x513",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -1857,7 +1847,7 @@
     "thumbnail": "kaaba_view_night.jpg",
     "dimensions": "236x510",
     "copyright": "personal use only",
-    "collections": "architecture",
+    "collections": "Architecture",
     "downloadable": true
   },
   {
@@ -1867,7 +1857,7 @@
     "thumbnail": "giraffe_portrait.jpg",
     "dimensions": "236x511",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
@@ -1877,7 +1867,7 @@
     "thumbnail": "rocky_coastline_water.jpg",
     "dimensions": "236x512",
     "copyright": "personal use only",
-    "collections": "nature",
+    "collections": "Nature",
     "downloadable": true
   },
   {
