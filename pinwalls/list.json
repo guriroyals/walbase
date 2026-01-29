@@ -87,7 +87,7 @@
       "thumbnail": "cats_on_the_wall.jpeg",
       "dimensions": "736x1472",
       "copyright": "personal use only",
-      "collections": "cats",
+      "collections": "animals",
       "downloadable": true
     },
   {
@@ -111,7 +111,7 @@
     "downloadable": true
   },
   {
-    "name": "stonehenge_night_sky.jpg",
+    "name": "Stonehenge Night Sky.jpg",
     "author": "preet",
     "url": "stonehenge_night_sky.jpg",
     "thumbnail": "stonehenge_night_sky.jpg",
@@ -121,7 +121,7 @@
     "downloadable": true
   },
   {
-    "name": "colosseum_at_night.jpg",
+    "name": "Colosseum At Night.jpg",
     "author": "preet",
     "url": "colosseum_at_night.jpg",
     "thumbnail": "colosseum_at_night.jpg",
@@ -131,7 +131,7 @@
     "downloadable": true
   },
   {
-    "name": "road_clouds_sunset.jpg",
+    "name": "Road Clouds Sunset.jpg",
     "author": "preet",
     "url": "road_clouds_sunset.jpg",
     "thumbnail": "road_clouds_sunset.jpg",
@@ -607,7 +607,7 @@
     "thumbnail": "sleeping_cat.jpg",
     "dimensions": "1302x2312",
     "copyright": "personal use only",
-    "collections": "cats",
+    "collections": "animals",
     "downloadable": true
   },
   {
@@ -617,7 +617,7 @@
     "thumbnail": "grey_tabby_cat.jpg",
     "dimensions": "720x1560",
     "copyright": "personal use only",
-    "collections": "cats",
+    "collections": "animals",
     "downloadable": true
   },
   {
@@ -887,7 +887,7 @@
     "thumbnail": "sleeping_cat_1.jpg",
     "dimensions": "1080x1920",
     "copyright": "personal use only",
-    "collections": "cats",
+    "collections": "animals",
     "downloadable": true
   },
   {
@@ -897,7 +897,7 @@
     "thumbnail": "sleeping_black_cat.png",
     "dimensions": "816x1456",
     "copyright": "personal use only",
-    "collections": "cats",
+    "collections": "animals",
     "downloadable": true
   },
   {
@@ -907,7 +907,7 @@
     "thumbnail": "cat_under_tree.jpg",
     "dimensions": "1343x2374",
     "copyright": "personal use only",
-    "collections": "cats",
+    "collections": "animals",
     "downloadable": true
   },
   {
@@ -917,7 +917,7 @@
     "thumbnail": "cat_on_wall.jpg",
     "dimensions": "1211x2160",
     "copyright": "personal use only",
-    "collections": "cats",
+    "collections": "animals",
     "downloadable": true
   },
   {
@@ -1097,7 +1097,7 @@
     "thumbnail": "cats_on_wall.jpg",
     "dimensions": "1035x2048",
     "copyright": "personal use only",
-    "collections": "cats",
+    "collections": "animals",
     "downloadable": true
   },
   {
@@ -1527,7 +1527,7 @@
     "thumbnail": "black_cat_cherry_blossoms.jpg",
     "dimensions": "1024x2048",
     "copyright": "personal use only",
-    "collections": "cats",
+    "collections": "animals",
     "downloadable": true
   },
   {
