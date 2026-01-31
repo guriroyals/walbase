@@ -11,6 +11,86 @@
       "downloadable": true
     },
     {
+      "name": "Camper Van",
+      "author": "reddit",
+      "url": "camper_van.jpg",
+      "thumbnail": "camper_van.jpg",
+      "dimensions": "736x1472",
+      "copyright": "personal use only",
+      "collections": "Amoled",
+      "downloadable": true
+    },
+    {
+      "name": "Cortana",
+      "author": "reddit",
+      "url": "cortana.jpg",
+      "thumbnail": "cortana.jpg",
+      "dimensions": "736x1472",
+      "copyright": "personal use only",
+      "collections": "Amoled",
+      "downloadable": true
+    },
+    {
+      "name": "Earth View",
+      "author": "reddit",
+      "url": "earth_view.jpg",
+      "thumbnail": "earth_view.jpg",
+      "dimensions": "736x1472",
+      "copyright": "personal use only",
+      "collections": "Amoled",
+      "downloadable": true
+    },
+    {
+      "name": "Flower Skull",
+      "author": "reddit",
+      "url": "flower_skull.jpg",
+      "thumbnail": "flower_skull.jpg",
+      "dimensions": "736x1472",
+      "copyright": "personal use only",
+      "collections": "Amoled",
+      "downloadable": true
+    },
+    {
+      "name": "Gameboy Exploded",
+      "author": "reddit",
+      "url": "gameboy_exploded.jpg",
+      "thumbnail": "gameboy_exploded.jpg",
+      "dimensions": "736x1472",
+      "copyright": "personal use only",
+      "collections": "Amoled",
+      "downloadable": true
+    },
+    {
+      "name": "Night Streetlight",
+      "author": "reddit",
+      "url": "night_streetlighr.jpg",
+      "thumbnail": "night_streetlighr.jpg",
+      "dimensions": "736x1472",
+      "copyright": "personal use only",
+      "collections": "Amoled",
+      "downloadable": true
+    },
+    {
+      "name": "Pulled Back",
+      "author": "reddit",
+      "url": "pulled_back.jpg",
+      "thumbnail": "pulled_back.jpg",
+      "dimensions": "736x1472",
+      "copyright": "personal use only",
+      "collections": "Amoled",
+      "downloadable": true
+    },
+    {
+      "name": "Through The Forest",
+      "author": "reddit",
+      "url": "through_the_forest.jpg",
+      "thumbnail": "through_the_forest.jpg",
+      "dimensions": "736x1472",
+      "copyright": "personal use only",
+      "collections": "Amoled",
+      "downloadable": true
+    },
+    {
       "name": "Pagoda",
       "author": "preet",
       "url": "pagoda.jpeg",
