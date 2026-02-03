@@ -1,6 +1,6 @@
 {
   "Wallpapers": [
-  {
+    {
     "name": "Ghost With Guitar",
     "author": "sophia",
     "dimensions": "2160x3840",
@@ -21654,8 +21654,9 @@
   }
 ],
   "Notification": {
-    "id": 1,
-    "title": "New Wallpapers!",
-    "message": "Check out the latest additions.",
+    "id": 2,
+    "title": "removed 8 wallpapers",
+    "message": "fixed crash for amoled",
     "enabled": true
   }
+}
