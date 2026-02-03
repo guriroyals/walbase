@@ -21651,4 +21651,10 @@
     "url": "pyramid_sunset_pixel.png",
     "thumbnail": "thumbnails/pyramid_sunset_pixel_thumb.jpg"
   }
-]
+],
+  "Notification": {
+    "id": 1,
+    "title": "New Wallpapers!",
+    "message": "Check out the latest additions.",
+    "enabled": true
+  }
