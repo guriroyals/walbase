@@ -1882,9 +1882,9 @@
     }
   ],
   "Notification": {
-    "id": 1,
-    "title": "initial release!",
-    "message": "Check out the brand spanking app.",
+    "id": 2,
+    "title": "removed 8 wallpapers",
+    "message": "fixed crash for amoled",
     "enabled": true
   }
 }
