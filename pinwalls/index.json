@@ -1,0 +1,47 @@
+{
+  "version": "2026-02-12",
+  "totalWallpapers": 1274,
+  "baseUrl": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/",
+  "categories": [
+    {
+      "name": "Nature",
+      "file": "categories/nature.json",
+      "count": 412
+    },
+    {
+      "name": "Amoled",
+      "file": "categories/amoled.json",
+      "count": 300
+    },
+    {
+      "name": "Ghibli Inspired",
+      "file": "categories/ghibli_inspired.json",
+      "count": 145
+    },
+    {
+      "name": "Architecture",
+      "file": "categories/architecture.json",
+      "count": 137
+    },
+    {
+      "name": "8bit Design",
+      "file": "categories/8bit_design.json",
+      "count": 129
+    },
+    {
+      "name": "Machines",
+      "file": "categories/machines.json",
+      "count": 83
+    },
+    {
+      "name": "Patterns",
+      "file": "categories/patterns.json",
+      "count": 38
+    },
+    {
+      "name": "Animals",
+      "file": "categories/animals.json",
+      "count": 30
+    }
+  ]
+}
