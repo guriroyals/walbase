@@ -1,1838 +1,1840 @@
-[
-    {
-        "name": "Coffee Book Table",
-        "author": "Unknown",
-        "dimensions": "946x2048",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "warm",
-            "cozy",
-            "relaxing",
-            "interior",
-            "still-life"
-        ],
-        "downloadable": true,
-        "url": "Abstract/coffee_book_table.jpg",
-        "thumbnail": "thumbnails/Abstract/coffee_book_table_thumb.jpg"
-    },
-    {
-        "name": "Traffic Light Neon",
-        "author": "ali.zn",
-        "dimensions": "555x1200",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "mystical",
-            "vibrant",
-            "night",
-            "urban",
-            "light"
-        ],
-        "downloadable": true,
-        "url": "Abstract/traffic_light_neon.jpg",
-        "thumbnail": "thumbnails/Abstract/traffic_light_neon_thumb.jpg"
-    },
-    {
-        "name": "Indoor Potted Plant",
-        "author": "Unknown",
-        "dimensions": "1080x2400",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "calm",
-            "greenery",
-            "minimalist",
-            "nature"
-        ],
-        "downloadable": true,
-        "url": "Abstract/indoor_potted_plant.jpg",
-        "thumbnail": "thumbnails/Abstract/indoor_potted_plant_thumb.jpg"
-    },
-    {
-        "name": "Bicycle Table Coffee",
-        "author": "Unknown",
-        "dimensions": "591x1280",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "warm",
-            "relaxed",
-            "urban",
-            "cozy",
-            "lifestyle"
-        ],
-        "downloadable": true,
-        "url": "Abstract/bicycle_table_coffee.jpg",
-        "thumbnail": "thumbnails/Abstract/bicycle_table_coffee_thumb.jpg"
-    },
-    {
-        "name": "Coffee Starbucks Cup",
-        "author": "Unknown",
-        "dimensions": "736x1600",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "cozy",
-            "beverage",
-            "modern",
-            "cafe"
-        ],
-        "downloadable": true,
-        "url": "Abstract/coffee_starbucks_cup.jpg",
-        "thumbnail": "thumbnails/Abstract/coffee_starbucks_cup_thumb.jpg"
-    },
-    {
-        "name": "Minimalist Vase Branches",
-        "author": "Unknown",
-        "dimensions": "1003x2227",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "neutral",
-            "calm",
-            "still_life",
-            "decor",
-            "elegant"
-        ],
-        "downloadable": true,
-        "url": "Abstract/minimalist_vase_branches.jpg",
-        "thumbnail": "thumbnails/Abstract/minimalist_vase_branches_thumb.jpg"
-    },
-    {
-        "name": "Abstract Wave Design",
-        "author": "Creative Paper • LexinColor",
-        "dimensions": "1440x3200",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "light",
-            "soft",
-            "minimalistic",
-            "flowing",
-            "modern"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_wave_design.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_wave_design_thumb.jpg"
-    },
-    {
-        "name": "Colorful Glass Lamps",
-        "author": "Unknown",
-        "dimensions": "1847x4096",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "modern",
-            "light",
-            "decor",
-            "warm"
-        ],
-        "downloadable": true,
-        "url": "Abstract/colorful_glass_lamps.jpg",
-        "thumbnail": "thumbnails/Abstract/colorful_glass_lamps_thumb.jpg"
-    },
-    {
-        "name": "Camera Lens Closeup",
-        "author": "Unknown",
-        "dimensions": "1290x2796",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "modern",
-            "photography",
-            "detailed",
-            "equipment"
-        ],
-        "downloadable": true,
-        "url": "Abstract/camera_lens_closeup.jpg",
-        "thumbnail": "thumbnails/Abstract/camera_lens_closeup_thumb.jpg"
-    },
-    {
-        "name": "Vase Green Leaves",
-        "author": "Unknown",
-        "dimensions": "720x1560",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "light",
-            "calm",
-            "decor",
-            "minimalist",
-            "nature"
-        ],
-        "downloadable": true,
-        "url": "Abstract/vase_green_leaves.jpg",
-        "thumbnail": "thumbnails/Abstract/vase_green_leaves_thumb.jpg"
-    },
-    {
-        "name": "Vintage Light Bulb",
-        "author": "Unknown",
-        "dimensions": "736x1631",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dim",
-            "industrial",
-            "interior",
-            "warm",
-            "modern"
-        ],
-        "downloadable": true,
-        "url": "Abstract/vintage_light_bulb.jpg",
-        "thumbnail": "thumbnails/Abstract/vintage_light_bulb_thumb.jpg"
-    },
-    {
-        "name": "Blueberries Bowl Mint",
-        "author": "Unknown",
-        "dimensions": "720x1600",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "fresh",
-            "calm",
-            "food",
-            "healthy",
-            "blue"
-        ],
-        "downloadable": true,
-        "url": "Abstract/blueberries_bowl_mint.jpg",
-        "thumbnail": "thumbnails/Abstract/blueberries_bowl_mint_thumb.jpg"
-    },
-    {
-        "name": "Vintage Typewriter Keys",
-        "author": "Unknown",
-        "dimensions": "1472x3200",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "nostalgic",
-            "details",
-            "retro",
-            "still-life"
-        ],
-        "downloadable": true,
-        "url": "Abstract/vintage_typewriter_keys.jpg",
-        "thumbnail": "thumbnails/Abstract/vintage_typewriter_keys_thumb.jpg"
-    },
-    {
-        "name": "Modern Gadget Design",
-        "author": "Виталя Сергиенко",
-        "dimensions": "1080x2400",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "sleek",
-            "technology",
-            "minimalist",
-            "futuristic"
-        ],
-        "downloadable": true,
-        "url": "Abstract/modern_gadget_design.jpg",
-        "thumbnail": "thumbnails/Abstract/modern_gadget_design_thumb.jpg"
-    },
-    {
-        "name": "Dark Modern Textures",
-        "author": "Unknown",
-        "dimensions": "720x1560",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "smooth",
-            "abstract",
-            "layers",
-            "design"
-        ],
-        "downloadable": true,
-        "url": "Abstract/dark_modern_textures.jpg",
-        "thumbnail": "thumbnails/Abstract/dark_modern_textures_thumb.jpg"
-    },
-    {
-        "name": "Vintage Light Bulb 1",
-        "author": "Unknown",
-        "dimensions": "1472x3200",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "minimalist",
-            "retro",
-            "interior",
-            "decor"
-        ],
-        "downloadable": true,
-        "url": "Abstract/vintage_light_bulb_1.jpg",
-        "thumbnail": "thumbnails/Abstract/vintage_light_bulb_1_thumb.jpg"
-    },
-    {
-        "name": "Coffee Newspaper Glasses",
-        "author": "Unknown",
-        "dimensions": "1080x2340",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "calm",
-            "neutral",
-            "workspace",
-            "morning",
-            "focus"
-        ],
-        "downloadable": true,
-        "url": "Abstract/coffee_newspaper_glasses.jpg",
-        "thumbnail": "thumbnails/Abstract/coffee_newspaper_glasses_thumb.jpg"
-    },
-    {
-        "name": "Abstract Color Shapes",
-        "author": "Unknown",
-        "dimensions": "1104x2307",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "modern",
-            "art",
-            "geometric",
-            "vibrant"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_color_shapes.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_color_shapes_thumb.jpg"
-    },
-    {
-        "name": "Road Signs Artwork",
-        "author": "pinterest.com",
-        "dimensions": "736x1519",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "urban",
-            "creative",
-            "collage",
-            "text"
-        ],
-        "downloadable": true,
-        "url": "Abstract/road_signs_artwork.jpg",
-        "thumbnail": "thumbnails/Abstract/road_signs_artwork_thumb.jpg"
-    },
-    {
-        "name": "Coffee Table Workspace",
-        "author": "Unknown",
-        "dimensions": "720x1560",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "warm",
-            "inviting",
-            "cozy",
-            "focus",
-            "contemporary"
-        ],
-        "downloadable": true,
-        "url": "Abstract/coffee_table_workspace.jpg",
-        "thumbnail": "thumbnails/Abstract/coffee_table_workspace_thumb.jpg"
-    },
-    {
-        "name": "Lonely Lamp Night",
-        "author": "Unknown",
-        "dimensions": "998x2160",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "calm",
-            "light",
-            "solitude",
-            "evening"
-        ],
-        "downloadable": true,
-        "url": "Abstract/lonely_lamp_night.jpg",
-        "thumbnail": "thumbnails/Abstract/lonely_lamp_night_thumb.jpg"
-    },
-    {
-        "name": "Indoor Plant Growth",
-        "author": "Unknown",
-        "dimensions": "720x1560",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "calm",
-            "nature",
-            "home",
-            "greenery"
-        ],
-        "downloadable": true,
-        "url": "Abstract/indoor_plant_growth.jpg",
-        "thumbnail": "thumbnails/Abstract/indoor_plant_growth_thumb.jpg"
-    },
-    {
-        "name": "Turntable Dj Equipment",
-        "author": "Andrey Kondratov",
-        "dimensions": "1328x2954",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "professional",
-            "music",
-            "retro",
-            "stylish"
-        ],
-        "downloadable": true,
-        "url": "Abstract/turntable_dj_equipment.jpg",
-        "thumbnail": "thumbnails/Abstract/turntable_dj_equipment_thumb.jpg"
-    },
-    {
-        "name": "Headphones Map Brooklyn",
-        "author": "𝙱𝚛𝚒𝚌𝚒𝚘 Bis",
-        "dimensions": "1299x2813",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "light",
-            "urban",
-            "music",
-            "modern",
-            "geography"
-        ],
-        "downloadable": true,
-        "url": "Abstract/headphones_map_brooklyn.jpg",
-        "thumbnail": "thumbnails/Abstract/headphones_map_brooklyn_thumb.jpg"
-    },
-    {
-        "name": "Sunlit Study Window",
-        "author": "Unknown",
-        "dimensions": "736x1600",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "calm",
-            "workspace",
-            "nature",
-            "inspirational"
-        ],
-        "downloadable": true,
-        "url": "Abstract/sunlit_study_window.jpg",
-        "thumbnail": "thumbnails/Abstract/sunlit_study_window_thumb.jpg"
-    },
-    {
-        "name": "Turntable Black Record",
-        "author": "Daniel Gonçalves",
-        "dimensions": "591x1280",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "modern",
-            "music",
-            "vinyl",
-            "stylish"
-        ],
-        "downloadable": true,
-        "url": "Abstract/turntable_black_record.jpg",
-        "thumbnail": "thumbnails/Abstract/turntable_black_record_thumb.jpg"
-    },
-    {
-        "name": "Keyboard Keycaps Closeup",
-        "author": "orwtipz",
-        "dimensions": "590x1254",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "neutral",
-            "focused",
-            "technology",
-            "details",
-            "modern"
-        ],
-        "downloadable": true,
-        "url": "Abstract/keyboard_keycaps_closeup.jpg",
-        "thumbnail": "thumbnails/Abstract/keyboard_keycaps_closeup_thumb.jpg"
-    },
-    {
-        "name": "Earphones Cassette Tape",
-        "author": "Unknown",
-        "dimensions": "1170x2532",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "nostalgic",
-            "music",
-            "technology",
-            "retro"
-        ],
-        "downloadable": true,
-        "url": "Abstract/earphones_cassette_tape.jpg",
-        "thumbnail": "thumbnails/Abstract/earphones_cassette_tape_thumb.jpg"
-    },
-    {
-        "name": "Plant Dark Stairs",
-        "author": "Unknown",
-        "dimensions": "591x1280",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "calm",
-            "minimalist",
-            "interior",
-            "light"
-        ],
-        "downloadable": true,
-        "url": "Abstract/plant_dark_stairs.jpg",
-        "thumbnail": "thumbnails/Abstract/plant_dark_stairs_thumb.jpg"
-    },
-    {
-        "name": "Abstract Geometric Shapes",
-        "author": "Unknown",
-        "dimensions": "1179x2566",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "neutral",
-            "modern",
-            "design",
-            "art",
-            "minimal"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_geometric_shapes.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_geometric_shapes_thumb.jpg"
-    },
-    {
-        "name": "Gradient Color Blend",
-        "author": "Unknown",
-        "dimensions": "1242x2688",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "smooth",
-            "abstract",
-            "colorful",
-            "modern"
-        ],
-        "downloadable": true,
-        "url": "Abstract/gradient_color_blend.jpg",
-        "thumbnail": "thumbnails/Abstract/gradient_color_blend_thumb.jpg"
-    },
-    {
-        "name": "Guitar Fretboard Closeup",
-        "author": "Egemen Kurt",
-        "dimensions": "580x1200",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "calm",
-            "music",
-            "instrument",
-            "texture"
-        ],
-        "downloadable": true,
-        "url": "Abstract/guitar_fretboard_closeup.jpg",
-        "thumbnail": "thumbnails/Abstract/guitar_fretboard_closeup_thumb.jpg"
-    },
-    {
-        "name": "Minimalist Vase Collection",
-        "author": "Unknown",
-        "dimensions": "1003x2228",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "light",
-            "calm",
-            "modern",
-            "home",
-            "decor"
-        ],
-        "downloadable": true,
-        "url": "Abstract/minimalist_vase_collection.jpg",
-        "thumbnail": "thumbnails/Abstract/minimalist_vase_collection_thumb.jpg"
-    },
-    {
-        "name": "Plant Green Indoor",
-        "author": "Unknown",
-        "dimensions": "720x1600",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "calm",
-            "nature",
-            "home",
-            "decor"
-        ],
-        "downloadable": true,
-        "url": "Abstract/plant_green_indoor.jpg",
-        "thumbnail": "thumbnails/Abstract/plant_green_indoor_thumb.jpg"
-    },
-    {
-        "name": "Green Plant Pot",
-        "author": "Unknown",
-        "dimensions": "1080x2400",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "fresh",
-            "nature",
-            "indoor",
-            "decor"
-        ],
-        "downloadable": true,
-        "url": "Abstract/green_plant_pot.jpg",
-        "thumbnail": "thumbnails/Abstract/green_plant_pot_thumb.jpg"
-    },
-    {
-        "name": "Abstract Pattern Texture",
-        "author": "YTECHB | iPhone Wallpapers | Aesthetic Wallpapers Hub",
-        "dimensions": "2640x5712",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "minimalist",
-            "neutral",
-            "geometric",
-            "monochrome",
-            "design"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_pattern_texture.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_pattern_texture_thumb.jpg"
-    },
-    {
-        "name": "Abstract Geometric Shapes 1",
-        "author": "Unknown",
-        "dimensions": "1080x2400",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "modern",
-            "clean",
-            "minimal",
-            "cool"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_geometric_shapes_1.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_geometric_shapes_1_thumb.jpg"
-    },
-    {
-        "name": "Abstract Wave Design 1",
-        "author": "Threads",
-        "dimensions": "640x1391",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "smooth",
-            "modern",
-            "3d",
-            "art",
-            "dynamic"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_wave_design_1.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_wave_design_1_thumb.jpg"
-    },
-    {
-        "name": "Abstract Color Shapes 1",
-        "author": "Rodv.Inc",
-        "dimensions": "736x1641",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "playful",
-            "3d",
-            "modern",
-            "art"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_color_shapes_1.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_color_shapes_1_thumb.jpg"
-    },
-    {
-        "name": "Blue Stone Texture",
-        "author": "Semih Köseoğlu",
-        "dimensions": "1080x2400",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "cool",
-            "calm",
-            "pattern",
-            "abstract",
-            "minimal"
-        ],
-        "downloadable": true,
-        "url": "Abstract/blue_stone_texture.jpg",
-        "thumbnail": "thumbnails/Abstract/blue_stone_texture_thumb.jpg"
-    },
-    {
-        "name": "Abstract Color Lines",
-        "author": "YTECHB | iPhone Wallpapers | Aesthetic Wallpapers Hub",
-        "dimensions": "1080x2340",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "smooth",
-            "modern",
-            "art",
-            "texture"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_color_lines.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_color_lines_thumb.jpg"
-    },
-    {
-        "name": "Vibrant Glass Texture",
-        "author": "YTECHB | iPhone Wallpapers | Aesthetic Wallpapers Hub",
-        "dimensions": "1240x2772",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "abstract",
-            "colorful",
-            "smooth",
-            "modern"
-        ],
-        "downloadable": true,
-        "url": "Abstract/vibrant_glass_texture.jpg",
-        "thumbnail": "thumbnails/Abstract/vibrant_glass_texture_thumb.jpg"
-    },
-    {
-        "name": "Abstract Color Wave",
-        "author": "Unknown",
-        "dimensions": "1125x2436",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "calm",
-            "abstract",
-            "fluid",
-            "smooth"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_color_wave.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_color_wave_thumb.jpg"
-    },
-    {
-        "name": "Blue Flower Background",
-        "author": "YTECHB | iPhone Wallpapers | Aesthetic Wallpapers Hub",
-        "dimensions": "1242x2688",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "calm",
-            "serene",
-            "floral",
-            "abstract",
-            "cool"
-        ],
-        "downloadable": true,
-        "url": "Abstract/blue_flower_background.jpg",
-        "thumbnail": "thumbnails/Abstract/blue_flower_background_thumb.jpg"
-    },
-    {
-        "name": "Blue Color Gradient",
-        "author": "YTECHB | iPhone Wallpapers | Aesthetic Wallpapers Hub",
-        "dimensions": "1170x2532",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "calm",
-            "minimalist",
-            "abstract",
-            "smooth",
-            "cool"
-        ],
-        "downloadable": true,
-        "url": "Abstract/blue_color_gradient.jpg",
-        "thumbnail": "thumbnails/Abstract/blue_color_gradient_thumb.jpg"
-    },
-    {
-        "name": "Colorful Balloons Background",
-        "author": "YTECHB | iPhone Wallpapers | Aesthetic Wallpapers Hub",
-        "dimensions": "1430x3200",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "cheerful",
-            "celebration",
-            "colorful",
-            "playful"
-        ],
-        "downloadable": true,
-        "url": "Abstract/colorful_balloons_background.jpg",
-        "thumbnail": "thumbnails/Abstract/colorful_balloons_background_thumb.jpg"
-    },
-    {
-        "name": "Abstract Light Colors",
-        "author": "Unknown",
-        "dimensions": "1080x2412",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "soft",
-            "calm",
-            "minimalist",
-            "modern",
-            "gentle"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_light_colors.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_light_colors_thumb.jpg"
-    },
-    {
-        "name": "Colorful Fabric Motion",
-        "author": "ATimor Arts",
-        "dimensions": "736x1632",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "vibrant",
-            "soft",
-            "textile",
-            "flowing",
-            "abstract"
-        ],
-        "downloadable": true,
-        "url": "Abstract/colorful_fabric_motion.jpg",
-        "thumbnail": "thumbnails/Abstract/colorful_fabric_motion_thumb.jpg"
-    },
-    {
-        "name": "Abstract Color Wave 1",
-        "author": "Monu",
-        "dimensions": "1080x2400",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "vibrant",
-            "smooth",
-            "artistic",
-            "modern",
-            "dynamic"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_color_wave_1.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_color_wave_1_thumb.jpg"
-    },
-    {
-        "name": "Soft Blue Curves",
-        "author": "Unknown",
-        "dimensions": "736x1593",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "smooth",
-            "abstract",
-            "fluid",
-            "minimalist"
-        ],
-        "downloadable": true,
-        "url": "Abstract/soft_blue_curves.jpg",
-        "thumbnail": "thumbnails/Abstract/soft_blue_curves_thumb.jpg"
-    },
-    {
-        "name": "Abstract Curve Wave",
-        "author": "Unknown",
-        "dimensions": "1080x2400",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "calm",
-            "modern",
-            "smooth",
-            "blue"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_curve_wave.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_curve_wave_thumb.jpg"
-    },
-    {
-        "name": "Abstract Orange Shape",
-        "author": "Unknown",
-        "dimensions": "1080x2400",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "smooth",
-            "modern",
-            "art",
-            "vibrant",
-            "design"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_orange_shape.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_orange_shape_thumb.jpg"
-    },
-    {
-        "name": "Abstract Blue Purple",
-        "author": "Unknown",
-        "dimensions": "1080x2400",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "calm",
-            "abstract",
-            "gradient",
-            "smooth"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_blue_purple.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_blue_purple_thumb.jpg"
-    },
-    {
-        "name": "Abstract Color Gradient",
-        "author": "Unknown",
-        "dimensions": "736x1634",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "vibrant",
-            "smooth",
-            "colorful",
-            "modern",
-            "artistic"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_color_gradient.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_color_gradient_thumb.jpg"
-    },
-    {
-        "name": "Abstract Color Wave 2",
-        "author": "Mr.Ak.🥰 khan 🍁❣️",
-        "dimensions": "720x1600",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "fluid",
-            "art",
-            "dynamic",
-            "vibrant"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_color_wave_2.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_color_wave_2_thumb.jpg"
-    },
-    {
-        "name": "Hooded Cyberpunk Figure",
-        "author": "Unknown",
-        "dimensions": "1472x3264",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "mysterious",
-            "futuristic",
-            "urban",
-            "tech"
-        ],
-        "downloadable": true,
-        "url": "Abstract/hooded_cyberpunk_figure.jpg",
-        "thumbnail": "thumbnails/Abstract/hooded_cyberpunk_figure_thumb.jpg"
-    },
-    {
-        "name": "Abstract Stone Sculpture",
-        "author": "Unknown",
-        "dimensions": "573x1280",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "calm",
-            "modern",
-            "minimalist",
-            "art",
-            "purple"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_stone_sculpture.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_stone_sculpture_thumb.jpg"
-    },
-    {
-        "name": "Abstract Color Pattern",
-        "author": "Unknown",
-        "dimensions": "720x1600",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "calm",
-            "modern",
-            "art",
-            "smooth"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_color_pattern.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_color_pattern_thumb.jpg"
-    },
-    {
-        "name": "Black Hole Space",
-        "author": "Unknown",
-        "dimensions": "943x2048",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "mysterious",
-            "cosmos",
-            "etheral",
-            "science"
-        ],
-        "downloadable": true,
-        "url": "Abstract/black_hole_space.jpg",
-        "thumbnail": "thumbnails/Abstract/black_hole_space_thumb.jpg"
-    },
-    {
-        "name": "Dock Reflection Water",
-        "author": "Обои на смартфон HD/4K/8K",
-        "dimensions": "540x1200",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "calm",
-            "serene",
-            "blue",
-            "nature",
-            "minimalist"
-        ],
-        "downloadable": true,
-        "url": "Abstract/dock_reflection_water.jpg",
-        "thumbnail": "thumbnails/Abstract/dock_reflection_water_thumb.jpg"
-    },
-    {
-        "name": "Modern Abstract Design",
-        "author": "Emil Narimanov",
-        "dimensions": "1068x2232",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "calm",
-            "geometric",
-            "colorful",
-            "minimal"
-        ],
-        "downloadable": true,
-        "url": "Abstract/modern_abstract_design.jpg",
-        "thumbnail": "thumbnails/Abstract/modern_abstract_design_thumb.jpg"
-    },
-    {
-        "name": "Person Desert Landscape",
-        "author": "Unknown",
-        "dimensions": "736x1642",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "tranquil",
-            "minimalist",
-            "solitude",
-            "sky"
-        ],
-        "downloadable": true,
-        "url": "Abstract/person_desert_landscape.jpg",
-        "thumbnail": "thumbnails/Abstract/person_desert_landscape_thumb.jpg"
-    },
-    {
-        "name": "Soldier Military Smoke",
-        "author": "Unknown",
-        "dimensions": "1080x2400",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "serious",
-            "military",
-            "tactical",
-            "intense"
-        ],
-        "downloadable": true,
-        "url": "Abstract/soldier_military_smoke.jpg",
-        "thumbnail": "thumbnails/Abstract/soldier_military_smoke_thumb.jpg"
-    },
-    {
-        "name": "Abstract Color Shapes 2",
-        "author": "Unknown",
-        "dimensions": "1290x2807",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "minimalist",
-            "modern",
-            "geometric",
-            "art"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_color_shapes_2.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_color_shapes_2_thumb.jpg"
-    },
-    {
-        "name": "Purple Sky Gradient",
-        "author": "Rodv.Inc",
-        "dimensions": "736x1553",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "calm",
-            "sky",
-            "gradient",
-            "abstract"
-        ],
-        "downloadable": true,
-        "url": "Abstract/purple_sky_gradient.jpg",
-        "thumbnail": "thumbnails/Abstract/purple_sky_gradient_thumb.jpg"
-    },
-    {
-        "name": "White Stairs Sky",
-        "author": "Unknown",
-        "dimensions": "1600x3600",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "minimalist",
-            "modern",
-            "calm",
-            "architecture"
-        ],
-        "downloadable": true,
-        "url": "Abstract/white_stairs_sky.jpg",
-        "thumbnail": "thumbnails/Abstract/white_stairs_sky_thumb.jpg"
-    },
-    {
-        "name": "Leaf Black White",
-        "author": "Unknown",
-        "dimensions": "736x1595",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "mysterious",
-            "nature",
-            "abstract",
-            "silhouette"
-        ],
-        "downloadable": true,
-        "url": "Abstract/leaf_black_white.jpg",
-        "thumbnail": "thumbnails/Abstract/leaf_black_white_thumb.jpg"
-    },
-    {
-        "name": "Lantern Cherry Blossom",
-        "author": "Unknown",
-        "dimensions": "1463x3165",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "serene",
-            "nature",
-            "spring",
-            "flower"
-        ],
-        "downloadable": true,
-        "url": "Abstract/lantern_cherry_blossom.jpg",
-        "thumbnail": "thumbnails/Abstract/lantern_cherry_blossom_thumb.jpg"
-    },
-    {
-        "name": "Train Station Tracks",
-        "author": "Unknown",
-        "dimensions": "736x1472",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "transportation",
-            "sky",
-            "perspective",
-            "urban"
-        ],
-        "downloadable": true,
-        "url": "Abstract/train_station_tracks.jpg",
-        "thumbnail": "thumbnails/Abstract/train_station_tracks_thumb.jpg"
-    },
-    {
-        "name": "Coffee Cup Table",
-        "author": "Wallpapers Phone&Pad HD",
-        "dimensions": "1125x2436",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "cozy",
-            "beverage",
-            "artistic",
-            "warm"
-        ],
-        "downloadable": true,
-        "url": "Abstract/coffee_cup_table.jpg",
-        "thumbnail": "thumbnails/Abstract/coffee_cup_table_thumb.jpg"
-    },
-    {
-        "name": "Coffee Cup Wood",
-        "author": "Unknown",
-        "dimensions": "720x1503",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "warm",
-            "cozy",
-            "still_life",
-            "minimalist"
-        ],
-        "downloadable": true,
-        "url": "Abstract/coffee_cup_wood.jpg",
-        "thumbnail": "thumbnails/Abstract/coffee_cup_wood_thumb.jpg"
-    },
-    {
-        "name": "Graffiti Art Door",
-        "author": "4K WALLVIEW",
-        "dimensions": "924x2048",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "colorful",
-            "urban",
-            "graffiti",
-            "vibrant",
-            "modern"
-        ],
-        "downloadable": true,
-        "url": "Abstract/graffiti_art_door.jpg",
-        "thumbnail": "thumbnails/Abstract/graffiti_art_door_thumb.jpg"
-    },
-    {
-        "name": "Dark Sand Swirls",
-        "author": "Unknown",
-        "dimensions": "736x1594",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "mysterious",
-            "abstract",
-            "texture",
-            "flow"
-        ],
-        "downloadable": true,
-        "url": "Abstract/dark_sand_swirls.jpg",
-        "thumbnail": "thumbnails/Abstract/dark_sand_swirls_thumb.jpg"
-    },
-    {
-        "name": "Cactus Pot Simple",
-        "author": "Gözde",
-        "dimensions": "720x1600",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "minimalist",
-            "green",
-            "decor",
-            "plants"
-        ],
-        "downloadable": true,
-        "url": "Abstract/cactus_pot_simple.jpg",
-        "thumbnail": "thumbnails/Abstract/cactus_pot_simple_thumb.jpg"
-    },
-    {
-        "name": "Coffee Cup Plate",
-        "author": "Unknown",
-        "dimensions": "1080x2340",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "light",
-            "calm",
-            "minimalist",
-            "food",
-            "beverage"
-        ],
-        "downloadable": true,
-        "url": "Abstract/coffee_cup_plate.jpg",
-        "thumbnail": "thumbnails/Abstract/coffee_cup_plate_thumb.jpg"
-    },
-    {
-        "name": "Man Light Shadows",
-        "author": "Unknown",
-        "dimensions": "946x2048",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "mysterious",
-            "solitude",
-            "surreal",
-            "light"
-        ],
-        "downloadable": true,
-        "url": "Abstract/man_light_shadows.jpg",
-        "thumbnail": "thumbnails/Abstract/man_light_shadows_thumb.jpg"
-    },
-    {
-        "name": "Ferris Wheel Night",
-        "author": "Unknown",
-        "dimensions": "736x1592",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "mysterious",
-            "amusement",
-            "night",
-            "photography"
-        ],
-        "downloadable": true,
-        "url": "Abstract/ferris_wheel_night.jpg",
-        "thumbnail": "thumbnails/Abstract/ferris_wheel_night_thumb.jpg"
-    },
-    {
-        "name": "Architectural Design Wave",
-        "author": "i.pinimg.com",
-        "dimensions": "720x1520",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "modern",
-            "abstract",
-            "pattern",
-            "structure"
-        ],
-        "downloadable": true,
-        "url": "Abstract/architectural_design_wave.jpg",
-        "thumbnail": "thumbnails/Abstract/architectural_design_wave_thumb.jpg"
-    },
-    {
-        "name": "Futuristic Forest Towers",
-        "author": "Unknown",
-        "dimensions": "997x2160",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "mysterious",
-            "calm",
-            "sci-fi",
-            "nature",
-            "moody"
-        ],
-        "downloadable": true,
-        "url": "Abstract/futuristic_forest_towers.jpg",
-        "thumbnail": "thumbnails/Abstract/futuristic_forest_towers_thumb.jpg"
-    },
-    {
-        "name": "Ferris Wheel Sunset",
-        "author": "Ester",
-        "dimensions": "736x1555",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "serene",
-            "amusement",
-            "sky",
-            "pastel"
-        ],
-        "downloadable": true,
-        "url": "Abstract/ferris_wheel_sunset.jpg",
-        "thumbnail": "thumbnails/Abstract/ferris_wheel_sunset_thumb.jpg"
-    },
-    {
-        "name": "Vintage Book Shelf",
-        "author": "Unknown",
-        "dimensions": "474x948",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "nostalgic",
-            "library",
-            "books",
-            "antique"
-        ],
-        "downloadable": true,
-        "url": "Abstract/vintage_book_shelf.jpg",
-        "thumbnail": "thumbnails/Abstract/vintage_book_shelf_thumb.jpg"
-    },
-    {
-        "name": "Ferris Wheel Sky",
-        "author": "Charissa Pierre",
-        "dimensions": "1242x2688",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "calm",
-            "amusement",
-            "sky",
-            "view"
-        ],
-        "downloadable": true,
-        "url": "Abstract/ferris_wheel_sky.jpg",
-        "thumbnail": "thumbnails/Abstract/ferris_wheel_sky_thumb.jpg"
-    },
-    {
-        "name": "Empire State Building",
-        "author": "Gerhard",
-        "dimensions": "1080x2246",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "urban",
-            "landmark",
-            "sunset",
-            "aerial"
-        ],
-        "downloadable": true,
-        "url": "Abstract/empire_state_building.jpg",
-        "thumbnail": "thumbnails/Abstract/empire_state_building_thumb.jpg"
-    },
-    {
-        "name": "Statue Liberty Fog",
-        "author": "Unknown",
-        "dimensions": "974x2160",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "mystical",
-            "monochrome",
-            "iconic",
-            "foggy",
-            "statue"
-        ],
-        "downloadable": true,
-        "url": "Abstract/statue_liberty_fog.jpg",
-        "thumbnail": "thumbnails/Abstract/statue_liberty_fog_thumb.jpg"
-    },
-    {
-        "name": "Orange Building Path",
-        "author": "Areg Every",
-        "dimensions": "688x1728",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "serene",
-            "modern",
-            "architecture",
-            "minimalism"
-        ],
-        "downloadable": true,
-        "url": "Abstract/orange_building_path.jpg",
-        "thumbnail": "thumbnails/Abstract/orange_building_path_thumb.jpg"
-    },
-    {
-        "name": "Modern Architecture Building",
-        "author": "Rahul Jadhav",
-        "dimensions": "1080x2340",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "futuristic",
-            "urban",
-            "design",
-            "purple"
-        ],
-        "downloadable": true,
-        "url": "Abstract/modern_architecture_building.jpg",
-        "thumbnail": "thumbnails/Abstract/modern_architecture_building_thumb.jpg"
-    },
-    {
-        "name": "Street Light Color",
-        "author": "Unknown",
-        "dimensions": "997x2160",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "vibrant",
-            "mood",
-            "night",
-            "urban",
-            "lighting"
-        ],
-        "downloadable": true,
-        "url": "Abstract/street_light_color.jpg",
-        "thumbnail": "thumbnails/Abstract/street_light_color_thumb.jpg"
-    },
-    {
-        "name": "Spartan Warrior Silhouette",
-        "author": "Unknown",
-        "dimensions": "1155x2439",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "strong",
-            "heroic",
-            "battle",
-            "intense"
-        ],
-        "downloadable": true,
-        "url": "Abstract/spartan_warrior_silhouette.jpg",
-        "thumbnail": "thumbnails/Abstract/spartan_warrior_silhouette_thumb.jpg"
-    },
-    {
-        "name": "Samurai Rain Darkness",
-        "author": "Unknown",
-        "dimensions": "1463x3165",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "mysterious",
-            "warrior",
-            "rain",
-            "intense"
-        ],
-        "downloadable": true,
-        "url": "Abstract/samurai_rain_darkness.jpg",
-        "thumbnail": "thumbnails/Abstract/samurai_rain_darkness_thumb.jpg"
-    },
-    {
-        "name": "Foggy Station Morning",
-        "author": "Rusoo",
-        "dimensions": "568x1200",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "mysterious",
-            "solitude",
-            "night",
-            "urban"
-        ],
-        "downloadable": true,
-        "url": "Abstract/foggy_station_morning.jpg",
-        "thumbnail": "thumbnails/Abstract/foggy_station_morning_thumb.jpg"
-    },
-    {
-        "name": "Dark Skull Texture",
-        "author": "Dark Sun",
-        "dimensions": "449x960",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "mysterious",
-            "skull",
-            "gothic",
-            "art"
-        ],
-        "downloadable": true,
-        "url": "Abstract/dark_skull_texture.jpg",
-        "thumbnail": "thumbnails/Abstract/dark_skull_texture_thumb.jpg"
-    },
-    {
-        "name": "Abstract Red Structures",
-        "author": "Unknown",
-        "dimensions": "1284x2778",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "modern",
-            "art",
-            "clouds",
-            "sky"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_red_structures.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_red_structures_thumb.jpg"
-    },
-    {
-        "name": "Light Bulb Dark",
-        "author": "Unknown",
-        "dimensions": "736x1632",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "warm",
-            "minimalist",
-            "lighting",
-            "elegant"
-        ],
-        "downloadable": true,
-        "url": "Abstract/light_bulb_dark.jpg",
-        "thumbnail": "thumbnails/Abstract/light_bulb_dark_thumb.jpg"
-    },
-    {
-        "name": "Old Vintage Books",
-        "author": "unknown",
-        "dimensions": "720x1560",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "warm",
-            "nostalgic",
-            "literature",
-            "texture",
-            "details"
-        ],
-        "downloadable": true,
-        "url": "Abstract/old_vintage_books.jpg",
-        "thumbnail": "thumbnails/Abstract/old_vintage_books_thumb.jpg"
-    },
-    {
-        "name": "Sunset Ocean Reflection",
-        "author": "unknown",
-        "dimensions": "736x1592",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "calm",
-            "monochrome",
-            "serene",
-            "nature"
-        ],
-        "downloadable": true,
-        "url": "Abstract/sunset_ocean_reflection.jpg",
-        "thumbnail": "thumbnails/Abstract/sunset_ocean_reflection_thumb.jpg"
-    },
-    {
-        "name": "Colorful Geometric Shapes",
-        "author": "unknown",
-        "dimensions": "910x2048",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "modern",
-            "abstract",
-            "design",
-            "minimal"
-        ],
-        "downloadable": true,
-        "url": "Abstract/colorful_geometric_shapes.jpg",
-        "thumbnail": "thumbnails/Abstract/colorful_geometric_shapes_thumb.jpg"
-    },
-    {
-        "name": "Keyboard Close Up",
-        "author": "unknown",
-        "dimensions": "720x1520",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "light",
-            "modern",
-            "technology",
-            "focus",
-            "minimal"
-        ],
-        "downloadable": true,
-        "url": "Abstract/keyboard_close_up.jpg",
-        "thumbnail": "thumbnails/Abstract/keyboard_close_up_thumb.jpg"
-    },
-    {
-        "name": "Abstract Shape Design",
-        "author": "unknown",
-        "dimensions": "922x2048",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "light",
-            "modern",
-            "art",
-            "smooth",
-            "minimalist"
-        ],
-        "downloadable": true,
-        "url": "Abstract/abstract_shape_design.jpg",
-        "thumbnail": "thumbnails/Abstract/abstract_shape_design_thumb.jpg"
-    },
-    {
-        "name": "Game Controller Buttons",
-        "author": "unknown",
-        "dimensions": "473x1023",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "colorful",
-            "gaming",
-            "tech",
-            "modern"
-        ],
-        "downloadable": true,
-        "url": "Abstract/game_controller_buttons.jpg",
-        "thumbnail": "thumbnails/Abstract/game_controller_buttons_thumb.jpg"
-    },
-    {
-        "name": "Red Lamp Glow",
-        "author": "unknown",
-        "dimensions": "1386x3000",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "warm",
-            "lighting",
-            "modern",
-            "minimalist"
-        ],
-        "downloadable": true,
-        "url": "Abstract/red_lamp_glow.jpg",
-        "thumbnail": "thumbnails/Abstract/red_lamp_glow_thumb.jpg"
-    },
-    {
-        "name": "Black White Layers",
-        "author": "unknown",
-        "dimensions": "1080x2400",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "minimalist",
-            "calm",
-            "contrast",
-            "abstract",
-            "modern"
-        ],
-        "downloadable": true,
-        "url": "Abstract/black_white_layers.jpg",
-        "thumbnail": "thumbnails/Abstract/black_white_layers_thumb.jpg"
-    },
-    {
-        "name": "Colorful Playstation Symbols",
-        "author": "unknown",
-        "dimensions": "1080x2340",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "playful",
-            "gaming",
-            "minimalist",
-            "vibrant"
-        ],
-        "downloadable": true,
-        "url": "Abstract/colorful_playstation_symbols.jpg",
-        "thumbnail": "thumbnails/Abstract/colorful_playstation_symbols_thumb.jpg"
-    },
-    {
-        "name": "Hanging Light Bulbs",
-        "author": "unknown",
-        "dimensions": "591x1280",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "warm",
-            "cozy",
-            "illumination",
-            "decor",
-            "modern"
-        ],
-        "downloadable": true,
-        "url": "Abstract/hanging_light_bulbs.jpg",
-        "thumbnail": "thumbnails/Abstract/hanging_light_bulbs_thumb.jpg"
-    },
-    {
-        "name": "Fast Food Sign",
-        "author": "unknown",
-        "dimensions": "1179x2563",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "quiet",
-            "urban",
-            "nostalgic",
-            "signage"
-        ],
-        "downloadable": true,
-        "url": "Abstract/fast_food_sign.jpg",
-        "thumbnail": "thumbnails/Abstract/fast_food_sign_thumb.jpg"
-    },
-    {
-        "name": "Hot Air Balloon",
-        "author": "unknown",
-        "dimensions": "1170x2543",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "bright",
-            "tranquil",
-            "sky",
-            "adventure",
-            "travel"
-        ],
-        "downloadable": true,
-        "url": "Abstract/hot_air_balloon.jpg",
-        "thumbnail": "thumbnails/Abstract/hot_air_balloon_thumb.jpg"
-    },
-    {
-        "name": "Camera Map Pipe",
-        "author": "unknown",
-        "dimensions": "1080x2246",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "vintage",
-            "exploration",
-            "travel",
-            "nostalgic",
-            "photography"
-        ],
-        "downloadable": true,
-        "url": "Abstract/camera_map_pipe.jpg",
-        "thumbnail": "thumbnails/Abstract/camera_map_pipe_thumb.jpg"
-    },
-    {
-        "name": "Steaming Coffee Cup",
-        "author": "unknown",
-        "dimensions": "576x1280",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "dark",
-            "calm",
-            "morning",
-            "coffee",
-            "still"
-        ],
-        "downloadable": true,
-        "url": "Abstract/steaming_coffee_cup.jpg",
-        "thumbnail": "thumbnails/Abstract/steaming_coffee_cup_thumb.jpg"
-    },
-    {
-        "name": "Moon Phases Sky",
-        "author": "unknown",
-        "dimensions": "2545x5677",
-        "copyright": "personal use only",
-        "collections": "Abstract",
-        "tags": [
-            "serene",
-            "calm",
-            "nature",
-            "night",
-            "beautiful"
-        ],
-        "downloadable": true,
-        "url": "Abstract/moon_phases_sky.jpg",
-        "thumbnail": "thumbnails/Abstract/moon_phases_sky_thumb.jpg"
-    }
-]
+{
+    "Wallpapers": [
+        {
+            "name": "Coffee Book Table",
+            "author": "Unknown",
+            "dimensions": "946x2048",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "warm",
+                "cozy",
+                "relaxing",
+                "interior",
+                "still-life"
+            ],
+            "downloadable": true,
+            "url": "Abstract/coffee_book_table.jpg",
+            "thumbnail": "thumbnails/Abstract/coffee_book_table_thumb.jpg"
+        },
+        {
+            "name": "Traffic Light Neon",
+            "author": "ali.zn",
+            "dimensions": "555x1200",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "mystical",
+                "vibrant",
+                "night",
+                "urban",
+                "light"
+            ],
+            "downloadable": true,
+            "url": "Abstract/traffic_light_neon.jpg",
+            "thumbnail": "thumbnails/Abstract/traffic_light_neon_thumb.jpg"
+        },
+        {
+            "name": "Indoor Potted Plant",
+            "author": "Unknown",
+            "dimensions": "1080x2400",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "calm",
+                "greenery",
+                "minimalist",
+                "nature"
+            ],
+            "downloadable": true,
+            "url": "Abstract/indoor_potted_plant.jpg",
+            "thumbnail": "thumbnails/Abstract/indoor_potted_plant_thumb.jpg"
+        },
+        {
+            "name": "Bicycle Table Coffee",
+            "author": "Unknown",
+            "dimensions": "591x1280",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "warm",
+                "relaxed",
+                "urban",
+                "cozy",
+                "lifestyle"
+            ],
+            "downloadable": true,
+            "url": "Abstract/bicycle_table_coffee.jpg",
+            "thumbnail": "thumbnails/Abstract/bicycle_table_coffee_thumb.jpg"
+        },
+        {
+            "name": "Coffee Starbucks Cup",
+            "author": "Unknown",
+            "dimensions": "736x1600",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "cozy",
+                "beverage",
+                "modern",
+                "cafe"
+            ],
+            "downloadable": true,
+            "url": "Abstract/coffee_starbucks_cup.jpg",
+            "thumbnail": "thumbnails/Abstract/coffee_starbucks_cup_thumb.jpg"
+        },
+        {
+            "name": "Minimalist Vase Branches",
+            "author": "Unknown",
+            "dimensions": "1003x2227",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "neutral",
+                "calm",
+                "still_life",
+                "decor",
+                "elegant"
+            ],
+            "downloadable": true,
+            "url": "Abstract/minimalist_vase_branches.jpg",
+            "thumbnail": "thumbnails/Abstract/minimalist_vase_branches_thumb.jpg"
+        },
+        {
+            "name": "Abstract Wave Design",
+            "author": "Creative Paper \u2022 LexinColor",
+            "dimensions": "1440x3200",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "light",
+                "soft",
+                "minimalistic",
+                "flowing",
+                "modern"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_wave_design.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_wave_design_thumb.jpg"
+        },
+        {
+            "name": "Colorful Glass Lamps",
+            "author": "Unknown",
+            "dimensions": "1847x4096",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "modern",
+                "light",
+                "decor",
+                "warm"
+            ],
+            "downloadable": true,
+            "url": "Abstract/colorful_glass_lamps.jpg",
+            "thumbnail": "thumbnails/Abstract/colorful_glass_lamps_thumb.jpg"
+        },
+        {
+            "name": "Camera Lens Closeup",
+            "author": "Unknown",
+            "dimensions": "1290x2796",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "modern",
+                "photography",
+                "detailed",
+                "equipment"
+            ],
+            "downloadable": true,
+            "url": "Abstract/camera_lens_closeup.jpg",
+            "thumbnail": "thumbnails/Abstract/camera_lens_closeup_thumb.jpg"
+        },
+        {
+            "name": "Vase Green Leaves",
+            "author": "Unknown",
+            "dimensions": "720x1560",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "light",
+                "calm",
+                "decor",
+                "minimalist",
+                "nature"
+            ],
+            "downloadable": true,
+            "url": "Abstract/vase_green_leaves.jpg",
+            "thumbnail": "thumbnails/Abstract/vase_green_leaves_thumb.jpg"
+        },
+        {
+            "name": "Vintage Light Bulb",
+            "author": "Unknown",
+            "dimensions": "736x1631",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dim",
+                "industrial",
+                "interior",
+                "warm",
+                "modern"
+            ],
+            "downloadable": true,
+            "url": "Abstract/vintage_light_bulb.jpg",
+            "thumbnail": "thumbnails/Abstract/vintage_light_bulb_thumb.jpg"
+        },
+        {
+            "name": "Blueberries Bowl Mint",
+            "author": "Unknown",
+            "dimensions": "720x1600",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "fresh",
+                "calm",
+                "food",
+                "healthy",
+                "blue"
+            ],
+            "downloadable": true,
+            "url": "Abstract/blueberries_bowl_mint.jpg",
+            "thumbnail": "thumbnails/Abstract/blueberries_bowl_mint_thumb.jpg"
+        },
+        {
+            "name": "Vintage Typewriter Keys",
+            "author": "Unknown",
+            "dimensions": "1472x3200",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "nostalgic",
+                "details",
+                "retro",
+                "still-life"
+            ],
+            "downloadable": true,
+            "url": "Abstract/vintage_typewriter_keys.jpg",
+            "thumbnail": "thumbnails/Abstract/vintage_typewriter_keys_thumb.jpg"
+        },
+        {
+            "name": "Modern Gadget Design",
+            "author": "\u0412\u0438\u0442\u0430\u043b\u044f \u0421\u0435\u0440\u0433\u0438\u0435\u043d\u043a\u043e",
+            "dimensions": "1080x2400",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "sleek",
+                "technology",
+                "minimalist",
+                "futuristic"
+            ],
+            "downloadable": true,
+            "url": "Abstract/modern_gadget_design.jpg",
+            "thumbnail": "thumbnails/Abstract/modern_gadget_design_thumb.jpg"
+        },
+        {
+            "name": "Dark Modern Textures",
+            "author": "Unknown",
+            "dimensions": "720x1560",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "smooth",
+                "abstract",
+                "layers",
+                "design"
+            ],
+            "downloadable": true,
+            "url": "Abstract/dark_modern_textures.jpg",
+            "thumbnail": "thumbnails/Abstract/dark_modern_textures_thumb.jpg"
+        },
+        {
+            "name": "Vintage Light Bulb 1",
+            "author": "Unknown",
+            "dimensions": "1472x3200",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "minimalist",
+                "retro",
+                "interior",
+                "decor"
+            ],
+            "downloadable": true,
+            "url": "Abstract/vintage_light_bulb_1.jpg",
+            "thumbnail": "thumbnails/Abstract/vintage_light_bulb_1_thumb.jpg"
+        },
+        {
+            "name": "Coffee Newspaper Glasses",
+            "author": "Unknown",
+            "dimensions": "1080x2340",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "calm",
+                "neutral",
+                "workspace",
+                "morning",
+                "focus"
+            ],
+            "downloadable": true,
+            "url": "Abstract/coffee_newspaper_glasses.jpg",
+            "thumbnail": "thumbnails/Abstract/coffee_newspaper_glasses_thumb.jpg"
+        },
+        {
+            "name": "Abstract Color Shapes",
+            "author": "Unknown",
+            "dimensions": "1104x2307",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "modern",
+                "art",
+                "geometric",
+                "vibrant"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_color_shapes.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_color_shapes_thumb.jpg"
+        },
+        {
+            "name": "Road Signs Artwork",
+            "author": "pinterest.com",
+            "dimensions": "736x1519",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "urban",
+                "creative",
+                "collage",
+                "text"
+            ],
+            "downloadable": true,
+            "url": "Abstract/road_signs_artwork.jpg",
+            "thumbnail": "thumbnails/Abstract/road_signs_artwork_thumb.jpg"
+        },
+        {
+            "name": "Coffee Table Workspace",
+            "author": "Unknown",
+            "dimensions": "720x1560",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "warm",
+                "inviting",
+                "cozy",
+                "focus",
+                "contemporary"
+            ],
+            "downloadable": true,
+            "url": "Abstract/coffee_table_workspace.jpg",
+            "thumbnail": "thumbnails/Abstract/coffee_table_workspace_thumb.jpg"
+        },
+        {
+            "name": "Lonely Lamp Night",
+            "author": "Unknown",
+            "dimensions": "998x2160",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "calm",
+                "light",
+                "solitude",
+                "evening"
+            ],
+            "downloadable": true,
+            "url": "Abstract/lonely_lamp_night.jpg",
+            "thumbnail": "thumbnails/Abstract/lonely_lamp_night_thumb.jpg"
+        },
+        {
+            "name": "Indoor Plant Growth",
+            "author": "Unknown",
+            "dimensions": "720x1560",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "calm",
+                "nature",
+                "home",
+                "greenery"
+            ],
+            "downloadable": true,
+            "url": "Abstract/indoor_plant_growth.jpg",
+            "thumbnail": "thumbnails/Abstract/indoor_plant_growth_thumb.jpg"
+        },
+        {
+            "name": "Turntable Dj Equipment",
+            "author": "Andrey Kondratov",
+            "dimensions": "1328x2954",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "professional",
+                "music",
+                "retro",
+                "stylish"
+            ],
+            "downloadable": true,
+            "url": "Abstract/turntable_dj_equipment.jpg",
+            "thumbnail": "thumbnails/Abstract/turntable_dj_equipment_thumb.jpg"
+        },
+        {
+            "name": "Headphones Map Brooklyn",
+            "author": "\ud835\ude71\ud835\ude9b\ud835\ude92\ud835\ude8c\ud835\ude92\ud835\ude98 Bis",
+            "dimensions": "1299x2813",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "light",
+                "urban",
+                "music",
+                "modern",
+                "geography"
+            ],
+            "downloadable": true,
+            "url": "Abstract/headphones_map_brooklyn.jpg",
+            "thumbnail": "thumbnails/Abstract/headphones_map_brooklyn_thumb.jpg"
+        },
+        {
+            "name": "Sunlit Study Window",
+            "author": "Unknown",
+            "dimensions": "736x1600",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "calm",
+                "workspace",
+                "nature",
+                "inspirational"
+            ],
+            "downloadable": true,
+            "url": "Abstract/sunlit_study_window.jpg",
+            "thumbnail": "thumbnails/Abstract/sunlit_study_window_thumb.jpg"
+        },
+        {
+            "name": "Turntable Black Record",
+            "author": "Daniel Gon\u00e7alves",
+            "dimensions": "591x1280",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "modern",
+                "music",
+                "vinyl",
+                "stylish"
+            ],
+            "downloadable": true,
+            "url": "Abstract/turntable_black_record.jpg",
+            "thumbnail": "thumbnails/Abstract/turntable_black_record_thumb.jpg"
+        },
+        {
+            "name": "Keyboard Keycaps Closeup",
+            "author": "orwtipz",
+            "dimensions": "590x1254",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "neutral",
+                "focused",
+                "technology",
+                "details",
+                "modern"
+            ],
+            "downloadable": true,
+            "url": "Abstract/keyboard_keycaps_closeup.jpg",
+            "thumbnail": "thumbnails/Abstract/keyboard_keycaps_closeup_thumb.jpg"
+        },
+        {
+            "name": "Earphones Cassette Tape",
+            "author": "Unknown",
+            "dimensions": "1170x2532",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "nostalgic",
+                "music",
+                "technology",
+                "retro"
+            ],
+            "downloadable": true,
+            "url": "Abstract/earphones_cassette_tape.jpg",
+            "thumbnail": "thumbnails/Abstract/earphones_cassette_tape_thumb.jpg"
+        },
+        {
+            "name": "Plant Dark Stairs",
+            "author": "Unknown",
+            "dimensions": "591x1280",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "calm",
+                "minimalist",
+                "interior",
+                "light"
+            ],
+            "downloadable": true,
+            "url": "Abstract/plant_dark_stairs.jpg",
+            "thumbnail": "thumbnails/Abstract/plant_dark_stairs_thumb.jpg"
+        },
+        {
+            "name": "Abstract Geometric Shapes",
+            "author": "Unknown",
+            "dimensions": "1179x2566",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "neutral",
+                "modern",
+                "design",
+                "art",
+                "minimal"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_geometric_shapes.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_geometric_shapes_thumb.jpg"
+        },
+        {
+            "name": "Gradient Color Blend",
+            "author": "Unknown",
+            "dimensions": "1242x2688",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "smooth",
+                "abstract",
+                "colorful",
+                "modern"
+            ],
+            "downloadable": true,
+            "url": "Abstract/gradient_color_blend.jpg",
+            "thumbnail": "thumbnails/Abstract/gradient_color_blend_thumb.jpg"
+        },
+        {
+            "name": "Guitar Fretboard Closeup",
+            "author": "Egemen Kurt",
+            "dimensions": "580x1200",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "calm",
+                "music",
+                "instrument",
+                "texture"
+            ],
+            "downloadable": true,
+            "url": "Abstract/guitar_fretboard_closeup.jpg",
+            "thumbnail": "thumbnails/Abstract/guitar_fretboard_closeup_thumb.jpg"
+        },
+        {
+            "name": "Minimalist Vase Collection",
+            "author": "Unknown",
+            "dimensions": "1003x2228",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "light",
+                "calm",
+                "modern",
+                "home",
+                "decor"
+            ],
+            "downloadable": true,
+            "url": "Abstract/minimalist_vase_collection.jpg",
+            "thumbnail": "thumbnails/Abstract/minimalist_vase_collection_thumb.jpg"
+        },
+        {
+            "name": "Plant Green Indoor",
+            "author": "Unknown",
+            "dimensions": "720x1600",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "calm",
+                "nature",
+                "home",
+                "decor"
+            ],
+            "downloadable": true,
+            "url": "Abstract/plant_green_indoor.jpg",
+            "thumbnail": "thumbnails/Abstract/plant_green_indoor_thumb.jpg"
+        },
+        {
+            "name": "Green Plant Pot",
+            "author": "Unknown",
+            "dimensions": "1080x2400",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "fresh",
+                "nature",
+                "indoor",
+                "decor"
+            ],
+            "downloadable": true,
+            "url": "Abstract/green_plant_pot.jpg",
+            "thumbnail": "thumbnails/Abstract/green_plant_pot_thumb.jpg"
+        },
+        {
+            "name": "Abstract Pattern Texture",
+            "author": "YTECHB | iPhone Wallpapers | Aesthetic Wallpapers Hub",
+            "dimensions": "2640x5712",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "minimalist",
+                "neutral",
+                "geometric",
+                "monochrome",
+                "design"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_pattern_texture.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_pattern_texture_thumb.jpg"
+        },
+        {
+            "name": "Abstract Geometric Shapes 1",
+            "author": "Unknown",
+            "dimensions": "1080x2400",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "modern",
+                "clean",
+                "minimal",
+                "cool"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_geometric_shapes_1.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_geometric_shapes_1_thumb.jpg"
+        },
+        {
+            "name": "Abstract Wave Design 1",
+            "author": "Threads",
+            "dimensions": "640x1391",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "smooth",
+                "modern",
+                "3d",
+                "art",
+                "dynamic"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_wave_design_1.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_wave_design_1_thumb.jpg"
+        },
+        {
+            "name": "Abstract Color Shapes 1",
+            "author": "Rodv.Inc",
+            "dimensions": "736x1641",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "playful",
+                "3d",
+                "modern",
+                "art"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_color_shapes_1.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_color_shapes_1_thumb.jpg"
+        },
+        {
+            "name": "Blue Stone Texture",
+            "author": "Semih K\u00f6seo\u011flu",
+            "dimensions": "1080x2400",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "cool",
+                "calm",
+                "pattern",
+                "abstract",
+                "minimal"
+            ],
+            "downloadable": true,
+            "url": "Abstract/blue_stone_texture.jpg",
+            "thumbnail": "thumbnails/Abstract/blue_stone_texture_thumb.jpg"
+        },
+        {
+            "name": "Abstract Color Lines",
+            "author": "YTECHB | iPhone Wallpapers | Aesthetic Wallpapers Hub",
+            "dimensions": "1080x2340",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "smooth",
+                "modern",
+                "art",
+                "texture"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_color_lines.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_color_lines_thumb.jpg"
+        },
+        {
+            "name": "Vibrant Glass Texture",
+            "author": "YTECHB | iPhone Wallpapers | Aesthetic Wallpapers Hub",
+            "dimensions": "1240x2772",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "abstract",
+                "colorful",
+                "smooth",
+                "modern"
+            ],
+            "downloadable": true,
+            "url": "Abstract/vibrant_glass_texture.jpg",
+            "thumbnail": "thumbnails/Abstract/vibrant_glass_texture_thumb.jpg"
+        },
+        {
+            "name": "Abstract Color Wave",
+            "author": "Unknown",
+            "dimensions": "1125x2436",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "calm",
+                "abstract",
+                "fluid",
+                "smooth"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_color_wave.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_color_wave_thumb.jpg"
+        },
+        {
+            "name": "Blue Flower Background",
+            "author": "YTECHB | iPhone Wallpapers | Aesthetic Wallpapers Hub",
+            "dimensions": "1242x2688",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "calm",
+                "serene",
+                "floral",
+                "abstract",
+                "cool"
+            ],
+            "downloadable": true,
+            "url": "Abstract/blue_flower_background.jpg",
+            "thumbnail": "thumbnails/Abstract/blue_flower_background_thumb.jpg"
+        },
+        {
+            "name": "Blue Color Gradient",
+            "author": "YTECHB | iPhone Wallpapers | Aesthetic Wallpapers Hub",
+            "dimensions": "1170x2532",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "calm",
+                "minimalist",
+                "abstract",
+                "smooth",
+                "cool"
+            ],
+            "downloadable": true,
+            "url": "Abstract/blue_color_gradient.jpg",
+            "thumbnail": "thumbnails/Abstract/blue_color_gradient_thumb.jpg"
+        },
+        {
+            "name": "Colorful Balloons Background",
+            "author": "YTECHB | iPhone Wallpapers | Aesthetic Wallpapers Hub",
+            "dimensions": "1430x3200",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "cheerful",
+                "celebration",
+                "colorful",
+                "playful"
+            ],
+            "downloadable": true,
+            "url": "Abstract/colorful_balloons_background.jpg",
+            "thumbnail": "thumbnails/Abstract/colorful_balloons_background_thumb.jpg"
+        },
+        {
+            "name": "Abstract Light Colors",
+            "author": "Unknown",
+            "dimensions": "1080x2412",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "soft",
+                "calm",
+                "minimalist",
+                "modern",
+                "gentle"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_light_colors.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_light_colors_thumb.jpg"
+        },
+        {
+            "name": "Colorful Fabric Motion",
+            "author": "ATimor Arts",
+            "dimensions": "736x1632",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "vibrant",
+                "soft",
+                "textile",
+                "flowing",
+                "abstract"
+            ],
+            "downloadable": true,
+            "url": "Abstract/colorful_fabric_motion.jpg",
+            "thumbnail": "thumbnails/Abstract/colorful_fabric_motion_thumb.jpg"
+        },
+        {
+            "name": "Abstract Color Wave 1",
+            "author": "Monu",
+            "dimensions": "1080x2400",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "vibrant",
+                "smooth",
+                "artistic",
+                "modern",
+                "dynamic"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_color_wave_1.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_color_wave_1_thumb.jpg"
+        },
+        {
+            "name": "Soft Blue Curves",
+            "author": "Unknown",
+            "dimensions": "736x1593",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "smooth",
+                "abstract",
+                "fluid",
+                "minimalist"
+            ],
+            "downloadable": true,
+            "url": "Abstract/soft_blue_curves.jpg",
+            "thumbnail": "thumbnails/Abstract/soft_blue_curves_thumb.jpg"
+        },
+        {
+            "name": "Abstract Curve Wave",
+            "author": "Unknown",
+            "dimensions": "1080x2400",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "calm",
+                "modern",
+                "smooth",
+                "blue"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_curve_wave.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_curve_wave_thumb.jpg"
+        },
+        {
+            "name": "Abstract Orange Shape",
+            "author": "Unknown",
+            "dimensions": "1080x2400",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "smooth",
+                "modern",
+                "art",
+                "vibrant",
+                "design"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_orange_shape.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_orange_shape_thumb.jpg"
+        },
+        {
+            "name": "Abstract Blue Purple",
+            "author": "Unknown",
+            "dimensions": "1080x2400",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "calm",
+                "abstract",
+                "gradient",
+                "smooth"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_blue_purple.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_blue_purple_thumb.jpg"
+        },
+        {
+            "name": "Abstract Color Gradient",
+            "author": "Unknown",
+            "dimensions": "736x1634",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "vibrant",
+                "smooth",
+                "colorful",
+                "modern",
+                "artistic"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_color_gradient.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_color_gradient_thumb.jpg"
+        },
+        {
+            "name": "Abstract Color Wave 2",
+            "author": "Mr.Ak.\ud83e\udd70 khan \ud83c\udf41\u2763\ufe0f",
+            "dimensions": "720x1600",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "fluid",
+                "art",
+                "dynamic",
+                "vibrant"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_color_wave_2.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_color_wave_2_thumb.jpg"
+        },
+        {
+            "name": "Hooded Cyberpunk Figure",
+            "author": "Unknown",
+            "dimensions": "1472x3264",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "mysterious",
+                "futuristic",
+                "urban",
+                "tech"
+            ],
+            "downloadable": true,
+            "url": "Abstract/hooded_cyberpunk_figure.jpg",
+            "thumbnail": "thumbnails/Abstract/hooded_cyberpunk_figure_thumb.jpg"
+        },
+        {
+            "name": "Abstract Stone Sculpture",
+            "author": "Unknown",
+            "dimensions": "573x1280",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "calm",
+                "modern",
+                "minimalist",
+                "art",
+                "purple"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_stone_sculpture.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_stone_sculpture_thumb.jpg"
+        },
+        {
+            "name": "Abstract Color Pattern",
+            "author": "Unknown",
+            "dimensions": "720x1600",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "calm",
+                "modern",
+                "art",
+                "smooth"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_color_pattern.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_color_pattern_thumb.jpg"
+        },
+        {
+            "name": "Black Hole Space",
+            "author": "Unknown",
+            "dimensions": "943x2048",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "mysterious",
+                "cosmos",
+                "etheral",
+                "science"
+            ],
+            "downloadable": true,
+            "url": "Abstract/black_hole_space.jpg",
+            "thumbnail": "thumbnails/Abstract/black_hole_space_thumb.jpg"
+        },
+        {
+            "name": "Dock Reflection Water",
+            "author": "\u041e\u0431\u043e\u0438 \u043d\u0430 \u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d HD/4K/8K",
+            "dimensions": "540x1200",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "calm",
+                "serene",
+                "blue",
+                "nature",
+                "minimalist"
+            ],
+            "downloadable": true,
+            "url": "Abstract/dock_reflection_water.jpg",
+            "thumbnail": "thumbnails/Abstract/dock_reflection_water_thumb.jpg"
+        },
+        {
+            "name": "Modern Abstract Design",
+            "author": "Emil Narimanov",
+            "dimensions": "1068x2232",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "calm",
+                "geometric",
+                "colorful",
+                "minimal"
+            ],
+            "downloadable": true,
+            "url": "Abstract/modern_abstract_design.jpg",
+            "thumbnail": "thumbnails/Abstract/modern_abstract_design_thumb.jpg"
+        },
+        {
+            "name": "Person Desert Landscape",
+            "author": "Unknown",
+            "dimensions": "736x1642",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "tranquil",
+                "minimalist",
+                "solitude",
+                "sky"
+            ],
+            "downloadable": true,
+            "url": "Abstract/person_desert_landscape.jpg",
+            "thumbnail": "thumbnails/Abstract/person_desert_landscape_thumb.jpg"
+        },
+        {
+            "name": "Soldier Military Smoke",
+            "author": "Unknown",
+            "dimensions": "1080x2400",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "serious",
+                "military",
+                "tactical",
+                "intense"
+            ],
+            "downloadable": true,
+            "url": "Abstract/soldier_military_smoke.jpg",
+            "thumbnail": "thumbnails/Abstract/soldier_military_smoke_thumb.jpg"
+        },
+        {
+            "name": "Abstract Color Shapes 2",
+            "author": "Unknown",
+            "dimensions": "1290x2807",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "minimalist",
+                "modern",
+                "geometric",
+                "art"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_color_shapes_2.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_color_shapes_2_thumb.jpg"
+        },
+        {
+            "name": "Purple Sky Gradient",
+            "author": "Rodv.Inc",
+            "dimensions": "736x1553",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "calm",
+                "sky",
+                "gradient",
+                "abstract"
+            ],
+            "downloadable": true,
+            "url": "Abstract/purple_sky_gradient.jpg",
+            "thumbnail": "thumbnails/Abstract/purple_sky_gradient_thumb.jpg"
+        },
+        {
+            "name": "White Stairs Sky",
+            "author": "Unknown",
+            "dimensions": "1600x3600",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "minimalist",
+                "modern",
+                "calm",
+                "architecture"
+            ],
+            "downloadable": true,
+            "url": "Abstract/white_stairs_sky.jpg",
+            "thumbnail": "thumbnails/Abstract/white_stairs_sky_thumb.jpg"
+        },
+        {
+            "name": "Leaf Black White",
+            "author": "Unknown",
+            "dimensions": "736x1595",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "mysterious",
+                "nature",
+                "abstract",
+                "silhouette"
+            ],
+            "downloadable": true,
+            "url": "Abstract/leaf_black_white.jpg",
+            "thumbnail": "thumbnails/Abstract/leaf_black_white_thumb.jpg"
+        },
+        {
+            "name": "Lantern Cherry Blossom",
+            "author": "Unknown",
+            "dimensions": "1463x3165",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "serene",
+                "nature",
+                "spring",
+                "flower"
+            ],
+            "downloadable": true,
+            "url": "Abstract/lantern_cherry_blossom.jpg",
+            "thumbnail": "thumbnails/Abstract/lantern_cherry_blossom_thumb.jpg"
+        },
+        {
+            "name": "Train Station Tracks",
+            "author": "Unknown",
+            "dimensions": "736x1472",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "transportation",
+                "sky",
+                "perspective",
+                "urban"
+            ],
+            "downloadable": true,
+            "url": "Abstract/train_station_tracks.jpg",
+            "thumbnail": "thumbnails/Abstract/train_station_tracks_thumb.jpg"
+        },
+        {
+            "name": "Coffee Cup Table",
+            "author": "Wallpapers Phone&Pad HD",
+            "dimensions": "1125x2436",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "cozy",
+                "beverage",
+                "artistic",
+                "warm"
+            ],
+            "downloadable": true,
+            "url": "Abstract/coffee_cup_table.jpg",
+            "thumbnail": "thumbnails/Abstract/coffee_cup_table_thumb.jpg"
+        },
+        {
+            "name": "Coffee Cup Wood",
+            "author": "Unknown",
+            "dimensions": "720x1503",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "warm",
+                "cozy",
+                "still_life",
+                "minimalist"
+            ],
+            "downloadable": true,
+            "url": "Abstract/coffee_cup_wood.jpg",
+            "thumbnail": "thumbnails/Abstract/coffee_cup_wood_thumb.jpg"
+        },
+        {
+            "name": "Graffiti Art Door",
+            "author": "4K WALLVIEW",
+            "dimensions": "924x2048",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "colorful",
+                "urban",
+                "graffiti",
+                "vibrant",
+                "modern"
+            ],
+            "downloadable": true,
+            "url": "Abstract/graffiti_art_door.jpg",
+            "thumbnail": "thumbnails/Abstract/graffiti_art_door_thumb.jpg"
+        },
+        {
+            "name": "Dark Sand Swirls",
+            "author": "Unknown",
+            "dimensions": "736x1594",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "mysterious",
+                "abstract",
+                "texture",
+                "flow"
+            ],
+            "downloadable": true,
+            "url": "Abstract/dark_sand_swirls.jpg",
+            "thumbnail": "thumbnails/Abstract/dark_sand_swirls_thumb.jpg"
+        },
+        {
+            "name": "Cactus Pot Simple",
+            "author": "G\u00f6zde",
+            "dimensions": "720x1600",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "minimalist",
+                "green",
+                "decor",
+                "plants"
+            ],
+            "downloadable": true,
+            "url": "Abstract/cactus_pot_simple.jpg",
+            "thumbnail": "thumbnails/Abstract/cactus_pot_simple_thumb.jpg"
+        },
+        {
+            "name": "Coffee Cup Plate",
+            "author": "Unknown",
+            "dimensions": "1080x2340",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "light",
+                "calm",
+                "minimalist",
+                "food",
+                "beverage"
+            ],
+            "downloadable": true,
+            "url": "Abstract/coffee_cup_plate.jpg",
+            "thumbnail": "thumbnails/Abstract/coffee_cup_plate_thumb.jpg"
+        },
+        {
+            "name": "Man Light Shadows",
+            "author": "Unknown",
+            "dimensions": "946x2048",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "mysterious",
+                "solitude",
+                "surreal",
+                "light"
+            ],
+            "downloadable": true,
+            "url": "Abstract/man_light_shadows.jpg",
+            "thumbnail": "thumbnails/Abstract/man_light_shadows_thumb.jpg"
+        },
+        {
+            "name": "Ferris Wheel Night",
+            "author": "Unknown",
+            "dimensions": "736x1592",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "mysterious",
+                "amusement",
+                "night",
+                "photography"
+            ],
+            "downloadable": true,
+            "url": "Abstract/ferris_wheel_night.jpg",
+            "thumbnail": "thumbnails/Abstract/ferris_wheel_night_thumb.jpg"
+        },
+        {
+            "name": "Architectural Design Wave",
+            "author": "i.pinimg.com",
+            "dimensions": "720x1520",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "modern",
+                "abstract",
+                "pattern",
+                "structure"
+            ],
+            "downloadable": true,
+            "url": "Abstract/architectural_design_wave.jpg",
+            "thumbnail": "thumbnails/Abstract/architectural_design_wave_thumb.jpg"
+        },
+        {
+            "name": "Futuristic Forest Towers",
+            "author": "Unknown",
+            "dimensions": "997x2160",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "mysterious",
+                "calm",
+                "sci-fi",
+                "nature",
+                "moody"
+            ],
+            "downloadable": true,
+            "url": "Abstract/futuristic_forest_towers.jpg",
+            "thumbnail": "thumbnails/Abstract/futuristic_forest_towers_thumb.jpg"
+        },
+        {
+            "name": "Ferris Wheel Sunset",
+            "author": "Ester",
+            "dimensions": "736x1555",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "serene",
+                "amusement",
+                "sky",
+                "pastel"
+            ],
+            "downloadable": true,
+            "url": "Abstract/ferris_wheel_sunset.jpg",
+            "thumbnail": "thumbnails/Abstract/ferris_wheel_sunset_thumb.jpg"
+        },
+        {
+            "name": "Vintage Book Shelf",
+            "author": "Unknown",
+            "dimensions": "474x948",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "nostalgic",
+                "library",
+                "books",
+                "antique"
+            ],
+            "downloadable": true,
+            "url": "Abstract/vintage_book_shelf.jpg",
+            "thumbnail": "thumbnails/Abstract/vintage_book_shelf_thumb.jpg"
+        },
+        {
+            "name": "Ferris Wheel Sky",
+            "author": "Charissa Pierre",
+            "dimensions": "1242x2688",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "calm",
+                "amusement",
+                "sky",
+                "view"
+            ],
+            "downloadable": true,
+            "url": "Abstract/ferris_wheel_sky.jpg",
+            "thumbnail": "thumbnails/Abstract/ferris_wheel_sky_thumb.jpg"
+        },
+        {
+            "name": "Empire State Building",
+            "author": "Gerhard",
+            "dimensions": "1080x2246",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "urban",
+                "landmark",
+                "sunset",
+                "aerial"
+            ],
+            "downloadable": true,
+            "url": "Abstract/empire_state_building.jpg",
+            "thumbnail": "thumbnails/Abstract/empire_state_building_thumb.jpg"
+        },
+        {
+            "name": "Statue Liberty Fog",
+            "author": "Unknown",
+            "dimensions": "974x2160",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "mystical",
+                "monochrome",
+                "iconic",
+                "foggy",
+                "statue"
+            ],
+            "downloadable": true,
+            "url": "Abstract/statue_liberty_fog.jpg",
+            "thumbnail": "thumbnails/Abstract/statue_liberty_fog_thumb.jpg"
+        },
+        {
+            "name": "Orange Building Path",
+            "author": "Areg Every",
+            "dimensions": "688x1728",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "serene",
+                "modern",
+                "architecture",
+                "minimalism"
+            ],
+            "downloadable": true,
+            "url": "Abstract/orange_building_path.jpg",
+            "thumbnail": "thumbnails/Abstract/orange_building_path_thumb.jpg"
+        },
+        {
+            "name": "Modern Architecture Building",
+            "author": "Rahul Jadhav",
+            "dimensions": "1080x2340",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "futuristic",
+                "urban",
+                "design",
+                "purple"
+            ],
+            "downloadable": true,
+            "url": "Abstract/modern_architecture_building.jpg",
+            "thumbnail": "thumbnails/Abstract/modern_architecture_building_thumb.jpg"
+        },
+        {
+            "name": "Street Light Color",
+            "author": "Unknown",
+            "dimensions": "997x2160",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "vibrant",
+                "mood",
+                "night",
+                "urban",
+                "lighting"
+            ],
+            "downloadable": true,
+            "url": "Abstract/street_light_color.jpg",
+            "thumbnail": "thumbnails/Abstract/street_light_color_thumb.jpg"
+        },
+        {
+            "name": "Spartan Warrior Silhouette",
+            "author": "Unknown",
+            "dimensions": "1155x2439",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "strong",
+                "heroic",
+                "battle",
+                "intense"
+            ],
+            "downloadable": true,
+            "url": "Abstract/spartan_warrior_silhouette.jpg",
+            "thumbnail": "thumbnails/Abstract/spartan_warrior_silhouette_thumb.jpg"
+        },
+        {
+            "name": "Samurai Rain Darkness",
+            "author": "Unknown",
+            "dimensions": "1463x3165",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "mysterious",
+                "warrior",
+                "rain",
+                "intense"
+            ],
+            "downloadable": true,
+            "url": "Abstract/samurai_rain_darkness.jpg",
+            "thumbnail": "thumbnails/Abstract/samurai_rain_darkness_thumb.jpg"
+        },
+        {
+            "name": "Foggy Station Morning",
+            "author": "Rusoo",
+            "dimensions": "568x1200",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "mysterious",
+                "solitude",
+                "night",
+                "urban"
+            ],
+            "downloadable": true,
+            "url": "Abstract/foggy_station_morning.jpg",
+            "thumbnail": "thumbnails/Abstract/foggy_station_morning_thumb.jpg"
+        },
+        {
+            "name": "Dark Skull Texture",
+            "author": "Dark Sun",
+            "dimensions": "449x960",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "mysterious",
+                "skull",
+                "gothic",
+                "art"
+            ],
+            "downloadable": true,
+            "url": "Abstract/dark_skull_texture.jpg",
+            "thumbnail": "thumbnails/Abstract/dark_skull_texture_thumb.jpg"
+        },
+        {
+            "name": "Abstract Red Structures",
+            "author": "Unknown",
+            "dimensions": "1284x2778",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "modern",
+                "art",
+                "clouds",
+                "sky"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_red_structures.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_red_structures_thumb.jpg"
+        },
+        {
+            "name": "Light Bulb Dark",
+            "author": "Unknown",
+            "dimensions": "736x1632",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "warm",
+                "minimalist",
+                "lighting",
+                "elegant"
+            ],
+            "downloadable": true,
+            "url": "Abstract/light_bulb_dark.jpg",
+            "thumbnail": "thumbnails/Abstract/light_bulb_dark_thumb.jpg"
+        },
+        {
+            "name": "Old Vintage Books",
+            "author": "unknown",
+            "dimensions": "720x1560",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "warm",
+                "nostalgic",
+                "literature",
+                "texture",
+                "details"
+            ],
+            "downloadable": true,
+            "url": "Abstract/old_vintage_books.jpg",
+            "thumbnail": "thumbnails/Abstract/old_vintage_books_thumb.jpg"
+        },
+        {
+            "name": "Sunset Ocean Reflection",
+            "author": "unknown",
+            "dimensions": "736x1592",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "calm",
+                "monochrome",
+                "serene",
+                "nature"
+            ],
+            "downloadable": true,
+            "url": "Abstract/sunset_ocean_reflection.jpg",
+            "thumbnail": "thumbnails/Abstract/sunset_ocean_reflection_thumb.jpg"
+        },
+        {
+            "name": "Colorful Geometric Shapes",
+            "author": "unknown",
+            "dimensions": "910x2048",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "modern",
+                "abstract",
+                "design",
+                "minimal"
+            ],
+            "downloadable": true,
+            "url": "Abstract/colorful_geometric_shapes.jpg",
+            "thumbnail": "thumbnails/Abstract/colorful_geometric_shapes_thumb.jpg"
+        },
+        {
+            "name": "Keyboard Close Up",
+            "author": "unknown",
+            "dimensions": "720x1520",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "light",
+                "modern",
+                "technology",
+                "focus",
+                "minimal"
+            ],
+            "downloadable": true,
+            "url": "Abstract/keyboard_close_up.jpg",
+            "thumbnail": "thumbnails/Abstract/keyboard_close_up_thumb.jpg"
+        },
+        {
+            "name": "Abstract Shape Design",
+            "author": "unknown",
+            "dimensions": "922x2048",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "light",
+                "modern",
+                "art",
+                "smooth",
+                "minimalist"
+            ],
+            "downloadable": true,
+            "url": "Abstract/abstract_shape_design.jpg",
+            "thumbnail": "thumbnails/Abstract/abstract_shape_design_thumb.jpg"
+        },
+        {
+            "name": "Game Controller Buttons",
+            "author": "unknown",
+            "dimensions": "473x1023",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "colorful",
+                "gaming",
+                "tech",
+                "modern"
+            ],
+            "downloadable": true,
+            "url": "Abstract/game_controller_buttons.jpg",
+            "thumbnail": "thumbnails/Abstract/game_controller_buttons_thumb.jpg"
+        },
+        {
+            "name": "Red Lamp Glow",
+            "author": "unknown",
+            "dimensions": "1386x3000",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "warm",
+                "lighting",
+                "modern",
+                "minimalist"
+            ],
+            "downloadable": true,
+            "url": "Abstract/red_lamp_glow.jpg",
+            "thumbnail": "thumbnails/Abstract/red_lamp_glow_thumb.jpg"
+        },
+        {
+            "name": "Black White Layers",
+            "author": "unknown",
+            "dimensions": "1080x2400",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "minimalist",
+                "calm",
+                "contrast",
+                "abstract",
+                "modern"
+            ],
+            "downloadable": true,
+            "url": "Abstract/black_white_layers.jpg",
+            "thumbnail": "thumbnails/Abstract/black_white_layers_thumb.jpg"
+        },
+        {
+            "name": "Colorful Playstation Symbols",
+            "author": "unknown",
+            "dimensions": "1080x2340",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "playful",
+                "gaming",
+                "minimalist",
+                "vibrant"
+            ],
+            "downloadable": true,
+            "url": "Abstract/colorful_playstation_symbols.jpg",
+            "thumbnail": "thumbnails/Abstract/colorful_playstation_symbols_thumb.jpg"
+        },
+        {
+            "name": "Hanging Light Bulbs",
+            "author": "unknown",
+            "dimensions": "591x1280",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "warm",
+                "cozy",
+                "illumination",
+                "decor",
+                "modern"
+            ],
+            "downloadable": true,
+            "url": "Abstract/hanging_light_bulbs.jpg",
+            "thumbnail": "thumbnails/Abstract/hanging_light_bulbs_thumb.jpg"
+        },
+        {
+            "name": "Fast Food Sign",
+            "author": "unknown",
+            "dimensions": "1179x2563",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "quiet",
+                "urban",
+                "nostalgic",
+                "signage"
+            ],
+            "downloadable": true,
+            "url": "Abstract/fast_food_sign.jpg",
+            "thumbnail": "thumbnails/Abstract/fast_food_sign_thumb.jpg"
+        },
+        {
+            "name": "Hot Air Balloon",
+            "author": "unknown",
+            "dimensions": "1170x2543",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "bright",
+                "tranquil",
+                "sky",
+                "adventure",
+                "travel"
+            ],
+            "downloadable": true,
+            "url": "Abstract/hot_air_balloon.jpg",
+            "thumbnail": "thumbnails/Abstract/hot_air_balloon_thumb.jpg"
+        },
+        {
+            "name": "Camera Map Pipe",
+            "author": "unknown",
+            "dimensions": "1080x2246",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "vintage",
+                "exploration",
+                "travel",
+                "nostalgic",
+                "photography"
+            ],
+            "downloadable": true,
+            "url": "Abstract/camera_map_pipe.jpg",
+            "thumbnail": "thumbnails/Abstract/camera_map_pipe_thumb.jpg"
+        },
+        {
+            "name": "Steaming Coffee Cup",
+            "author": "unknown",
+            "dimensions": "576x1280",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "dark",
+                "calm",
+                "morning",
+                "coffee",
+                "still"
+            ],
+            "downloadable": true,
+            "url": "Abstract/steaming_coffee_cup.jpg",
+            "thumbnail": "thumbnails/Abstract/steaming_coffee_cup_thumb.jpg"
+        },
+        {
+            "name": "Moon Phases Sky",
+            "author": "unknown",
+            "dimensions": "2545x5677",
+            "copyright": "personal use only",
+            "collections": "Abstract",
+            "tags": [
+                "serene",
+                "calm",
+                "nature",
+                "night",
+                "beautiful"
+            ],
+            "downloadable": true,
+            "url": "Abstract/moon_phases_sky.jpg",
+            "thumbnail": "thumbnails/Abstract/moon_phases_sky_thumb.jpg"
+        }
+    ]
+}
