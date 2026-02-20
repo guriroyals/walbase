@@ -1,9 +1,0 @@
-{
-  "Notification": {
-    "id": 2,
-    "title": "removed 8 wallpapers",
-    "message": "fixed crash for amoled",
-    "enabled": true
-  },
-  "totalWallpapers": 1274
-}
