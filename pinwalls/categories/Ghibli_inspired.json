@@ -1,0 +1,22 @@
+{
+    "Wallpapers": [
+        {
+            "name": "Sample Ghibli Inspired Wallpaper",
+            "author": "Unknown",
+            "url": "Ghibli Inspired/sample.jpg",
+            "thumbnail": "thumbnails/Ghibli Inspired/sample_thumb.jpg",
+            "dimensions": "1080x1920",
+            "copyright": "",
+            "collections": "Ghibli Inspired",
+            "downloadable": true,
+            "views": 0,
+            "downloads": 0,
+            "size": "Unknown",
+            "tags": [
+                "ghibli",
+                "anime",
+                "illustration"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "Notification": {
+        "id": 0,
+        "title": "New Wallpapers!",
+        "message": "Check out the latest additions.",
+        "enabled": false
+    },
+    "totalWallpapers": 1274
+}

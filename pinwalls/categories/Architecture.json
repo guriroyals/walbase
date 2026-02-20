@@ -1,0 +1,21 @@
+{
+    "Wallpapers": [
+        {
+            "name": "Sample Architecture Wallpaper",
+            "author": "Unknown",
+            "url": "Architecture/sample.jpg",
+            "thumbnail": "thumbnails/Architecture/sample_thumb.jpg",
+            "dimensions": "1080x1920",
+            "copyright": "",
+            "collections": "Architecture",
+            "downloadable": true,
+            "views": 0,
+            "downloads": 0,
+            "size": "Unknown",
+            "tags": [
+                "architecture",
+                "building"
+            ]
+        }
+    ]
+}

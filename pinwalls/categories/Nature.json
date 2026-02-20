@@ -1,0 +1,18 @@
+{
+  "Wallpapers": [
+    {
+      "name": "Sample Nature Wallpaper",
+      "author": "Unknown",
+      "url": "Nature/sample.jpg",
+      "thumbnail": "thumbnails/Nature/sample_thumb.jpg",
+      "dimensions": "1080x1920",
+      "copyright": "",
+      "collections": "Nature",
+      "downloadable": true,
+      "views": 0,
+      "downloads": 0,
+      "size": "Unknown",
+      "tags": ["nature", "landscape"]
+    }
+  ]
+}

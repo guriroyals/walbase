@@ -1,0 +1,21 @@
+{
+    "Wallpapers": [
+        {
+            "name": "Sample Patterns Wallpaper",
+            "author": "Unknown",
+            "url": "Patterns/sample.jpg",
+            "thumbnail": "thumbnails/Patterns/sample_thumb.jpg",
+            "dimensions": "1080x1920",
+            "copyright": "",
+            "collections": "Patterns",
+            "downloadable": true,
+            "views": 0,
+            "downloads": 0,
+            "size": "Unknown",
+            "tags": [
+                "patterns",
+                "geometric"
+            ]
+        }
+    ]
+}

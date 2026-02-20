@@ -1,0 +1,21 @@
+{
+    "Wallpapers": [
+        {
+            "name": "Sample Creatures Wallpaper",
+            "author": "Unknown",
+            "url": "Creatures/sample.jpg",
+            "thumbnail": "thumbnails/Creatures/sample_thumb.jpg",
+            "dimensions": "1080x1920",
+            "copyright": "",
+            "collections": "Creatures",
+            "downloadable": true,
+            "views": 0,
+            "downloads": 0,
+            "size": "Unknown",
+            "tags": [
+                "creatures",
+                "animals"
+            ]
+        }
+    ]
+}

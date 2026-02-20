@@ -1,0 +1,21 @@
+{
+    "Wallpapers": [
+        {
+            "name": "Sample Abstract Wallpaper",
+            "author": "Unknown",
+            "url": "Abstract/sample.jpg",
+            "thumbnail": "thumbnails/Abstract/sample_thumb.jpg",
+            "dimensions": "1080x1920",
+            "copyright": "",
+            "collections": "Abstract",
+            "downloadable": true,
+            "views": 0,
+            "downloads": 0,
+            "size": "Unknown",
+            "tags": [
+                "abstract",
+                "colorful"
+            ]
+        }
+    ]
+}

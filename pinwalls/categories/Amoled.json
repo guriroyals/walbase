@@ -1,0 +1,21 @@
+{
+    "Wallpapers": [
+        {
+            "name": "Sample Amoled Wallpaper",
+            "author": "Unknown",
+            "url": "Amoled/sample.jpg",
+            "thumbnail": "thumbnails/Amoled/sample_thumb.jpg",
+            "dimensions": "1080x1920",
+            "copyright": "",
+            "collections": "Amoled",
+            "downloadable": true,
+            "views": 0,
+            "downloads": 0,
+            "size": "Unknown",
+            "tags": [
+                "amoled",
+                "dark"
+            ]
+        }
+    ]
+}

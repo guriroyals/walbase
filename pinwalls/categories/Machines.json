@@ -1,0 +1,21 @@
+{
+    "Wallpapers": [
+        {
+            "name": "Sample Machines Wallpaper",
+            "author": "Unknown",
+            "url": "Machines/sample.jpg",
+            "thumbnail": "thumbnails/Machines/sample_thumb.jpg",
+            "dimensions": "1080x1920",
+            "copyright": "",
+            "collections": "Machines",
+            "downloadable": true,
+            "views": 0,
+            "downloads": 0,
+            "size": "Unknown",
+            "tags": [
+                "machines",
+                "cars"
+            ]
+        }
+    ]
+}
