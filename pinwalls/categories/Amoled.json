@@ -1,21 +1,2025 @@
-{
-    "Wallpapers": [
-        {
-            "name": "Sample Amoled Wallpaper",
-            "author": "Unknown",
-            "url": "Amoled/sample.jpg",
-            "thumbnail": "thumbnails/Amoled/sample_thumb.jpg",
-            "dimensions": "1080x1920",
-            "copyright": "",
-            "collections": "Amoled",
-            "downloadable": true,
-            "views": 0,
-            "downloads": 0,
-            "size": "Unknown",
-            "tags": [
-                "amoled",
-                "dark"
-            ]
-        }
-    ]
-}
+[
+  {
+    "name": "Black Cat Coffee",
+    "author": "Unknown",
+    "dimensions": "997x2160",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "light",
+      "cozy",
+      "illustration",
+      "cat",
+      "cute"
+    ],
+    "downloadable": true,
+    "url": "Amoled/black_cat_coffee.jpg",
+    "thumbnail": "thumbnails/Amoled/black_cat_coffee_thumb.jpg"
+  },
+  {
+    "name": "Gaming Controller Play",
+    "author": "ℜ⋀⅂⅁ტℛɣCєภVєภคl",
+    "dimensions": "1088x2410",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "fun",
+      "gaming",
+      "digital",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Amoled/gaming_controller_play.jpg",
+    "thumbnail": "thumbnails/Amoled/gaming_controller_play_thumb.jpg"
+  },
+  {
+    "name": "Bmw Headlights Dark",
+    "author": "Hình nền",
+    "dimensions": "1125x2436",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "sleek",
+      "car",
+      "mystery",
+      "luxury"
+    ],
+    "downloadable": true,
+    "url": "Amoled/bmw_headlights_dark.jpg",
+    "thumbnail": "thumbnails/Amoled/bmw_headlights_dark_thumb.jpg"
+  },
+  {
+    "name": "Car Headlight Dark",
+    "author": "Маргарита Шлыкова",
+    "dimensions": "750x1624",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "automotive",
+      "light",
+      "sleek"
+    ],
+    "downloadable": true,
+    "url": "Amoled/car_headlight_dark.jpg",
+    "thumbnail": "thumbnails/Amoled/car_headlight_dark_thumb.jpg"
+  },
+  {
+    "name": "Lonely Tree Mist",
+    "author": "Unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "nature",
+      "tree",
+      "fog"
+    ],
+    "downloadable": true,
+    "url": "Amoled/lonely_tree_mist.jpg",
+    "thumbnail": "thumbnails/Amoled/lonely_tree_mist_thumb.jpg"
+  },
+  {
+    "name": "Dark Mountain Night",
+    "author": "Unknown",
+    "dimensions": "736x1594",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mystical",
+      "landscape",
+      "nature",
+      "calm"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dark_mountain_night.jpg",
+    "thumbnail": "thumbnails/Amoled/dark_mountain_night_thumb.jpg"
+  },
+  {
+    "name": "Mountain Clouds Black",
+    "author": "Unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "nature",
+      "landscape",
+      "monochrome"
+    ],
+    "downloadable": true,
+    "url": "Amoled/mountain_clouds_black.jpg",
+    "thumbnail": "thumbnails/Amoled/mountain_clouds_black_thumb.jpg"
+  },
+  {
+    "name": "Coffee Cup Smoke",
+    "author": "Unknown",
+    "dimensions": "736x1593",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "calm",
+      "beverage",
+      "aroma",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Amoled/coffee_cup_smoke.jpg",
+    "thumbnail": "thumbnails/Amoled/coffee_cup_smoke_thumb.jpg"
+  },
+  {
+    "name": "Dark Texture Background",
+    "author": "Unknown",
+    "dimensions": "1397x3024",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "texture",
+      "abstract",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dark_texture_background.jpg",
+    "thumbnail": "thumbnails/Amoled/dark_texture_background_thumb.jpg"
+  },
+  {
+    "name": "Exist Sign Icon",
+    "author": "vy thanh🧜🏼‍♀️",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "modern",
+      "neon",
+      "graphic",
+      "symbol"
+    ],
+    "downloadable": true,
+    "url": "Amoled/exist_sign_icon.jpg",
+    "thumbnail": "thumbnails/Amoled/exist_sign_icon_thumb.jpg"
+  },
+  {
+    "name": "City Skyline Dusk",
+    "author": "Unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "serene",
+      "urban",
+      "evening",
+      "silhouette"
+    ],
+    "downloadable": true,
+    "url": "Amoled/city_skyline_dusk.jpg",
+    "thumbnail": "thumbnails/Amoled/city_skyline_dusk_thumb.jpg"
+  },
+  {
+    "name": "Mountain Sunset Reflection",
+    "author": "Unknown",
+    "dimensions": "736x1632",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "vibrant",
+      "serene",
+      "nature",
+      "landscape",
+      "orange"
+    ],
+    "downloadable": true,
+    "url": "Amoled/mountain_sunset_reflection.jpg",
+    "thumbnail": "thumbnails/Amoled/mountain_sunset_reflection_thumb.jpg"
+  },
+  {
+    "name": "Abstract Color Gradient",
+    "author": "wallpapers.ispazio.net",
+    "dimensions": "1536x3340",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "vibrant",
+      "smooth",
+      "modern",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Amoled/abstract_color_gradient.jpg",
+    "thumbnail": "thumbnails/Amoled/abstract_color_gradient_thumb.jpg"
+  },
+  {
+    "name": "Dark Building Lighting",
+    "author": "Unknown",
+    "dimensions": "736x1594",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "urban",
+      "neon",
+      "night"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dark_building_lighting.jpg",
+    "thumbnail": "thumbnails/Amoled/dark_building_lighting_thumb.jpg"
+  },
+  {
+    "name": "Dark Ocean Wave",
+    "author": "Bullet74",
+    "dimensions": "886x1920",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "calm",
+      "water",
+      "mysterious",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dark_ocean_wave.jpg",
+    "thumbnail": "thumbnails/Amoled/dark_ocean_wave_thumb.jpg"
+  },
+  {
+    "name": "Mystic Night Street",
+    "author": "Anutk",
+    "dimensions": "720x1560",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "street",
+      "fog",
+      "lights"
+    ],
+    "downloadable": true,
+    "url": "Amoled/mystic_night_street.jpg",
+    "thumbnail": "thumbnails/Amoled/mystic_night_street_thumb.jpg"
+  },
+  {
+    "name": "Colorful Bubble Pattern",
+    "author": "Unknown",
+    "dimensions": "757x1600",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "abstract",
+      "colorful",
+      "art",
+      "smooth"
+    ],
+    "downloadable": true,
+    "url": "Amoled/colorful_bubble_pattern.jpg",
+    "thumbnail": "thumbnails/Amoled/colorful_bubble_pattern_thumb.jpg"
+  },
+  {
+    "name": "Lamp Light Fog",
+    "author": "Unknown",
+    "dimensions": "946x2048",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "atmospheric",
+      "solitude",
+      "night"
+    ],
+    "downloadable": true,
+    "url": "Amoled/lamp_light_fog.jpg",
+    "thumbnail": "thumbnails/Amoled/lamp_light_fog_thumb.jpg"
+  },
+  {
+    "name": "Dark Sport Car",
+    "author": "Unknown",
+    "dimensions": "1242x2689",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "sleek",
+      "automotive",
+      "modern",
+      "performance"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dark_sport_car.jpg",
+    "thumbnail": "thumbnails/Amoled/dark_sport_car_thumb.jpg"
+  },
+  {
+    "name": "Toronto City Moon",
+    "author": "Unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "calm",
+      "city",
+      "night",
+      "urban"
+    ],
+    "downloadable": true,
+    "url": "Amoled/toronto_city_moon.jpg",
+    "thumbnail": "thumbnails/Amoled/toronto_city_moon_thumb.jpg"
+  },
+  {
+    "name": "Yellow Sunrise Circle",
+    "author": "Unknown",
+    "dimensions": "1080x2640",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "minimalist",
+      "nature",
+      "calm",
+      "abstract"
+    ],
+    "downloadable": true,
+    "url": "Amoled/yellow_sunrise_circle.jpg",
+    "thumbnail": "thumbnails/Amoled/yellow_sunrise_circle_thumb.jpg"
+  },
+  {
+    "name": "Earth Space View",
+    "author": "Unknown",
+    "dimensions": "1256x2760",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "vast",
+      "planet",
+      "nature",
+      "beautiful"
+    ],
+    "downloadable": true,
+    "url": "Amoled/earth_space_view.jpg",
+    "thumbnail": "thumbnails/Amoled/earth_space_view_thumb.jpg"
+  },
+  {
+    "name": "Forest Night Light",
+    "author": "Unknown",
+    "dimensions": "1385x3000",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "nature",
+      "calm",
+      "trees"
+    ],
+    "downloadable": true,
+    "url": "Amoled/forest_night_light.jpg",
+    "thumbnail": "thumbnails/Amoled/forest_night_light_thumb.jpg"
+  },
+  {
+    "name": "Fighter Plane Trio",
+    "author": "GW Bird71",
+    "dimensions": "1170x2532",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "dynamic",
+      "aircraft",
+      "colors",
+      "movement"
+    ],
+    "downloadable": true,
+    "url": "Amoled/fighter_plane_trio.jpg",
+    "thumbnail": "thumbnails/Amoled/fighter_plane_trio_thumb.jpg"
+  },
+  {
+    "name": "Snowy Mountain Peaks",
+    "author": "4K WALLVIEW",
+    "dimensions": "1848x4096",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "serene",
+      "nature",
+      "minimalist",
+      "snow"
+    ],
+    "downloadable": true,
+    "url": "Amoled/snowy_mountain_peaks.jpg",
+    "thumbnail": "thumbnails/Amoled/snowy_mountain_peaks_thumb.jpg"
+  },
+  {
+    "name": "Circle Orange Black",
+    "author": "Wallpapers Central",
+    "dimensions": "888x1920",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "minimalist",
+      "geometric",
+      "simple",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Amoled/circle_orange_black.jpg",
+    "thumbnail": "thumbnails/Amoled/circle_orange_black_thumb.jpg"
+  },
+  {
+    "name": "Lamp Light Darkness",
+    "author": "Unknown",
+    "dimensions": "720x1560",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "calm",
+      "lighting",
+      "minimalist",
+      "elegant"
+    ],
+    "downloadable": true,
+    "url": "Amoled/lamp_light_darkness.jpg",
+    "thumbnail": "thumbnails/Amoled/lamp_light_darkness_thumb.jpg"
+  },
+  {
+    "name": "Futuristic Tech Design",
+    "author": "Unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "vibrant",
+      "geometric",
+      "digital",
+      "neon"
+    ],
+    "downloadable": true,
+    "url": "Amoled/futuristic_tech_design.jpg",
+    "thumbnail": "thumbnails/Amoled/futuristic_tech_design_thumb.jpg"
+  },
+  {
+    "name": "Sunset Silhouette Nature",
+    "author": "Unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "serene",
+      "nature",
+      "sky",
+      "beautiful"
+    ],
+    "downloadable": true,
+    "url": "Amoled/sunset_silhouette_nature.jpg",
+    "thumbnail": "thumbnails/Amoled/sunset_silhouette_nature_thumb.jpg"
+  },
+  {
+    "name": "Red Planet Surface",
+    "author": "Unknown",
+    "dimensions": "972x2160",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "space",
+      "planet",
+      "abstract"
+    ],
+    "downloadable": true,
+    "url": "Amoled/red_planet_surface.jpg",
+    "thumbnail": "thumbnails/Amoled/red_planet_surface_thumb.jpg"
+  },
+  {
+    "name": "Abstract Color Waves",
+    "author": "Unknown",
+    "dimensions": "720x1520",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "vibrant",
+      "modern",
+      "minimalist",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Amoled/abstract_color_waves.jpg",
+    "thumbnail": "thumbnails/Amoled/abstract_color_waves_thumb.jpg"
+  },
+  {
+    "name": "Tree Moon Sunset",
+    "author": "Unknown",
+    "dimensions": "736x1593",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "serene",
+      "nature",
+      "silhouette",
+      "evening"
+    ],
+    "downloadable": true,
+    "url": "Amoled/tree_moon_sunset.jpg",
+    "thumbnail": "thumbnails/Amoled/tree_moon_sunset_thumb.jpg"
+  },
+  {
+    "name": "Mountain Scenery Night",
+    "author": "Unknown",
+    "dimensions": "720x1600",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "serene",
+      "nature",
+      "landscape",
+      "vibrant"
+    ],
+    "downloadable": true,
+    "url": "Amoled/mountain_scenery_night.jpg",
+    "thumbnail": "thumbnails/Amoled/mountain_scenery_night_thumb.jpg"
+  },
+  {
+    "name": "Mars Planet Surface",
+    "author": "Unknown",
+    "dimensions": "1125x2436",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "space",
+      "planet",
+      "orange"
+    ],
+    "downloadable": true,
+    "url": "Amoled/mars_planet_surface.jpg",
+    "thumbnail": "thumbnails/Amoled/mars_planet_surface_thumb.jpg"
+  },
+  {
+    "name": "Horizon Night Sky",
+    "author": "Unknown",
+    "dimensions": "1412x3035",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "tranquil",
+      "landscape",
+      "night",
+      "peaceful"
+    ],
+    "downloadable": true,
+    "url": "Amoled/horizon_night_sky.jpg",
+    "thumbnail": "thumbnails/Amoled/horizon_night_sky_thumb.jpg"
+  },
+  {
+    "name": "Glowing Light Bulb",
+    "author": "Unknown",
+    "dimensions": "923x2048",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "modern",
+      "minimalist",
+      "design",
+      "technology"
+    ],
+    "downloadable": true,
+    "url": "Amoled/glowing_light_bulb.jpg",
+    "thumbnail": "thumbnails/Amoled/glowing_light_bulb_thumb.jpg"
+  },
+  {
+    "name": "Glowing Cube Dark",
+    "author": "Unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "futuristic",
+      "minimalistic",
+      "technology",
+      "mystery"
+    ],
+    "downloadable": true,
+    "url": "Amoled/glowing_cube_dark.jpg",
+    "thumbnail": "thumbnails/Amoled/glowing_cube_dark_thumb.jpg"
+  },
+  {
+    "name": "Dark Space Horizon",
+    "author": "iPhone wallpaper",
+    "dimensions": "1080x2339",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "calm",
+      "space",
+      "abstract",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dark_space_horizon.jpg",
+    "thumbnail": "thumbnails/Amoled/dark_space_horizon_thumb.jpg"
+  },
+  {
+    "name": "Piano Black Keys",
+    "author": "Sonia Lorenzo",
+    "dimensions": "555x1200",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "serene",
+      "music",
+      "elegant",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Amoled/piano_black_keys.jpg",
+    "thumbnail": "thumbnails/Amoled/piano_black_keys_thumb.jpg"
+  },
+  {
+    "name": "Orange Flower Bunch",
+    "author": "Rafaela Ramos",
+    "dimensions": "736x1599",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "vibrant",
+      "nature",
+      "floral",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Amoled/orange_flower_bunch.jpg",
+    "thumbnail": "thumbnails/Amoled/orange_flower_bunch_thumb.jpg"
+  },
+  {
+    "name": "Motivational Quote Text",
+    "author": "Emma Aura",
+    "dimensions": "736x1840",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "inspirational",
+      "typography",
+      "minimalist",
+      "positive"
+    ],
+    "downloadable": true,
+    "url": "Amoled/motivational_quote_text.jpg",
+    "thumbnail": "thumbnails/Amoled/motivational_quote_text_thumb.jpg"
+  },
+  {
+    "name": "Abstract Red Black",
+    "author": "Unknown",
+    "dimensions": "736x1635",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "modern",
+      "geometric",
+      "design",
+      "dynamic"
+    ],
+    "downloadable": true,
+    "url": "Amoled/abstract_red_black.jpg",
+    "thumbnail": "thumbnails/Amoled/abstract_red_black_thumb.jpg"
+  },
+  {
+    "name": "Dark Green Leaves",
+    "author": "GW Bird71",
+    "dimensions": "734x1632",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "calm",
+      "nature",
+      "leaves",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dark_green_leaves.jpg",
+    "thumbnail": "thumbnails/Amoled/dark_green_leaves_thumb.jpg"
+  },
+  {
+    "name": "Car Wheel Black",
+    "author": "Simple Book",
+    "dimensions": "1023x2081",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "sleek",
+      "automotive",
+      "modern",
+      "stylish"
+    ],
+    "downloadable": true,
+    "url": "Amoled/car_wheel_black.jpg",
+    "thumbnail": "thumbnails/Amoled/car_wheel_black_thumb.jpg"
+  },
+  {
+    "name": "Guitar Red Silhouette",
+    "author": "natashadoucette",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mystical",
+      "music",
+      "elegant",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Amoled/guitar_red_silhouette.jpg",
+    "thumbnail": "thumbnails/Amoled/guitar_red_silhouette_thumb.jpg"
+  },
+  {
+    "name": "Dark Sport Car 1",
+    "author": "Unknown",
+    "dimensions": "736x1596",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "car",
+      "sleek",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dark_sport_car_1.jpg",
+    "thumbnail": "thumbnails/Amoled/dark_sport_car_1_thumb.jpg"
+  },
+  {
+    "name": "Porsche Gt3 Back",
+    "author": "Unknown",
+    "dimensions": "633x1308",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "sleek",
+      "car",
+      "sporty",
+      "luxury"
+    ],
+    "downloadable": true,
+    "url": "Amoled/porsche_gt3_back.jpg",
+    "thumbnail": "thumbnails/Amoled/porsche_gt3_back_thumb.jpg"
+  },
+  {
+    "name": "Cave Silhouette Sunset",
+    "author": "Unknown",
+    "dimensions": "1632x4253",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "warm",
+      "serene",
+      "nature",
+      "landscape",
+      "exploration"
+    ],
+    "downloadable": true,
+    "url": "Amoled/cave_silhouette_sunset.jpg",
+    "thumbnail": "thumbnails/Amoled/cave_silhouette_sunset_thumb.jpg"
+  },
+  {
+    "name": "Dark Sportscar Tail",
+    "author": "i.pinimg.com",
+    "dimensions": "736x1627",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "car",
+      "sleek",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dark_sportscar_tail.jpg",
+    "thumbnail": "thumbnails/Amoled/dark_sportscar_tail_thumb.jpg"
+  },
+  {
+    "name": "Earth Space Dark",
+    "author": "BRUCEGAO",
+    "dimensions": "736x1593",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "planet",
+      "cosmos",
+      "vast"
+    ],
+    "downloadable": true,
+    "url": "Amoled/earth_space_dark.jpg",
+    "thumbnail": "thumbnails/Amoled/earth_space_dark_thumb.jpg"
+  },
+  {
+    "name": "Black Car Silhouette",
+    "author": "ImBoredDave",
+    "dimensions": "700x1439",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "elegant",
+      "car",
+      "mysterious",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Amoled/black_car_silhouette.jpg",
+    "thumbnail": "thumbnails/Amoled/black_car_silhouette_thumb.jpg"
+  },
+  {
+    "name": "Colorful Light Patterns",
+    "author": "Pure Celebrity Facts",
+    "dimensions": "1440x3200",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "vibrant",
+      "abstract",
+      "art",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Amoled/colorful_light_patterns.jpg",
+    "thumbnail": "thumbnails/Amoled/colorful_light_patterns_thumb.jpg"
+  },
+  {
+    "name": "Blue Flower Shape",
+    "author": "Unknown",
+    "dimensions": "1242x2688",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "calm",
+      "abstract",
+      "flower",
+      "artistic"
+    ],
+    "downloadable": true,
+    "url": "Amoled/blue_flower_shape.jpg",
+    "thumbnail": "thumbnails/Amoled/blue_flower_shape_thumb.jpg"
+  },
+  {
+    "name": "Neon Light Ring",
+    "author": "Best iPhone and Android Wallpapers – Wallpaperize.cc",
+    "dimensions": "738x1600",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "futuristic",
+      "abstract",
+      "colorful",
+      "smooth"
+    ],
+    "downloadable": true,
+    "url": "Amoled/neon_light_ring.jpg",
+    "thumbnail": "thumbnails/Amoled/neon_light_ring_thumb.jpg"
+  },
+  {
+    "name": "Cosmic Dark Swirls",
+    "author": "Unknown",
+    "dimensions": "1242x2688",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "space",
+      "cosmos",
+      "abstract"
+    ],
+    "downloadable": true,
+    "url": "Amoled/cosmic_dark_swirls.jpg",
+    "thumbnail": "thumbnails/Amoled/cosmic_dark_swirls_thumb.jpg"
+  },
+  {
+    "name": "Earth Space Horizon",
+    "author": "Unknown",
+    "dimensions": "1890x4096",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "planet",
+      "universe",
+      "sci-fi"
+    ],
+    "downloadable": true,
+    "url": "Amoled/earth_space_horizon.jpg",
+    "thumbnail": "thumbnails/Amoled/earth_space_horizon_thumb.jpg"
+  },
+  {
+    "name": "Samurai Silhouette Sunset",
+    "author": "Unknown",
+    "dimensions": "1613x3495",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "calm",
+      "minimalist",
+      "nature",
+      "drama"
+    ],
+    "downloadable": true,
+    "url": "Amoled/samurai_silhouette_sunset.jpg",
+    "thumbnail": "thumbnails/Amoled/samurai_silhouette_sunset_thumb.jpg"
+  },
+  {
+    "name": "Orange Fruit Stilllife",
+    "author": "Unknown",
+    "dimensions": "1111x2560",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "fresh",
+      "fruit",
+      "colorful",
+      "contrast"
+    ],
+    "downloadable": true,
+    "url": "Amoled/orange_fruit_stilllife.jpg",
+    "thumbnail": "thumbnails/Amoled/orange_fruit_stilllife_thumb.jpg"
+  },
+  {
+    "name": "Soldier Dark Silhouette",
+    "author": "GooD Picture",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "serious",
+      "military",
+      "mysterious",
+      "tension"
+    ],
+    "downloadable": true,
+    "url": "Amoled/soldier_dark_silhouette.jpg",
+    "thumbnail": "thumbnails/Amoled/soldier_dark_silhouette_thumb.jpg"
+  },
+  {
+    "name": "Black Abstract Shapes",
+    "author": "Unknown",
+    "dimensions": "942x2048",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "minimalistic",
+      "shape",
+      "abstract",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Amoled/black_abstract_shapes.jpg",
+    "thumbnail": "thumbnails/Amoled/black_abstract_shapes_thumb.jpg"
+  },
+  {
+    "name": "Bmw M8 Coupe",
+    "author": "ＳＮＩＰΞＲ",
+    "dimensions": "3240x7224",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "light",
+      "sporty",
+      "car",
+      "dynamic",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Amoled/bmw_m8_coupe.jpg",
+    "thumbnail": "thumbnails/Amoled/bmw_m8_coupe_thumb.jpg"
+  },
+  {
+    "name": "Glowing Shape Design",
+    "author": "iPhone wallpaper",
+    "dimensions": "828x1792",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "futuristic",
+      "abstract",
+      "colorful",
+      "smooth"
+    ],
+    "downloadable": true,
+    "url": "Amoled/glowing_shape_design.jpg",
+    "thumbnail": "thumbnails/Amoled/glowing_shape_design_thumb.jpg"
+  },
+  {
+    "name": "Space Person Thoughts",
+    "author": ". ˖ ࣪  pratap & angad  ࣪˖ .",
+    "dimensions": "1385x3000",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "space",
+      "reflective",
+      "dreamy"
+    ],
+    "downloadable": true,
+    "url": "Amoled/space_person_thoughts.jpg",
+    "thumbnail": "thumbnails/Amoled/space_person_thoughts_thumb.jpg"
+  },
+  {
+    "name": "Glowing Colorful Shape",
+    "author": "Unknown",
+    "dimensions": "1125x2436",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "vibrant",
+      "abstract",
+      "modern",
+      "smooth"
+    ],
+    "downloadable": true,
+    "url": "Amoled/glowing_colorful_shape.jpg",
+    "thumbnail": "thumbnails/Amoled/glowing_colorful_shape_thumb.jpg"
+  },
+  {
+    "name": "Purple Silhouette Car",
+    "author": "Unknown",
+    "dimensions": "736x1553",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "modern",
+      "sleek",
+      "automotive"
+    ],
+    "downloadable": true,
+    "url": "Amoled/purple_silhouette_car.jpg",
+    "thumbnail": "thumbnails/Amoled/purple_silhouette_car_thumb.jpg"
+  },
+  {
+    "name": "Black Sport Car",
+    "author": "Unknown",
+    "dimensions": "1080x2341",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "elegant",
+      "sleek",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Amoled/black_sport_car.jpg",
+    "thumbnail": "thumbnails/Amoled/black_sport_car_thumb.jpg"
+  },
+  {
+    "name": "Moon Night Sky",
+    "author": "𝓢𝓸𝓵𝓲𝓽𝓾𝓭𝓮 🍒",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "calm",
+      "nature",
+      "night",
+      "serene"
+    ],
+    "downloadable": true,
+    "url": "Amoled/moon_night_sky.jpg",
+    "thumbnail": "thumbnails/Amoled/moon_night_sky_thumb.jpg"
+  },
+  {
+    "name": "Dark Mountain Landscape",
+    "author": "Sandeep Dutta",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "minimalist",
+      "nature",
+      "scenic"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dark_mountain_landscape.jpg",
+    "thumbnail": "thumbnails/Amoled/dark_mountain_landscape_thumb.jpg"
+  },
+  {
+    "name": "Dark Forest Night",
+    "author": "Unknown",
+    "dimensions": "736x1595",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "calm",
+      "nature",
+      "moonlight"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dark_forest_night.jpg",
+    "thumbnail": "thumbnails/Amoled/dark_forest_night_thumb.jpg"
+  },
+  {
+    "name": "Abstract Color Lines",
+    "author": "iPhone wallpaper",
+    "dimensions": "1080x2339",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "vibrant",
+      "modern",
+      "geometric",
+      "energy"
+    ],
+    "downloadable": true,
+    "url": "Amoled/abstract_color_lines.jpg",
+    "thumbnail": "thumbnails/Amoled/abstract_color_lines_thumb.jpg"
+  },
+  {
+    "name": "Camping Mountains Space",
+    "author": "Unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "calm",
+      "nature",
+      "sky",
+      "adventure"
+    ],
+    "downloadable": true,
+    "url": "Amoled/camping_mountains_space.jpg",
+    "thumbnail": "thumbnails/Amoled/camping_mountains_space_thumb.jpg"
+  },
+  {
+    "name": "Tower Pink Clouds",
+    "author": "YTECHB | iPhone Wallpapers | Aesthetic Wallpapers Hub",
+    "dimensions": "1170x2532",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "surreal",
+      "landscape",
+      "nature",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Amoled/tower_pink_clouds.jpg",
+    "thumbnail": "thumbnails/Amoled/tower_pink_clouds_thumb.jpg"
+  },
+  {
+    "name": "City Silhouette Night",
+    "author": "Unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "urban",
+      "silhouette",
+      "night"
+    ],
+    "downloadable": true,
+    "url": "Amoled/city_silhouette_night.jpg",
+    "thumbnail": "thumbnails/Amoled/city_silhouette_night_thumb.jpg"
+  },
+  {
+    "name": "Skull Snake Design",
+    "author": "Unknown",
+    "dimensions": "997x2160",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "bold",
+      "art",
+      "symbolic",
+      "graphic"
+    ],
+    "downloadable": true,
+    "url": "Amoled/skull_snake_design.jpg",
+    "thumbnail": "thumbnails/Amoled/skull_snake_design_thumb.jpg"
+  },
+  {
+    "name": "Sunset Silhouette Landscape",
+    "author": "Unknown",
+    "dimensions": "1290x2796",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "warm",
+      "serene",
+      "nature",
+      "photography",
+      "outdoors"
+    ],
+    "downloadable": true,
+    "url": "Amoled/sunset_silhouette_landscape.jpg",
+    "thumbnail": "thumbnails/Amoled/sunset_silhouette_landscape_thumb.jpg"
+  },
+  {
+    "name": "Skull Design Colorful",
+    "author": "𝒓𝒆𝒛𝒂 𝒂89",
+    "dimensions": "854x1849",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "vibrant",
+      "edgy",
+      "graphic",
+      "modern",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Amoled/skull_design_colorful.jpg",
+    "thumbnail": "thumbnails/Amoled/skull_design_colorful_thumb.jpg"
+  },
+  {
+    "name": "Silhouette Nature Landscape",
+    "author": "Unknown",
+    "dimensions": "736x1632",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "vibrant",
+      "serene",
+      "mountains",
+      "artistic",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Amoled/silhouette_nature_landscape.jpg",
+    "thumbnail": "thumbnails/Amoled/silhouette_nature_landscape_thumb.jpg"
+  },
+  {
+    "name": "Samurai Japan Redsun",
+    "author": "Unknown",
+    "dimensions": "1463x3165",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mystical",
+      "art",
+      "warrior",
+      "historical"
+    ],
+    "downloadable": true,
+    "url": "Amoled/samurai_japan_redsun.jpg",
+    "thumbnail": "thumbnails/Amoled/samurai_japan_redsun_thumb.jpg"
+  },
+  {
+    "name": "Tower Sunset Forest",
+    "author": "Unknown",
+    "dimensions": "800x1689",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "serene",
+      "nature",
+      "scenic",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Amoled/tower_sunset_forest.jpg",
+    "thumbnail": "thumbnails/Amoled/tower_sunset_forest_thumb.jpg"
+  },
+  {
+    "name": "Skulls Black Background",
+    "author": "Unknown",
+    "dimensions": "2000x4329",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "art",
+      "gothic",
+      "monochrome"
+    ],
+    "downloadable": true,
+    "url": "Amoled/skulls_black_background.jpg",
+    "thumbnail": "thumbnails/Amoled/skulls_black_background_thumb.jpg"
+  },
+  {
+    "name": "Winged Angel Sculpture",
+    "author": "4K WALLVIEW",
+    "dimensions": "946x2048",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "dramatic",
+      "angel",
+      "sculpture",
+      "mythology"
+    ],
+    "downloadable": true,
+    "url": "Amoled/winged_angel_sculpture.jpg",
+    "thumbnail": "thumbnails/Amoled/winged_angel_sculpture_thumb.jpg"
+  },
+  {
+    "name": "Palm Trees Island",
+    "author": "Unknown",
+    "dimensions": "1284x2784",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "calm",
+      "tropical",
+      "silhouette",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Amoled/palm_trees_island.jpg",
+    "thumbnail": "thumbnails/Amoled/palm_trees_island_thumb.jpg"
+  },
+  {
+    "name": "Black Wolf Shadow",
+    "author": "Unknown",
+    "dimensions": "736x1595",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "animal",
+      "intense",
+      "wild"
+    ],
+    "downloadable": true,
+    "url": "Amoled/black_wolf_shadow.jpg",
+    "thumbnail": "thumbnails/Amoled/black_wolf_shadow_thumb.jpg"
+  },
+  {
+    "name": "Airplane Moon Silhouette",
+    "author": "Unknown",
+    "dimensions": "1125x2436",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "night",
+      "travel",
+      "sky"
+    ],
+    "downloadable": true,
+    "url": "Amoled/airplane_moon_silhouette.jpg",
+    "thumbnail": "thumbnails/Amoled/airplane_moon_silhouette_thumb.jpg"
+  },
+  {
+    "name": "Bugatti Car Rear",
+    "author": "Car Hub",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "sleek",
+      "luxury",
+      "powerful",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Amoled/bugatti_car_rear.jpg",
+    "thumbnail": "thumbnails/Amoled/bugatti_car_rear_thumb.jpg"
+  },
+  {
+    "name": "Red Car Light",
+    "author": "Pv Nhan",
+    "dimensions": "562x1200",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "automobile",
+      "luxury",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Amoled/red_car_light.jpg",
+    "thumbnail": "thumbnails/Amoled/red_car_light_thumb.jpg"
+  },
+  {
+    "name": "Colorful Chameleon Stick",
+    "author": "Creative Paper • LexinColor",
+    "dimensions": "3240x7184",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "vibrant",
+      "bright",
+      "nature",
+      "reptile",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Amoled/colorful_chameleon_stick.jpg",
+    "thumbnail": "thumbnails/Amoled/colorful_chameleon_stick_thumb.jpg"
+  },
+  {
+    "name": "Red Sport Car",
+    "author": "HPK",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "sleek",
+      "automobile",
+      "modern",
+      "dynamic"
+    ],
+    "downloadable": true,
+    "url": "Amoled/red_sport_car.jpg",
+    "thumbnail": "thumbnails/Amoled/red_sport_car_thumb.jpg"
+  },
+  {
+    "name": "Angel Cross Light",
+    "author": "Unknown",
+    "dimensions": "591x1280",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "serene",
+      "religious",
+      "golden",
+      "statue"
+    ],
+    "downloadable": true,
+    "url": "Amoled/angel_cross_light.jpg",
+    "thumbnail": "thumbnails/Amoled/angel_cross_light_thumb.jpg"
+  },
+  {
+    "name": "Forest Sunset Reflection",
+    "author": "Unknown",
+    "dimensions": "736x1632",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "serene",
+      "nature",
+      "sunset",
+      "water"
+    ],
+    "downloadable": true,
+    "url": "Amoled/forest_sunset_reflection.jpg",
+    "thumbnail": "thumbnails/Amoled/forest_sunset_reflection_thumb.jpg"
+  },
+  {
+    "name": "Ship Silhouette Black",
+    "author": "Unknown",
+    "dimensions": "850x1840",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "sea",
+      "vintage",
+      "silhouette"
+    ],
+    "downloadable": true,
+    "url": "Amoled/ship_silhouette_black.jpg",
+    "thumbnail": "thumbnails/Amoled/ship_silhouette_black_thumb.jpg"
+  },
+  {
+    "name": "Sunset Mountain Silhouette",
+    "author": "Unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "calm",
+      "landscape",
+      "nature",
+      "abstract"
+    ],
+    "downloadable": true,
+    "url": "Amoled/sunset_mountain_silhouette.jpg",
+    "thumbnail": "thumbnails/Amoled/sunset_mountain_silhouette_thumb.jpg"
+  },
+  {
+    "name": "Abstract Black Shapes",
+    "author": "Unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "minimalist",
+      "geometric",
+      "modern",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Amoled/abstract_black_shapes.jpg",
+    "thumbnail": "thumbnails/Amoled/abstract_black_shapes_thumb.jpg"
+  },
+  {
+    "name": "Abstract Black Texture",
+    "author": "Unknown",
+    "dimensions": "591x1280",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "minimalist",
+      "design",
+      "graphic",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Amoled/abstract_black_texture.jpg",
+    "thumbnail": "thumbnails/Amoled/abstract_black_texture_thumb.jpg"
+  },
+  {
+    "name": "Matte Black Everything",
+    "author": "Unknown",
+    "dimensions": "1125x2436",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "bold",
+      "minimalist",
+      "modern",
+      "text"
+    ],
+    "downloadable": true,
+    "url": "Amoled/matte_black_everything.jpg",
+    "thumbnail": "thumbnails/Amoled/matte_black_everything_thumb.jpg"
+  },
+  {
+    "name": "Porsche Silhouette Design",
+    "author": "HS_Presents",
+    "dimensions": "686x1600",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "sleek",
+      "automobile",
+      "modern",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Amoled/porsche_silhouette_design.jpg",
+    "thumbnail": "thumbnails/Amoled/porsche_silhouette_design_thumb.jpg"
+  },
+  {
+    "name": "Dark Man Portrait",
+    "author": "Unknown",
+    "dimensions": "924x2000",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "serious",
+      "illustration",
+      "mystery",
+      "dramatic"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dark_man_portrait.jpg",
+    "thumbnail": "thumbnails/Amoled/dark_man_portrait_thumb.jpg"
+  },
+  {
+    "name": "Porsche Red Car",
+    "author": "Hernán Ariel Ferro",
+    "dimensions": "999x1998",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "sleek",
+      "sporty",
+      "luxury",
+      "automobile"
+    ],
+    "downloadable": true,
+    "url": "Amoled/porsche_red_car.jpg",
+    "thumbnail": "thumbnails/Amoled/porsche_red_car_thumb.jpg"
+  },
+  {
+    "name": "Soldier Black Uniform",
+    "author": "Unknown",
+    "dimensions": "736x1632",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "serious",
+      "military",
+      "focused",
+      "intense"
+    ],
+    "downloadable": true,
+    "url": "Amoled/soldier_black_uniform.jpg",
+    "thumbnail": "thumbnails/Amoled/soldier_black_uniform_thumb.jpg"
+  },
+  {
+    "name": "Funny Periodic Table",
+    "author": "Unknown",
+    "dimensions": "1170x2535",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "humor",
+      "creative",
+      "art",
+      "science",
+      "letters"
+    ],
+    "downloadable": true,
+    "url": "Amoled/funny_periodic_table.jpg",
+    "thumbnail": "thumbnails/Amoled/funny_periodic_table_thumb.jpg"
+  },
+  {
+    "name": "Stormtrooper Neon Art",
+    "author": "WallPaper For You",
+    "dimensions": "554x1200",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "futuristic",
+      "sci-fi",
+      "art",
+      "neon"
+    ],
+    "downloadable": true,
+    "url": "Amoled/stormtrooper_neon_art.jpg",
+    "thumbnail": "thumbnails/Amoled/stormtrooper_neon_art_thumb.jpg"
+  },
+  {
+    "name": "R2d2 Robot Character",
+    "author": "Unknown",
+    "dimensions": "736x1594",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "classic",
+      "sci-fi",
+      "iconic",
+      "robot"
+    ],
+    "downloadable": true,
+    "url": "Amoled/r2d2_robot_character.jpg",
+    "thumbnail": "thumbnails/Amoled/r2d2_robot_character_thumb.jpg"
+  },
+  {
+    "name": "Abstract Light Pattern",
+    "author": "YTECHB | iPhone Wallpapers | Aesthetic Wallpapers Hub",
+    "dimensions": "2700x6000",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "dynamic",
+      "colorful",
+      "modern",
+      "artistic"
+    ],
+    "downloadable": true,
+    "url": "Amoled/abstract_light_pattern.jpg",
+    "thumbnail": "thumbnails/Amoled/abstract_light_pattern_thumb.jpg"
+  },
+  {
+    "name": "Cat Face Minimalism",
+    "author": "i.pinimg.com",
+    "dimensions": "736x1635",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "stylized",
+      "animals",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Amoled/cat_face_minimalism.jpg",
+    "thumbnail": "thumbnails/Amoled/cat_face_minimalism_thumb.jpg"
+  },
+  {
+    "name": "Astronaut Space Hang",
+    "author": "1.bp.blogspot.com",
+    "dimensions": "1242x2688",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "playful",
+      "space",
+      "cartoon",
+      "adventure"
+    ],
+    "downloadable": true,
+    "url": "Amoled/astronaut_space_hang.jpg",
+    "thumbnail": "thumbnails/Amoled/astronaut_space_hang_thumb.jpg"
+  },
+  {
+    "name": "Vibrant Mountain Landscape",
+    "author": "Unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "dramatic",
+      "nature",
+      "mountains",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Amoled/vibrant_mountain_landscape.jpg",
+    "thumbnail": "thumbnails/Amoled/vibrant_mountain_landscape_thumb.jpg"
+  },
+  {
+    "name": "Colorful Poison Frog",
+    "author": "unknown",
+    "dimensions": "720x1560",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "vibrant",
+      "nature",
+      "amphibian",
+      "macro"
+    ],
+    "downloadable": true,
+    "url": "Amoled/colorful_poison_frog.jpg",
+    "thumbnail": "thumbnails/Amoled/colorful_poison_frog_thumb.jpg"
+  },
+  {
+    "name": "Jellyfish Underwater Light",
+    "author": "unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "tranquil",
+      "ocean",
+      "colorful",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Amoled/jellyfish_underwater_light.jpg",
+    "thumbnail": "thumbnails/Amoled/jellyfish_underwater_light_thumb.jpg"
+  },
+  {
+    "name": "Solar System Planets",
+    "author": "unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "calm",
+      "space",
+      "illustration",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Amoled/solar_system_planets.jpg",
+    "thumbnail": "thumbnails/Amoled/solar_system_planets_thumb.jpg"
+  },
+  {
+    "name": "Ufo Abduction Night",
+    "author": "unknown",
+    "dimensions": "1205x2609",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "alien",
+      "city",
+      "sci-fi"
+    ],
+    "downloadable": true,
+    "url": "Amoled/ufo_abduction_night.jpg",
+    "thumbnail": "thumbnails/Amoled/ufo_abduction_night_thumb.jpg"
+  },
+  {
+    "name": "Dog Face Black",
+    "author": "unknown",
+    "dimensions": "736x2331",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "neutral",
+      "animal",
+      "black_and_white",
+      "close-up"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dog_face_black.jpg",
+    "thumbnail": "thumbnails/Amoled/dog_face_black_thumb.jpg"
+  },
+  {
+    "name": "Fishing Boat Night",
+    "author": "unknown",
+    "dimensions": "700x1517",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "calm",
+      "water",
+      "moonlight",
+      "peaceful"
+    ],
+    "downloadable": true,
+    "url": "Amoled/fishing_boat_night.jpg",
+    "thumbnail": "thumbnails/Amoled/fishing_boat_night_thumb.jpg"
+  },
+  {
+    "name": "Flower Bouquet Black",
+    "author": "unknown",
+    "dimensions": "997x2160",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "calm",
+      "nature",
+      "floral",
+      "illustration"
+    ],
+    "downloadable": true,
+    "url": "Amoled/flower_bouquet_black.jpg",
+    "thumbnail": "thumbnails/Amoled/flower_bouquet_black_thumb.jpg"
+  },
+  {
+    "name": "Adidas Logo Black",
+    "author": "unknown",
+    "dimensions": "736x1637",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "minimalist",
+      "fashion",
+      "sportswear",
+      "branding",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Amoled/adidas_logo_black.jpg",
+    "thumbnail": "thumbnails/Amoled/adidas_logo_black_thumb.jpg"
+  },
+  {
+    "name": "Artistic Color Brush",
+    "author": "unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "vivid",
+      "creative",
+      "abstract",
+      "texture",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Amoled/artistic_color_brush.jpg",
+    "thumbnail": "thumbnails/Amoled/artistic_color_brush_thumb.jpg"
+  },
+  {
+    "name": "Clock Gears Time",
+    "author": "unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mechanical",
+      "time",
+      "orange",
+      "abstract"
+    ],
+    "downloadable": true,
+    "url": "Amoled/clock_gears_time.jpg",
+    "thumbnail": "thumbnails/Amoled/clock_gears_time_thumb.jpg"
+  },
+  {
+    "name": "Android Robot Icon",
+    "author": "unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "minimalist",
+      "tech",
+      "design",
+      "icon",
+      "black"
+    ],
+    "downloadable": true,
+    "url": "Amoled/android_robot_icon.jpg",
+    "thumbnail": "thumbnails/Amoled/android_robot_icon_thumb.jpg"
+  },
+  {
+    "name": "Dark Surface Texture",
+    "author": "unknown",
+    "dimensions": "564x1222",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "abstract",
+      "minimalist",
+      "smooth"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dark_surface_texture.jpg",
+    "thumbnail": "thumbnails/Amoled/dark_surface_texture_thumb.jpg"
+  },
+  {
+    "name": "Ocean Wave Black",
+    "author": "unknown",
+    "dimensions": "1290x2796",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "calm",
+      "dark",
+      "water",
+      "serene",
+      "abstract"
+    ],
+    "downloadable": true,
+    "url": "Amoled/ocean_wave_black.jpg",
+    "thumbnail": "thumbnails/Amoled/ocean_wave_black_thumb.jpg"
+  }
+]
