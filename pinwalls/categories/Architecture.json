@@ -1,21 +1,2276 @@
 {
     "Wallpapers": [
-        {
-            "name": "Sample Architecture Wallpaper",
-            "author": "Unknown",
-            "url": "Architecture/sample.jpg",
-            "thumbnail": "thumbnails/Architecture/sample_thumb.jpg",
-            "dimensions": "1080x1920",
-            "copyright": "",
-            "collections": "Architecture",
-            "downloadable": true,
-            "views": 0,
-            "downloads": 0,
-            "size": "Unknown",
-            "tags": [
-                "architecture",
-                "building"
-            ]
-        }
-    ]
+  {
+    "name": "Tokyo Tower Sunset",
+    "author": "Unknown",
+    "dimensions": "1200x2664",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "vibrant",
+      "city",
+      "landmark",
+      "panorama"
+    ],
+    "downloadable": true,
+    "url": "Architecture/tokyo_tower_sunset.jpg",
+    "thumbnail": "thumbnails/Architecture/tokyo_tower_sunset_thumb.jpg"
+  },
+  {
+    "name": "Tokyo Tower Evening",
+    "author": "Unknown",
+    "dimensions": "2000x4360",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "urban",
+      "vibrant",
+      "city",
+      "architecture",
+      "night"
+    ],
+    "downloadable": true,
+    "url": "Architecture/tokyo_tower_evening.jpg",
+    "thumbnail": "thumbnails/Architecture/tokyo_tower_evening_thumb.jpg"
+  },
+  {
+    "name": "Golden Gate Bridge",
+    "author": "Unknown",
+    "dimensions": "1242x2688",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "mysterious",
+      "foggy",
+      "structure",
+      "iconic",
+      "cityscape"
+    ],
+    "downloadable": true,
+    "url": "Architecture/golden_gate_bridge.jpg",
+    "thumbnail": "thumbnails/Architecture/golden_gate_bridge_thumb.jpg"
+  },
+  {
+    "name": "Green Door Lamp",
+    "author": "4K WALLVIEW",
+    "dimensions": "924x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "warm",
+      "inviting",
+      "calm",
+      "architecture",
+      "urban"
+    ],
+    "downloadable": true,
+    "url": "Architecture/green_door_lamp.jpg",
+    "thumbnail": "thumbnails/Architecture/green_door_lamp_thumb.jpg"
+  },
+  {
+    "name": "Temple Ancient Landscape",
+    "author": "Unknown",
+    "dimensions": "736x1686",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "calm",
+      "historical",
+      "landscape",
+      "sunrise"
+    ],
+    "downloadable": true,
+    "url": "Architecture/temple_ancient_landscape.jpg",
+    "thumbnail": "thumbnails/Architecture/temple_ancient_landscape_thumb.jpg"
+  },
+  {
+    "name": "Skyscraper Pink Sunset",
+    "author": "Unknown",
+    "dimensions": "1242x2683",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "modern",
+      "architecture",
+      "peaceful",
+      "vibrant"
+    ],
+    "downloadable": true,
+    "url": "Architecture/skyscraper_pink_sunset.jpg",
+    "thumbnail": "thumbnails/Architecture/skyscraper_pink_sunset_thumb.jpg"
+  },
+  {
+    "name": "Archway Moon Evening",
+    "author": "Unknown",
+    "dimensions": "1200x2600",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "serene",
+      "architecture",
+      "sky",
+      "night"
+    ],
+    "downloadable": true,
+    "url": "Architecture/archway_moon_evening.jpg",
+    "thumbnail": "thumbnails/Architecture/archway_moon_evening_thumb.jpg"
+  },
+  {
+    "name": "Cherry Blossom Temple",
+    "author": "CreativeBooster",
+    "dimensions": "2944x6400",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "soft",
+      "serene",
+      "nature",
+      "spring",
+      "tranquil"
+    ],
+    "downloadable": true,
+    "url": "Architecture/cherry_blossom_temple.jpg",
+    "thumbnail": "thumbnails/Architecture/cherry_blossom_temple_thumb.jpg"
+  },
+  {
+    "name": "Bridge Cityskyline Clouds",
+    "author": "Unknown",
+    "dimensions": "1848x4096",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "serene",
+      "urban",
+      "monochrome",
+      "calm"
+    ],
+    "downloadable": true,
+    "url": "Architecture/bridge_cityskyline_clouds.jpg",
+    "thumbnail": "thumbnails/Architecture/bridge_cityskyline_clouds_thumb.jpg"
+  },
+  {
+    "name": "Modern City Sunset",
+    "author": "Faisal Arain",
+    "dimensions": "1260x2800",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "vibrant",
+      "skyline",
+      "evening",
+      "urban"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_city_sunset.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_city_sunset_thumb.jpg"
+  },
+  {
+    "name": "Clock Tower Building",
+    "author": "Unknown",
+    "dimensions": "736x1595",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "historic",
+      "architecture",
+      "sky",
+      "landmark"
+    ],
+    "downloadable": true,
+    "url": "Architecture/clock_tower_building.jpg",
+    "thumbnail": "thumbnails/Architecture/clock_tower_building_thumb.jpg"
+  },
+  {
+    "name": "Eiffel Tower View",
+    "author": "Unknown",
+    "dimensions": "1472x3264",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "light",
+      "calm",
+      "architecture",
+      "landmark",
+      "travel"
+    ],
+    "downloadable": true,
+    "url": "Architecture/eiffel_tower_view.jpg",
+    "thumbnail": "thumbnails/Architecture/eiffel_tower_view_thumb.jpg"
+  },
+  {
+    "name": "Vatican Sunset Sky",
+    "author": "Unknown",
+    "dimensions": "810x1656",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "warm",
+      "tranquil",
+      "architecture",
+      "sculpture",
+      "city"
+    ],
+    "downloadable": true,
+    "url": "Architecture/vatican_sunset_sky.jpg",
+    "thumbnail": "thumbnails/Architecture/vatican_sunset_sky_thumb.jpg"
+  },
+  {
+    "name": "Modern Architecture Sunset",
+    "author": "⇡ Clauflowers⇡",
+    "dimensions": "540x1200",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "calm",
+      "building",
+      "design",
+      "sky"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_architecture_sunset.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_architecture_sunset_thumb.jpg"
+  },
+  {
+    "name": "Modern Architecture Building",
+    "author": "Unknown",
+    "dimensions": "998x2160",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "neutral",
+      "professional",
+      "urban",
+      "design",
+      "contemporary"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_architecture_building.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_architecture_building_thumb.jpg"
+  },
+  {
+    "name": "Modern Architecture Red",
+    "author": "Unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "contemporary",
+      "building",
+      "abstract",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_architecture_red.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_architecture_red_thumb.jpg"
+  },
+  {
+    "name": "Modern Architecture Design",
+    "author": "wobeeman",
+    "dimensions": "1284x2778",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "minimalist",
+      "urban",
+      "structure",
+      "geometric"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_architecture_design.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_architecture_design_thumb.jpg"
+  },
+  {
+    "name": "City Signs Street",
+    "author": "Unknown",
+    "dimensions": "924x2003",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "urban",
+      "neutral",
+      "street",
+      "signs",
+      "photography"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_signs_street.jpg",
+    "thumbnail": "thumbnails/Architecture/city_signs_street_thumb.jpg"
+  },
+  {
+    "name": "Modern Architecture Building 1",
+    "author": "Unknown",
+    "dimensions": "1372x2820",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "light",
+      "calm",
+      "urban",
+      "minimalistic",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_architecture_building_1.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_architecture_building_1_thumb.jpg"
+  },
+  {
+    "name": "Modern Architecture Building 2",
+    "author": "Unknown",
+    "dimensions": "828x1792",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "minimalist",
+      "urban",
+      "structure",
+      "geometric"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_architecture_building_2.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_architecture_building_2_thumb.jpg"
+  },
+  {
+    "name": "Colorful Apartment Windows",
+    "author": "Unknown",
+    "dimensions": "1720x3728",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "vibrant",
+      "urban",
+      "night",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Architecture/colorful_apartment_windows.jpg",
+    "thumbnail": "thumbnails/Architecture/colorful_apartment_windows_thumb.jpg"
+  },
+  {
+    "name": "St Paul Dome",
+    "author": "Unknown",
+    "dimensions": "1182x2560",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "historic",
+      "architecture",
+      "monochrome",
+      "city"
+    ],
+    "downloadable": true,
+    "url": "Architecture/st_paul_dome.jpg",
+    "thumbnail": "thumbnails/Architecture/st_paul_dome_thumb.jpg"
+  },
+  {
+    "name": "Red Glass Building",
+    "author": "Unknown",
+    "dimensions": "914x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "vibrant",
+      "mysterious",
+      "urban",
+      "light",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Architecture/red_glass_building.jpg",
+    "thumbnail": "thumbnails/Architecture/red_glass_building_thumb.jpg"
+  },
+  {
+    "name": "Cityscape Gloomy Night",
+    "author": "Unknown",
+    "dimensions": "1200x2596",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "moody",
+      "urban",
+      "architecture",
+      "night"
+    ],
+    "downloadable": true,
+    "url": "Architecture/cityscape_gloomy_night.jpg",
+    "thumbnail": "thumbnails/Architecture/cityscape_gloomy_night_thumb.jpg"
+  },
+  {
+    "name": "Brooklyn Bridge Sunset",
+    "author": "Unknown",
+    "dimensions": "1320x2868",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "calm",
+      "cityscape",
+      "water",
+      "urban"
+    ],
+    "downloadable": true,
+    "url": "Architecture/brooklyn_bridge_sunset.jpg",
+    "thumbnail": "thumbnails/Architecture/brooklyn_bridge_sunset_thumb.jpg"
+  },
+  {
+    "name": "City Traffic Taxis",
+    "author": "Unknown",
+    "dimensions": "1422x3000",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "busy",
+      "urban",
+      "transportation",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_traffic_taxis.jpg",
+    "thumbnail": "thumbnails/Architecture/city_traffic_taxis_thumb.jpg"
+  },
+  {
+    "name": "Ornate Building Window",
+    "author": "Unknown",
+    "dimensions": "864x1920",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "warm",
+      "elegant",
+      "architecture",
+      "urban",
+      "historical"
+    ],
+    "downloadable": true,
+    "url": "Architecture/ornate_building_window.jpg",
+    "thumbnail": "thumbnails/Architecture/ornate_building_window_thumb.jpg"
+  },
+  {
+    "name": "Modern Skyscraper View",
+    "author": "ICOOLA.UA - магазин Apple ✔️ Сервісний центр Apple ✔️",
+    "dimensions": "576x1280",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "minimalist",
+      "architecture",
+      "urban",
+      "clean"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_skyscraper_view.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_skyscraper_view_thumb.jpg"
+  },
+  {
+    "name": "Cityscape Sunset Clouds",
+    "author": "Unknown",
+    "dimensions": "1200x2596",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "mystical",
+      "urban",
+      "clouds",
+      "evening"
+    ],
+    "downloadable": true,
+    "url": "Architecture/cityscape_sunset_clouds.jpg",
+    "thumbnail": "thumbnails/Architecture/cityscape_sunset_clouds_thumb.jpg"
+  },
+  {
+    "name": "Urban Building Night",
+    "author": "Unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "moody",
+      "city",
+      "reflection",
+      "architecture"
+    ],
+    "downloadable": true,
+    "url": "Architecture/urban_building_night.jpg",
+    "thumbnail": "thumbnails/Architecture/urban_building_night_thumb.jpg"
+  },
+  {
+    "name": "Dark Cloudy Buildings",
+    "author": "Unknown",
+    "dimensions": "1280x2770",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "gloomy",
+      "urban",
+      "architecture",
+      "clouds"
+    ],
+    "downloadable": true,
+    "url": "Architecture/dark_cloudy_buildings.jpg",
+    "thumbnail": "thumbnails/Architecture/dark_cloudy_buildings_thumb.jpg"
+  },
+  {
+    "name": "Mountain Moon Convenience",
+    "author": "Unknown",
+    "dimensions": "924x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "calm",
+      "night",
+      "landscape",
+      "store",
+      "scenic"
+    ],
+    "downloadable": true,
+    "url": "Architecture/mountain_moon_convenience.jpg",
+    "thumbnail": "thumbnails/Architecture/mountain_moon_convenience_thumb.jpg"
+  },
+  {
+    "name": "Golden Gate Bridge 1",
+    "author": "Unknown",
+    "dimensions": "720x1480",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "mystical",
+      "calm",
+      "city",
+      "fog",
+      "architecture"
+    ],
+    "downloadable": true,
+    "url": "Architecture/golden_gate_bridge_1.jpg",
+    "thumbnail": "thumbnails/Architecture/golden_gate_bridge_1_thumb.jpg"
+  },
+  {
+    "name": "Tower City Sky",
+    "author": "Unknown",
+    "dimensions": "923x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "mysterious",
+      "urban",
+      "clouds",
+      "sunset"
+    ],
+    "downloadable": true,
+    "url": "Architecture/tower_city_sky.jpg",
+    "thumbnail": "thumbnails/Architecture/tower_city_sky_thumb.jpg"
+  },
+  {
+    "name": "City Sunset Skyline",
+    "author": "Unknown",
+    "dimensions": "1386x3000",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "serene",
+      "urban",
+      "twilight",
+      "architecture"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_sunset_skyline.jpg",
+    "thumbnail": "thumbnails/Architecture/city_sunset_skyline_thumb.jpg"
+  },
+  {
+    "name": "City Skyscraper Night",
+    "author": "Unknown",
+    "dimensions": "1720x3728",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "energetic",
+      "urban",
+      "modern",
+      "vibrant"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_skyscraper_night.jpg",
+    "thumbnail": "thumbnails/Architecture/city_skyscraper_night_thumb.jpg"
+  },
+  {
+    "name": "Black Building Windows",
+    "author": "Unknown",
+    "dimensions": "1605x3473",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "urban",
+      "architecture",
+      "night",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Architecture/black_building_windows.jpg",
+    "thumbnail": "thumbnails/Architecture/black_building_windows_thumb.jpg"
+  },
+  {
+    "name": "City Street View",
+    "author": "Unknown",
+    "dimensions": "1284x2778",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "urban",
+      "dynamic",
+      "traffic",
+      "modern",
+      "aerial"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_street_view.jpg",
+    "thumbnail": "thumbnails/Architecture/city_street_view_thumb.jpg"
+  },
+  {
+    "name": "City Traffic Rain",
+    "author": "Unknown",
+    "dimensions": "908x2016",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "urban",
+      "rainy",
+      "traffic",
+      "bleak"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_traffic_rain.jpg",
+    "thumbnail": "thumbnails/Architecture/city_traffic_rain_thumb.jpg"
+  },
+  {
+    "name": "Train City Night",
+    "author": "Unknown",
+    "dimensions": "923x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "moody",
+      "urban",
+      "reflection",
+      "travel"
+    ],
+    "downloadable": true,
+    "url": "Architecture/train_city_night.jpg",
+    "thumbnail": "thumbnails/Architecture/train_city_night_thumb.jpg"
+  },
+  {
+    "name": "Statue Liberty Blackwhite",
+    "author": "joseh_fermin",
+    "dimensions": "555x1200",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "monument",
+      "historical",
+      "iconic",
+      "black_and_white",
+      "national"
+    ],
+    "downloadable": true,
+    "url": "Architecture/statue_liberty_blackwhite.jpg",
+    "thumbnail": "thumbnails/Architecture/statue_liberty_blackwhite_thumb.jpg"
+  },
+  {
+    "name": "Foggy Skyscraper Night",
+    "author": "Unknown",
+    "dimensions": "736x1596",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "mysterious",
+      "urban",
+      "fog",
+      "city"
+    ],
+    "downloadable": true,
+    "url": "Architecture/foggy_skyscraper_night.jpg",
+    "thumbnail": "thumbnails/Architecture/foggy_skyscraper_night_thumb.jpg"
+  },
+  {
+    "name": "City Scene Highrise",
+    "author": "Unknown",
+    "dimensions": "946x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "urban",
+      "street",
+      "cloudy",
+      "busy"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_scene_highrise.jpg",
+    "thumbnail": "thumbnails/Architecture/city_scene_highrise_thumb.jpg"
+  },
+  {
+    "name": "Orange Modern Building",
+    "author": "Unknown",
+    "dimensions": "996x2160",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "urban",
+      "architecture",
+      "modern",
+      "sky"
+    ],
+    "downloadable": true,
+    "url": "Architecture/orange_modern_building.jpg",
+    "thumbnail": "thumbnails/Architecture/orange_modern_building_thumb.jpg"
+  },
+  {
+    "name": "Colorful City Street",
+    "author": "Unknown",
+    "dimensions": "1008x2184",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "vibrant",
+      "urban",
+      "evening",
+      "photography"
+    ],
+    "downloadable": true,
+    "url": "Architecture/colorful_city_street.jpg",
+    "thumbnail": "thumbnails/Architecture/colorful_city_street_thumb.jpg"
+  },
+  {
+    "name": "Tall Building Night",
+    "author": "Unknown",
+    "dimensions": "1284x2784",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "urban",
+      "architecture",
+      "moody",
+      "light"
+    ],
+    "downloadable": true,
+    "url": "Architecture/tall_building_night.jpg",
+    "thumbnail": "thumbnails/Architecture/tall_building_night_thumb.jpg"
+  },
+  {
+    "name": "Wallpaper 350928995987218266",
+    "author": "Unknown",
+    "dimensions": "1472x3200",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [],
+    "downloadable": true,
+    "url": "Architecture/wallpaper_350928995987218266.jpg",
+    "thumbnail": "thumbnails/Architecture/wallpaper_350928995987218266_thumb.jpg"
+  },
+  {
+    "name": "Brooklyn Bridge City",
+    "author": "Unknown",
+    "dimensions": "1200x2597",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "moody",
+      "urban",
+      "bridge",
+      "skyline"
+    ],
+    "downloadable": true,
+    "url": "Architecture/brooklyn_bridge_city.jpg",
+    "thumbnail": "thumbnails/Architecture/brooklyn_bridge_city_thumb.jpg"
+  },
+  {
+    "name": "Modern Architecture Sky",
+    "author": "Unknown",
+    "dimensions": "860x1864",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dramatic",
+      "calm",
+      "architecture",
+      "urban",
+      "perspective"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_architecture_sky.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_architecture_sky_thumb.jpg"
+  },
+  {
+    "name": "Cityscape Fence View",
+    "author": "Unknown",
+    "dimensions": "1065x2366",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "black_and_white",
+      "urban",
+      "silhouette",
+      "moody",
+      "landscape"
+    ],
+    "downloadable": true,
+    "url": "Architecture/cityscape_fence_view.jpg",
+    "thumbnail": "thumbnails/Architecture/cityscape_fence_view_thumb.jpg"
+  },
+  {
+    "name": "Modern Building Reflection",
+    "author": "Unknown",
+    "dimensions": "924x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "urban",
+      "architecture",
+      "city",
+      "evening"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_building_reflection.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_building_reflection_thumb.jpg"
+  },
+  {
+    "name": "Farmhouse Windmill Sunset",
+    "author": "Unknown",
+    "dimensions": "942x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "serene",
+      "landscape",
+      "nature",
+      "sunset"
+    ],
+    "downloadable": true,
+    "url": "Architecture/farmhouse_windmill_sunset.jpg",
+    "thumbnail": "thumbnails/Architecture/farmhouse_windmill_sunset_thumb.jpg"
+  },
+  {
+    "name": "Dark City Skyscrapers",
+    "author": "Unknown",
+    "dimensions": "924x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "moody",
+      "urban",
+      "fog",
+      "architecture"
+    ],
+    "downloadable": true,
+    "url": "Architecture/dark_city_skyscrapers.jpg",
+    "thumbnail": "thumbnails/Architecture/dark_city_skyscrapers_thumb.jpg"
+  },
+  {
+    "name": "Colorful House Buildings",
+    "author": "Unknown",
+    "dimensions": "1605x3473",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "vibrant",
+      "urban",
+      "cloudy",
+      "architecture"
+    ],
+    "downloadable": true,
+    "url": "Architecture/colorful_house_buildings.jpg",
+    "thumbnail": "thumbnails/Architecture/colorful_house_buildings_thumb.jpg"
+  },
+  {
+    "name": "Japanese Castle Autumn",
+    "author": "Unknown",
+    "dimensions": "736x1592",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "historical",
+      "architecture",
+      "nature",
+      "landscape"
+    ],
+    "downloadable": true,
+    "url": "Architecture/japanese_castle_autumn.jpg",
+    "thumbnail": "thumbnails/Architecture/japanese_castle_autumn_thumb.jpg"
+  },
+  {
+    "name": "City Street Sunset",
+    "author": "Djux____",
+    "dimensions": "541x1200",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "vibrant",
+      "urban",
+      "movement",
+      "sunset",
+      "traffic"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_street_sunset.jpg",
+    "thumbnail": "thumbnails/Architecture/city_street_sunset_thumb.jpg"
+  },
+  {
+    "name": "Skyscraper Black White",
+    "author": "Unknown",
+    "dimensions": "926x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "mysterious",
+      "architecture",
+      "minimalist",
+      "urban"
+    ],
+    "downloadable": true,
+    "url": "Architecture/skyscraper_black_white.jpg",
+    "thumbnail": "thumbnails/Architecture/skyscraper_black_white_thumb.jpg"
+  },
+  {
+    "name": "City Sunset Silhouette",
+    "author": "Unknown",
+    "dimensions": "1179x2614",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "calm",
+      "evening",
+      "urban",
+      "reflection",
+      "scenery"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_sunset_silhouette.jpg",
+    "thumbnail": "thumbnails/Architecture/city_sunset_silhouette_thumb.jpg"
+  },
+  {
+    "name": "Historic Church Architecture",
+    "author": "Unknown",
+    "dimensions": "623x1280",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "warm",
+      "serene",
+      "stone",
+      "ancient",
+      "details"
+    ],
+    "downloadable": true,
+    "url": "Architecture/historic_church_architecture.jpg",
+    "thumbnail": "thumbnails/Architecture/historic_church_architecture_thumb.jpg"
+  },
+  {
+    "name": "Modern Architecture Building 3",
+    "author": "Unknown",
+    "dimensions": "1290x2796",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "energizing",
+      "structure",
+      "design",
+      "abstract"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_architecture_building_3.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_architecture_building_3_thumb.jpg"
+  },
+  {
+    "name": "Modern Red Architecture",
+    "author": "Unknown",
+    "dimensions": "1472x3264",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "bold",
+      "contemporary",
+      "minimalist",
+      "structure"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_red_architecture.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_red_architecture_thumb.jpg"
+  },
+  {
+    "name": "Cityscape Moody Evening",
+    "author": "Unknown",
+    "dimensions": "1200x2600",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "urban",
+      "modern",
+      "sunset",
+      "reflective"
+    ],
+    "downloadable": true,
+    "url": "Architecture/cityscape_moody_evening.jpg",
+    "thumbnail": "thumbnails/Architecture/cityscape_moody_evening_thumb.jpg"
+  },
+  {
+    "name": "City Highway Silhouette",
+    "author": "Unknown",
+    "dimensions": "1080x2339",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "urban",
+      "monochrome",
+      "driving",
+      "skyline"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_highway_silhouette.jpg",
+    "thumbnail": "thumbnails/Architecture/city_highway_silhouette_thumb.jpg"
+  },
+  {
+    "name": "Temple Night Sky",
+    "author": "Unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "mystical",
+      "architecture",
+      "stars",
+      "serene"
+    ],
+    "downloadable": true,
+    "url": "Architecture/temple_night_sky.jpg",
+    "thumbnail": "thumbnails/Architecture/temple_night_sky_thumb.jpg"
+  },
+  {
+    "name": "Tall Building Sky",
+    "author": "Unknown",
+    "dimensions": "860x1864",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "calm",
+      "modern",
+      "urban",
+      "architecture",
+      "blue"
+    ],
+    "downloadable": true,
+    "url": "Architecture/tall_building_sky.jpg",
+    "thumbnail": "thumbnails/Architecture/tall_building_sky_thumb.jpg"
+  },
+  {
+    "name": "Sunset City Bridge",
+    "author": "Unknown",
+    "dimensions": "1170x2595",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "dramatic",
+      "urban",
+      "landscape",
+      "evening"
+    ],
+    "downloadable": true,
+    "url": "Architecture/sunset_city_bridge.jpg",
+    "thumbnail": "thumbnails/Architecture/sunset_city_bridge_thumb.jpg"
+  },
+  {
+    "name": "Cityscape Clouds Mist",
+    "author": "Unknown",
+    "dimensions": "524x1164",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "mysterious",
+      "urban",
+      "fog",
+      "monochrome"
+    ],
+    "downloadable": true,
+    "url": "Architecture/cityscape_clouds_mist.jpg",
+    "thumbnail": "thumbnails/Architecture/cityscape_clouds_mist_thumb.jpg"
+  },
+  {
+    "name": "Cityscape Night View",
+    "author": "Unknown",
+    "dimensions": "736x1632",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "urban",
+      "skyline",
+      "lights",
+      "moody"
+    ],
+    "downloadable": true,
+    "url": "Architecture/cityscape_night_view.jpg",
+    "thumbnail": "thumbnails/Architecture/cityscape_night_view_thumb.jpg"
+  },
+  {
+    "name": "New York City Night",
+    "author": "Unknown",
+    "dimensions": "1472x3264",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "urban",
+      "cityscape",
+      "vibrant",
+      "skyline"
+    ],
+    "downloadable": true,
+    "url": "Architecture/new_york_city_night.jpg",
+    "thumbnail": "thumbnails/Architecture/new_york_city_night_thumb.jpg"
+  },
+  {
+    "name": "Bridge City Roads",
+    "author": "Unknown",
+    "dimensions": "653x1448",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "urban",
+      "cloudy",
+      "traffic",
+      "moody"
+    ],
+    "downloadable": true,
+    "url": "Architecture/bridge_city_roads.jpg",
+    "thumbnail": "thumbnails/Architecture/bridge_city_roads_thumb.jpg"
+  },
+  {
+    "name": "Apartment Window Night",
+    "author": "Unknown",
+    "dimensions": "720x1565",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "mysterious",
+      "urban",
+      "building",
+      "solitude"
+    ],
+    "downloadable": true,
+    "url": "Architecture/apartment_window_night.jpg",
+    "thumbnail": "thumbnails/Architecture/apartment_window_night_thumb.jpg"
+  },
+  {
+    "name": "Bridge City Sunset",
+    "author": "Unknown",
+    "dimensions": "1472x3264",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "twilight",
+      "calm",
+      "urban",
+      "reflection",
+      "serene"
+    ],
+    "downloadable": true,
+    "url": "Architecture/bridge_city_sunset.jpg",
+    "thumbnail": "thumbnails/Architecture/bridge_city_sunset_thumb.jpg"
+  },
+  {
+    "name": "Santorini Night Sky",
+    "author": "Unknown",
+    "dimensions": "736x1632",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "serene",
+      "architecture",
+      "night",
+      "beauty"
+    ],
+    "downloadable": true,
+    "url": "Architecture/santorini_night_sky.jpg",
+    "thumbnail": "thumbnails/Architecture/santorini_night_sky_thumb.jpg"
+  },
+  {
+    "name": "City Street Pavement",
+    "author": "Unknown",
+    "dimensions": "555x1200",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "gray",
+      "calm",
+      "urban",
+      "architecture",
+      "empty"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_street_pavement.jpg",
+    "thumbnail": "thumbnails/Architecture/city_street_pavement_thumb.jpg"
+  },
+  {
+    "name": "Historical Theater Night",
+    "author": "CreativityMix",
+    "dimensions": "736x1594",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "serene",
+      "architecture",
+      "night",
+      "elegant"
+    ],
+    "downloadable": true,
+    "url": "Architecture/historical_theater_night.jpg",
+    "thumbnail": "thumbnails/Architecture/historical_theater_night_thumb.jpg"
+  },
+  {
+    "name": "Modern Architecture Glass",
+    "author": "Ksenivass",
+    "dimensions": "998x2160",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "light",
+      "minimalist",
+      "urban",
+      "perspective",
+      "contemporary"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_architecture_glass.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_architecture_glass_thumb.jpg"
+  },
+  {
+    "name": "City Sunset Silhouette 1",
+    "author": "Unknown",
+    "dimensions": "1889x4096",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "warm",
+      "dramatic",
+      "urban",
+      "sunset",
+      "skyscrapers"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_sunset_silhouette_1.jpg",
+    "thumbnail": "thumbnails/Architecture/city_sunset_silhouette_1_thumb.jpg"
+  },
+  {
+    "name": "Red Modern Building",
+    "author": "Unknown",
+    "dimensions": "945x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "dramatic",
+      "architecture",
+      "urban",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Architecture/red_modern_building.jpg",
+    "thumbnail": "thumbnails/Architecture/red_modern_building_thumb.jpg"
+  },
+  {
+    "name": "Big Ben Silhouette",
+    "author": "Unknown",
+    "dimensions": "736x1632",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "mysterious",
+      "landmark",
+      "city",
+      "architecture"
+    ],
+    "downloadable": true,
+    "url": "Architecture/big_ben_silhouette.jpg",
+    "thumbnail": "thumbnails/Architecture/big_ben_silhouette_thumb.jpg"
+  },
+  {
+    "name": "Tower Reflection Street",
+    "author": "Unknown",
+    "dimensions": "541x1200",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dramatic",
+      "urban",
+      "architecture",
+      "reflection",
+      "cloudy"
+    ],
+    "downloadable": true,
+    "url": "Architecture/tower_reflection_street.jpg",
+    "thumbnail": "thumbnails/Architecture/tower_reflection_street_thumb.jpg"
+  },
+  {
+    "name": "Building Night Lights",
+    "author": "Unknown",
+    "dimensions": "1290x2796",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "mysterious",
+      "urban",
+      "contrast",
+      "windows"
+    ],
+    "downloadable": true,
+    "url": "Architecture/building_night_lights.jpg",
+    "thumbnail": "thumbnails/Architecture/building_night_lights_thumb.jpg"
+  },
+  {
+    "name": "Traditional Architecture Garden",
+    "author": "Unknown",
+    "dimensions": "662x1471",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "serene",
+      "cultural",
+      "landscape",
+      "autumn",
+      "peaceful"
+    ],
+    "downloadable": true,
+    "url": "Architecture/traditional_architecture_garden.jpg",
+    "thumbnail": "thumbnails/Architecture/traditional_architecture_garden_thumb.jpg"
+  },
+  {
+    "name": "Modern Architecture Black",
+    "author": "Unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "minimalist",
+      "urban",
+      "geometric",
+      "monochrome"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_architecture_black.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_architecture_black_thumb.jpg"
+  },
+  {
+    "name": "City Highway View",
+    "author": "Unknown",
+    "dimensions": "893x1983",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "urban",
+      "transportation",
+      "moody",
+      "landscape"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_highway_view.jpg",
+    "thumbnail": "thumbnails/Architecture/city_highway_view_thumb.jpg"
+  },
+  {
+    "name": "Cityscape View Clouds",
+    "author": "Unknown",
+    "dimensions": "1299x2814",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dramatic",
+      "urban",
+      "architecture",
+      "photography",
+      "landscape"
+    ],
+    "downloadable": true,
+    "url": "Architecture/cityscape_view_clouds.jpg",
+    "thumbnail": "thumbnails/Architecture/cityscape_view_clouds_thumb.jpg"
+  },
+  {
+    "name": "Tower Building Fog",
+    "author": "Unknown",
+    "dimensions": "1200x2600",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "mysterious",
+      "calm",
+      "architecture",
+      "foggy",
+      "urban"
+    ],
+    "downloadable": true,
+    "url": "Architecture/tower_building_fog.jpg",
+    "thumbnail": "thumbnails/Architecture/tower_building_fog_thumb.jpg"
+  },
+  {
+    "name": "Sky Building Reflection",
+    "author": "Unknown",
+    "dimensions": "736x1632",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "modern",
+      "urban",
+      "sky",
+      "glass"
+    ],
+    "downloadable": true,
+    "url": "Architecture/sky_building_reflection.jpg",
+    "thumbnail": "thumbnails/Architecture/sky_building_reflection_thumb.jpg"
+  },
+  {
+    "name": "Modern Architecture Building 4",
+    "author": "Unknown",
+    "dimensions": "1414x2828",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "minimalist",
+      "geometric",
+      "sky",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_architecture_building_4.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_architecture_building_4_thumb.jpg"
+  },
+  {
+    "name": "Tram Urban Reflection",
+    "author": "Unknown",
+    "dimensions": "970x2154",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "modern",
+      "city",
+      "sunset",
+      "transport"
+    ],
+    "downloadable": true,
+    "url": "Architecture/tram_urban_reflection.jpg",
+    "thumbnail": "thumbnails/Architecture/tram_urban_reflection_thumb.jpg"
+  },
+  {
+    "name": "Cityscape Night View 1",
+    "author": "Unknown",
+    "dimensions": "736x1594",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "calm",
+      "urban",
+      "evening",
+      "skyline"
+    ],
+    "downloadable": true,
+    "url": "Architecture/cityscape_night_view_1.jpg",
+    "thumbnail": "thumbnails/Architecture/cityscape_night_view_1_thumb.jpg"
+  },
+  {
+    "name": "Cityscape Gray Clouds",
+    "author": "Unknown",
+    "dimensions": "1290x2796",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "urban",
+      "moody",
+      "skyline",
+      "atmospheric"
+    ],
+    "downloadable": true,
+    "url": "Architecture/cityscape_gray_clouds.jpg",
+    "thumbnail": "thumbnails/Architecture/cityscape_gray_clouds_thumb.jpg"
+  },
+  {
+    "name": "Modern Architecture Building 5",
+    "author": "Luiz Eduardo",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "dynamic",
+      "urban",
+      "design",
+      "structure"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_architecture_building_5.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_architecture_building_5_thumb.jpg"
+  },
+  {
+    "name": "Sky Cloud Architecture",
+    "author": "Unknown",
+    "dimensions": "1080x2342",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "serene",
+      "historic",
+      "art",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Architecture/sky_cloud_architecture.jpg",
+    "thumbnail": "thumbnails/Architecture/sky_cloud_architecture_thumb.jpg"
+  },
+  {
+    "name": "Bridge Architecture Structure",
+    "author": "Unknown",
+    "dimensions": "1296x2880",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "light",
+      "solid",
+      "urban",
+      "engineering",
+      "blue"
+    ],
+    "downloadable": true,
+    "url": "Architecture/bridge_architecture_structure.jpg",
+    "thumbnail": "thumbnails/Architecture/bridge_architecture_structure_thumb.jpg"
+  },
+  {
+    "name": "Geodesic Dome Blue",
+    "author": "Unknown",
+    "dimensions": "736x1472",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "modern",
+      "architecture",
+      "geometric",
+      "outdoor"
+    ],
+    "downloadable": true,
+    "url": "Architecture/geodesic_dome_blue.jpg",
+    "thumbnail": "thumbnails/Architecture/geodesic_dome_blue_thumb.jpg"
+  },
+  {
+    "name": "City Skyline Drama",
+    "author": "Unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "dramatic",
+      "urban",
+      "architecture",
+      "clouds"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_skyline_drama.jpg",
+    "thumbnail": "thumbnails/Architecture/city_skyline_drama_thumb.jpg"
+  },
+  {
+    "name": "Colorful Tunnel Reflection",
+    "author": "Unknown",
+    "dimensions": "736x1632",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "vibrant",
+      "mystical",
+      "architecture",
+      "light",
+      "abstract"
+    ],
+    "downloadable": true,
+    "url": "Architecture/colorful_tunnel_reflection.jpg",
+    "thumbnail": "thumbnails/Architecture/colorful_tunnel_reflection_thumb.jpg"
+  },
+  {
+    "name": "Modern Glass Architecture",
+    "author": "Unknown",
+    "dimensions": "945x1894",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "minimalist",
+      "geometric",
+      "urban",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_glass_architecture.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_glass_architecture_thumb.jpg"
+  },
+  {
+    "name": "Skyscraper Reflection Perspective",
+    "author": "Unknown",
+    "dimensions": "1500x3160",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "modern",
+      "urban",
+      "architecture",
+      "view"
+    ],
+    "downloadable": true,
+    "url": "Architecture/skyscraper_reflection_perspective.jpg",
+    "thumbnail": "thumbnails/Architecture/skyscraper_reflection_perspective_thumb.jpg"
+  },
+  {
+    "name": "Street Rain Evening",
+    "author": "Unknown",
+    "dimensions": "1844x4096",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "moody",
+      "reflective",
+      "urban",
+      "wet",
+      "atmospheric"
+    ],
+    "downloadable": true,
+    "url": "Architecture/street_rain_evening.jpg",
+    "thumbnail": "thumbnails/Architecture/street_rain_evening_thumb.jpg"
+  },
+  {
+    "name": "Architectural Square View",
+    "author": "Unknown",
+    "dimensions": "924x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "open",
+      "architecture",
+      "sky",
+      "historic"
+    ],
+    "downloadable": true,
+    "url": "Architecture/architectural_square_view.jpg",
+    "thumbnail": "thumbnails/Architecture/architectural_square_view_thumb.jpg"
+  },
+  {
+    "name": "City Sunset Silhouette 2",
+    "author": "Unknown",
+    "dimensions": "996x2160",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "serene",
+      "urban",
+      "evening",
+      "skyline"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_sunset_silhouette_2.jpg",
+    "thumbnail": "thumbnails/Architecture/city_sunset_silhouette_2_thumb.jpg"
+  },
+  {
+    "name": "Reflective Tree Meditation",
+    "author": "Unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "calm",
+      "peaceful",
+      "nature",
+      "reflections",
+      "serene"
+    ],
+    "downloadable": true,
+    "url": "Architecture/reflective_tree_meditation.jpg",
+    "thumbnail": "thumbnails/Architecture/reflective_tree_meditation_thumb.jpg"
+  },
+  {
+    "name": "City Bridge View",
+    "author": "Unknown",
+    "dimensions": "1472x3264",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "urban",
+      "serene",
+      "bridge",
+      "landscape",
+      "architecture"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_bridge_view.jpg",
+    "thumbnail": "thumbnails/Architecture/city_bridge_view_thumb.jpg"
+  },
+  {
+    "name": "City Street Buildings",
+    "author": "Unknown",
+    "dimensions": "978x2172",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "moody",
+      "urban",
+      "wet",
+      "misty",
+      "contemporary"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_street_buildings.jpg",
+    "thumbnail": "thumbnails/Architecture/city_street_buildings_thumb.jpg"
+  },
+  {
+    "name": "Empire State Building",
+    "author": "Unknown",
+    "dimensions": "1290x2796",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "sunset",
+      "cityscape",
+      "urban",
+      "golden",
+      "skyline"
+    ],
+    "downloadable": true,
+    "url": "Architecture/empire_state_building.jpg",
+    "thumbnail": "thumbnails/Architecture/empire_state_building_thumb.jpg"
+  },
+  {
+    "name": "Tower Red Lights",
+    "author": "Unknown",
+    "dimensions": "1720x3728",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "mysterious",
+      "urban",
+      "neon",
+      "architecture"
+    ],
+    "downloadable": true,
+    "url": "Architecture/tower_red_lights.jpg",
+    "thumbnail": "thumbnails/Architecture/tower_red_lights_thumb.jpg"
+  },
+  {
+    "name": "Building Red Circle",
+    "author": "Unknown",
+    "dimensions": "1170x2532",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "vibrant",
+      "modern",
+      "architecture",
+      "city",
+      "contrast"
+    ],
+    "downloadable": true,
+    "url": "Architecture/building_red_circle.jpg",
+    "thumbnail": "thumbnails/Architecture/building_red_circle_thumb.jpg"
+  },
+  {
+    "name": "Cityscape Black White",
+    "author": "Unknown",
+    "dimensions": "617x1372",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "mood",
+      "urban",
+      "architecture",
+      "monochrome"
+    ],
+    "downloadable": true,
+    "url": "Architecture/cityscape_black_white.jpg",
+    "thumbnail": "thumbnails/Architecture/cityscape_black_white_thumb.jpg"
+  },
+  {
+    "name": "City Night Lights",
+    "author": "iDo_Any",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "urban",
+      "night",
+      "energy",
+      "landscape"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_night_lights.jpg",
+    "thumbnail": "thumbnails/Architecture/city_night_lights_thumb.jpg"
+  },
+  {
+    "name": "Lighthouse Red Light",
+    "author": "Unknown",
+    "dimensions": "924x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "mystical",
+      "serene",
+      "reflection",
+      "night",
+      "calm"
+    ],
+    "downloadable": true,
+    "url": "Architecture/lighthouse_red_light.jpg",
+    "thumbnail": "thumbnails/Architecture/lighthouse_red_light_thumb.jpg"
+  },
+  {
+    "name": "City Sunset Clouds",
+    "author": "Unknown",
+    "dimensions": "1855x4096",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dramatic",
+      "serene",
+      "urban",
+      "skyline",
+      "twilight"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_sunset_clouds.jpg",
+    "thumbnail": "thumbnails/Architecture/city_sunset_clouds_thumb.jpg"
+  },
+  {
+    "name": "Deserted House Landscape",
+    "author": "Unknown",
+    "dimensions": "924x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "isolated",
+      "desert",
+      "serene",
+      "abandoned"
+    ],
+    "downloadable": true,
+    "url": "Architecture/deserted_house_landscape.jpg",
+    "thumbnail": "thumbnails/Architecture/deserted_house_landscape_thumb.jpg"
+  },
+  {
+    "name": "Cityscape Highway View",
+    "author": "Unknown",
+    "dimensions": "1335x2890",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "urban",
+      "architecture",
+      "view",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Architecture/cityscape_highway_view.jpg",
+    "thumbnail": "thumbnails/Architecture/cityscape_highway_view_thumb.jpg"
+  },
+  {
+    "name": "Cityscape Reflection Night",
+    "author": "Unknown",
+    "dimensions": "736x1634",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "urban",
+      "reflection",
+      "moody",
+      "architecture"
+    ],
+    "downloadable": true,
+    "url": "Architecture/cityscape_reflection_night.jpg",
+    "thumbnail": "thumbnails/Architecture/cityscape_reflection_night_thumb.jpg"
+  },
+  {
+    "name": "Pagoda Street Sakura",
+    "author": "Unknown",
+    "dimensions": "1420x3073",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "tranquil",
+      "cherry_blossom",
+      "historic",
+      "scenic"
+    ],
+    "downloadable": true,
+    "url": "Architecture/pagoda_street_sakura.jpg",
+    "thumbnail": "thumbnails/Architecture/pagoda_street_sakura_thumb.jpg"
+  },
+  {
+    "name": "Mystical Forest House",
+    "author": "Patreon",
+    "dimensions": "1080x2418",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "mysterious",
+      "nature",
+      "calm",
+      "isolated"
+    ],
+    "downloadable": true,
+    "url": "Architecture/mystical_forest_house.jpg",
+    "thumbnail": "thumbnails/Architecture/mystical_forest_house_thumb.jpg"
+  },
+  {
+    "name": "Misty Traditional Village",
+    "author": "Unknown",
+    "dimensions": "736x1633",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "calm",
+      "serene",
+      "traditional",
+      "architecture",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Architecture/misty_traditional_village.jpg",
+    "thumbnail": "thumbnails/Architecture/misty_traditional_village_thumb.jpg"
+  },
+  {
+    "name": "Paris City Building",
+    "author": "Unknown",
+    "dimensions": "946x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "serene",
+      "urban",
+      "elegant",
+      "architecture"
+    ],
+    "downloadable": true,
+    "url": "Architecture/paris_city_building.jpg",
+    "thumbnail": "thumbnails/Architecture/paris_city_building_thumb.jpg"
+  },
+  {
+    "name": "Starbucks Ocean Sunset",
+    "author": "unknown",
+    "dimensions": "1080x2339",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "calm",
+      "evening",
+      "coffee",
+      "beach",
+      "scenic"
+    ],
+    "downloadable": true,
+    "url": "Architecture/starbucks_ocean_sunset.jpg",
+    "thumbnail": "thumbnails/Architecture/starbucks_ocean_sunset_thumb.jpg"
+  },
+  {
+    "name": "Bridge Ocean View",
+    "author": "unknown",
+    "dimensions": "924x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "calm",
+      "serene",
+      "landscape",
+      "blue",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Architecture/bridge_ocean_view.jpg",
+    "thumbnail": "thumbnails/Architecture/bridge_ocean_view_thumb.jpg"
+  },
+  {
+    "name": "Statue Liberty Blackwhite 1",
+    "author": "unknown",
+    "dimensions": "1296x2880",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "historical",
+      "monument",
+      "iconic",
+      "city"
+    ],
+    "downloadable": true,
+    "url": "Architecture/statue_liberty_blackwhite_1.jpg",
+    "thumbnail": "thumbnails/Architecture/statue_liberty_blackwhite_1_thumb.jpg"
+  },
+  {
+    "name": "Modern Building Sunset",
+    "author": "unknown",
+    "dimensions": "688x1472",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "calm",
+      "architecture",
+      "urban",
+      "sky"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_building_sunset.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_building_sunset_thumb.jpg"
+  },
+  {
+    "name": "Lighthouse Coastal Path",
+    "author": "unknown",
+    "dimensions": "736x1592",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "serene",
+      "lighthouse",
+      "ocean",
+      "architecture"
+    ],
+    "downloadable": true,
+    "url": "Architecture/lighthouse_coastal_path.jpg",
+    "thumbnail": "thumbnails/Architecture/lighthouse_coastal_path_thumb.jpg"
+  },
+  {
+    "name": "Balconies Sunset Silhouette",
+    "author": "unknown",
+    "dimensions": "576x1280",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "warm",
+      "serene",
+      "architecture",
+      "silhouette",
+      "evening"
+    ],
+    "downloadable": true,
+    "url": "Architecture/balconies_sunset_silhouette.jpg",
+    "thumbnail": "thumbnails/Architecture/balconies_sunset_silhouette_thumb.jpg"
+  },
+  {
+    "name": "Underground Beer Sign",
+    "author": "unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "mysterious",
+      "urban",
+      "neon",
+      "night"
+    ],
+    "downloadable": true,
+    "url": "Architecture/underground_beer_sign.jpg",
+    "thumbnail": "thumbnails/Architecture/underground_beer_sign_thumb.jpg"
+  },
+  {
+    "name": "Modern Building Lights",
+    "author": "unknown",
+    "dimensions": "591x1280",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "urban",
+      "architecture",
+      "contrast",
+      "evening"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_building_lights.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_building_lights_thumb.jpg"
+  },
+  {
+    "name": "Leaning Tower Pisa",
+    "author": "unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "monument",
+      "historical",
+      "architecture",
+      "black_and_white",
+      "landmark"
+    ],
+    "downloadable": true,
+    "url": "Architecture/leaning_tower_pisa.jpg",
+    "thumbnail": "thumbnails/Architecture/leaning_tower_pisa_thumb.jpg"
+  },
+  {
+    "name": "Modern City Building",
+    "author": "unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "urban",
+      "architecture",
+      "minimalist",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_city_building.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_city_building_thumb.jpg"
+  },
+  {
+    "name": "Mount Fuji Street",
+    "author": "unknown",
+    "dimensions": "720x1560",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "serene",
+      "landscape",
+      "nature",
+      "travel"
+    ],
+    "downloadable": true,
+    "url": "Architecture/mount_fuji_street.jpg",
+    "thumbnail": "thumbnails/Architecture/mount_fuji_street_thumb.jpg"
+  },
+  {
+    "name": "Tokyo Sky Tree Sakura",
+    "author": "unknown",
+    "dimensions": "1400x2976",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "spring",
+      "landmark",
+      "nature",
+      "flowers"
+    ],
+    "downloadable": true,
+    "url": "Architecture/tokyo_sky_tree_sakura.jpg",
+    "thumbnail": "thumbnails/Architecture/tokyo_sky_tree_sakura_thumb.jpg"
+  },
+  {
+    "name": "Tokyo Skytree Sunset",
+    "author": "unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "urban",
+      "landmark",
+      "sunset",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Architecture/tokyo_skytree_sunset.jpg",
+    "thumbnail": "thumbnails/Architecture/tokyo_skytree_sunset_thumb.jpg"
+  },
+  {
+    "name": "Osaka Castle Architecture",
+    "author": "unknown",
+    "dimensions": "1250x2974",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "historical",
+      "japan",
+      "elegant",
+      "tourism"
+    ],
+    "downloadable": true,
+    "url": "Architecture/osaka_castle_architecture.jpg",
+    "thumbnail": "thumbnails/Architecture/osaka_castle_architecture_thumb.jpg"
+  },
+  {
+    "name": "Building Sky Color",
+    "author": "unknown",
+    "dimensions": "750x1623",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "calm",
+      "modern",
+      "architecture",
+      "minimalism",
+      "blue"
+    ],
+    "downloadable": true,
+    "url": "Architecture/building_sky_color.jpg",
+    "thumbnail": "thumbnails/Architecture/building_sky_color_thumb.jpg"
+  }
+]
 }
