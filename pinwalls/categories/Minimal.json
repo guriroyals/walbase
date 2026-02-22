@@ -1,2 +1,2503 @@
 {
     "Wallpapers": [
+  {
+    "name": "Motorcycle Rider Illustration",
+    "author": "Unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "dynamic",
+      "art",
+      "transportation",
+      "style"
+    ],
+    "downloadable": true,
+    "url": "Minimal/motorcycle_rider_illustration.jpg",
+    "thumbnail": "thumbnails/Minimal/motorcycle_rider_illustration_thumb.jpg"
+  },
+  {
+    "name": "Mountain Camp Scene",
+    "author": "Faisal Arain",
+    "dimensions": "1400x3040",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "nature",
+      "landscape",
+      "peaceful",
+      "outdoors"
+    ],
+    "downloadable": true,
+    "url": "Minimal/mountain_camp_scene.jpg",
+    "thumbnail": "thumbnails/Minimal/mountain_camp_scene_thumb.jpg"
+  },
+  {
+    "name": "Campfire Night Trees",
+    "author": "Unknown",
+    "dimensions": "736x1594",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "calm",
+      "nature",
+      "mystical",
+      "night"
+    ],
+    "downloadable": true,
+    "url": "Minimal/campfire_night_trees.jpg",
+    "thumbnail": "thumbnails/Minimal/campfire_night_trees_thumb.jpg"
+  },
+  {
+    "name": "Abstract Dark Texture",
+    "author": "Carsten",
+    "dimensions": "736x1634",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "smooth",
+      "minimalistic",
+      "modern",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_dark_texture.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_dark_texture_thumb.jpg"
+  },
+  {
+    "name": "Grim Reaper Cup",
+    "author": "Unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "playful",
+      "cartoon",
+      "purple",
+      "whimsical"
+    ],
+    "downloadable": true,
+    "url": "Minimal/grim_reaper_cup.jpg",
+    "thumbnail": "thumbnails/Minimal/grim_reaper_cup_thumb.jpg"
+  },
+  {
+    "name": "Mountain Peak Night",
+    "author": "Creative Paper • LexinColor",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "serene",
+      "nature",
+      "minimalist",
+      "landscape"
+    ],
+    "downloadable": true,
+    "url": "Minimal/mountain_peak_night.jpg",
+    "thumbnail": "thumbnails/Minimal/mountain_peak_night_thumb.jpg"
+  },
+  {
+    "name": "Compass Navigation Direction",
+    "author": "Unknown",
+    "dimensions": "720x1520",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "neutral",
+      "calm",
+      "travel",
+      "tool",
+      "exploration"
+    ],
+    "downloadable": true,
+    "url": "Minimal/compass_navigation_direction.jpg",
+    "thumbnail": "thumbnails/Minimal/compass_navigation_direction_thumb.jpg"
+  },
+  {
+    "name": "Skateboard Shadow Green",
+    "author": "Gözde",
+    "dimensions": "720x1600",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "minimal",
+      "sport",
+      "modern",
+      "still"
+    ],
+    "downloadable": true,
+    "url": "Minimal/skateboard_shadow_green.jpg",
+    "thumbnail": "thumbnails/Minimal/skateboard_shadow_green_thumb.jpg"
+  },
+  {
+    "name": "Retro Television Art",
+    "author": "ϟᴀɴᴛʜɪᴀɢᴏ",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "nostalgic",
+      "vintage",
+      "creative",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Minimal/retro_television_art.jpg",
+    "thumbnail": "thumbnails/Minimal/retro_television_art_thumb.jpg"
+  },
+  {
+    "name": "Deer Silhouette Landscape",
+    "author": "Faisal Arain",
+    "dimensions": "1080x2289",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "serene",
+      "mountains",
+      "nature",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Minimal/deer_silhouette_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/deer_silhouette_landscape_thumb.jpg"
+  },
+  {
+    "name": "Abstract Art Rabbit",
+    "author": "Carlos",
+    "dimensions": "1278x3298",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "playful",
+      "art",
+      "colorful",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_art_rabbit.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_art_rabbit_thumb.jpg"
+  },
+  {
+    "name": "Abstract Gradient Shapes",
+    "author": "Unknown",
+    "dimensions": "1125x2435",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "minimalist",
+      "design",
+      "modern",
+      "smooth"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_gradient_shapes.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_gradient_shapes_thumb.jpg"
+  },
+  {
+    "name": "Lighthouse Sunset Landscape",
+    "author": "Unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "tranquil",
+      "illustration",
+      "landscape",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Minimal/lighthouse_sunset_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/lighthouse_sunset_landscape_thumb.jpg"
+  },
+  {
+    "name": "Campfire Tent Night",
+    "author": "Unknown",
+    "dimensions": "1242x2688",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "calm",
+      "outdoors",
+      "nature",
+      "peaceful"
+    ],
+    "downloadable": true,
+    "url": "Minimal/campfire_tent_night.jpg",
+    "thumbnail": "thumbnails/Minimal/campfire_tent_night_thumb.jpg"
+  },
+  {
+    "name": "Solitary Figure Winter",
+    "author": "Pratik Joshi",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "calm",
+      "minimalist",
+      "snow",
+      "isolation"
+    ],
+    "downloadable": true,
+    "url": "Minimal/solitary_figure_winter.jpg",
+    "thumbnail": "thumbnails/Minimal/solitary_figure_winter_thumb.jpg"
+  },
+  {
+    "name": "West Coast Sunset",
+    "author": "Tamilore Ayeni",
+    "dimensions": "736x1799",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "calm",
+      "landscape",
+      "nature",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Minimal/west_coast_sunset.jpg",
+    "thumbnail": "thumbnails/Minimal/west_coast_sunset_thumb.jpg"
+  },
+  {
+    "name": "Abstract Landscape Colors",
+    "author": "Faisal Arain",
+    "dimensions": "1080x2280",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "vibrant",
+      "calm",
+      "abstract",
+      "landscape",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_landscape_colors.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_landscape_colors_thumb.jpg"
+  },
+  {
+    "name": "Game Controller Buttons",
+    "author": "Unknown",
+    "dimensions": "864x1920",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "minimalist",
+      "gaming",
+      "modern",
+      "tech"
+    ],
+    "downloadable": true,
+    "url": "Minimal/game_controller_buttons.jpg",
+    "thumbnail": "thumbnails/Minimal/game_controller_buttons_thumb.jpg"
+  },
+  {
+    "name": "Ocean Moon Cloud",
+    "author": "Unknown",
+    "dimensions": "736x1581",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "serene",
+      "nature",
+      "night",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Minimal/ocean_moon_cloud.jpg",
+    "thumbnail": "thumbnails/Minimal/ocean_moon_cloud_thumb.jpg"
+  },
+  {
+    "name": "Minimalism Black Background",
+    "author": "Unknown",
+    "dimensions": "886x1919",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "simple",
+      "modern",
+      "elegant",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Minimal/minimalism_black_background.jpg",
+    "thumbnail": "thumbnails/Minimal/minimalism_black_background_thumb.jpg"
+  },
+  {
+    "name": "Misty Island Trees",
+    "author": "Unknown",
+    "dimensions": "942x2048",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "serene",
+      "nature",
+      "reflection",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Minimal/misty_island_trees.jpg",
+    "thumbnail": "thumbnails/Minimal/misty_island_trees_thumb.jpg"
+  },
+  {
+    "name": "Abstract Wave Pattern",
+    "author": "Unknown",
+    "dimensions": "1184x2560",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "calm",
+      "minimalist",
+      "modern",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_wave_pattern.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_wave_pattern_thumb.jpg"
+  },
+  {
+    "name": "Abstract Dark Pattern",
+    "author": "Unknown",
+    "dimensions": "723x1560",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dim",
+      "modern",
+      "pattern",
+      "geometric",
+      "minimal"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_dark_pattern.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_dark_pattern_thumb.jpg"
+  },
+  {
+    "name": "Simple Circle Design",
+    "author": "Maddox Gurzick",
+    "dimensions": "555x1200",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "minimalist",
+      "dark",
+      "geometric",
+      "modern",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Minimal/simple_circle_design.jpg",
+    "thumbnail": "thumbnails/Minimal/simple_circle_design_thumb.jpg"
+  },
+  {
+    "name": "Abstract Wave Pattern 1",
+    "author": "Unknown",
+    "dimensions": "1720x3728",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "soft",
+      "colorful",
+      "geometric",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_wave_pattern_1.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_wave_pattern_1_thumb.jpg"
+  },
+  {
+    "name": "Abstract Wave Pattern 2",
+    "author": "Unknown",
+    "dimensions": "736x1592",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "calm",
+      "smooth",
+      "modern",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_wave_pattern_2.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_wave_pattern_2_thumb.jpg"
+  },
+  {
+    "name": "Abstract Color Shapes",
+    "author": "Unknown",
+    "dimensions": "1170x2544",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "modern",
+      "design",
+      "minimalist",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_color_shapes.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_color_shapes_thumb.jpg"
+  },
+  {
+    "name": "Train Snow Winter",
+    "author": "Unknown",
+    "dimensions": "1170x2678",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "bright",
+      "train",
+      "winter",
+      "scenery"
+    ],
+    "downloadable": true,
+    "url": "Minimal/train_snow_winter.jpg",
+    "thumbnail": "thumbnails/Minimal/train_snow_winter_thumb.jpg"
+  },
+  {
+    "name": "Sunset Beach Landscape",
+    "author": "Unknown",
+    "dimensions": "1170x2532",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "serene",
+      "nature",
+      "sunset",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Minimal/sunset_beach_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/sunset_beach_landscape_thumb.jpg"
+  },
+  {
+    "name": "Sunset Blue Horizon",
+    "author": "Unknown",
+    "dimensions": "750x1665",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "serene",
+      "nature",
+      "dusk",
+      "landscape"
+    ],
+    "downloadable": true,
+    "url": "Minimal/sunset_blue_horizon.jpg",
+    "thumbnail": "thumbnails/Minimal/sunset_blue_horizon_thumb.jpg"
+  },
+  {
+    "name": "Abstract Color Pattern",
+    "author": "𝐣𝐞𝐧𝐧𝐲 𝐭𝐞𝐭𝐳𝐥𝐚𝐟𝐟",
+    "dimensions": "1299x2813",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "vibrant",
+      "modern",
+      "design",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_color_pattern.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_color_pattern_thumb.jpg"
+  },
+  {
+    "name": "Blue Geometric Pattern",
+    "author": "Unknown",
+    "dimensions": "828x1802",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "modern",
+      "abstract",
+      "design",
+      "clean"
+    ],
+    "downloadable": true,
+    "url": "Minimal/blue_geometric_pattern.jpg",
+    "thumbnail": "thumbnails/Minimal/blue_geometric_pattern_thumb.jpg"
+  },
+  {
+    "name": "Minimalist Blue Landscape",
+    "author": "Unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "serene",
+      "landscape",
+      "abstract",
+      "blue"
+    ],
+    "downloadable": true,
+    "url": "Minimal/minimalist_blue_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/minimalist_blue_landscape_thumb.jpg"
+  },
+  {
+    "name": "Calm Lake Boat",
+    "author": "Wallpaper",
+    "dimensions": "736x1595",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "serene",
+      "minimalist",
+      "water",
+      "nature",
+      "reflective"
+    ],
+    "downloadable": true,
+    "url": "Minimal/calm_lake_boat.jpg",
+    "thumbnail": "thumbnails/Minimal/calm_lake_boat_thumb.jpg"
+  },
+  {
+    "name": "Colorful Geometric Shapes",
+    "author": "Unknown",
+    "dimensions": "1179x2566",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "modern",
+      "minimalist",
+      "abstract",
+      "playful"
+    ],
+    "downloadable": true,
+    "url": "Minimal/colorful_geometric_shapes.jpg",
+    "thumbnail": "thumbnails/Minimal/colorful_geometric_shapes_thumb.jpg"
+  },
+  {
+    "name": "Abstract Mountain Landscape",
+    "author": "Stasberner",
+    "dimensions": "533x1200",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "minimalist",
+      "nature",
+      "soft",
+      "geometric"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_mountain_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_mountain_landscape_thumb.jpg"
+  },
+  {
+    "name": "Sunset Ocean Reflection",
+    "author": "Unknown",
+    "dimensions": "926x2160",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "serene",
+      "nature",
+      "minimal",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Minimal/sunset_ocean_reflection.jpg",
+    "thumbnail": "thumbnails/Minimal/sunset_ocean_reflection_thumb.jpg"
+  },
+  {
+    "name": "Blue Shape Background",
+    "author": "WhatsApp.com",
+    "dimensions": "945x2048",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "calm",
+      "minimalist",
+      "abstract",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Minimal/blue_shape_background.jpg",
+    "thumbnail": "thumbnails/Minimal/blue_shape_background_thumb.jpg"
+  },
+  {
+    "name": "Blue Gradient Wave",
+    "author": "Nesterov Artem",
+    "dimensions": "1656x3584",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "minimalist",
+      "abstract",
+      "smooth",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Minimal/blue_gradient_wave.jpg",
+    "thumbnail": "thumbnails/Minimal/blue_gradient_wave_thumb.jpg"
+  },
+  {
+    "name": "Abstract Color Shape",
+    "author": "Unknown",
+    "dimensions": "1179x2566",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "calm",
+      "modern",
+      "minimalist",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_color_shape.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_color_shape_thumb.jpg"
+  },
+  {
+    "name": "Abstract Mountains Sunset",
+    "author": "Unknown",
+    "dimensions": "972x2160",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "warm",
+      "landscape",
+      "minimalist",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_mountains_sunset.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_mountains_sunset_thumb.jpg"
+  },
+  {
+    "name": "Abstract Color Shape 1",
+    "author": "Unknown",
+    "dimensions": "1190x2645",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "calm",
+      "abstract",
+      "patterns",
+      "soft"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_color_shape_1.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_color_shape_1_thumb.jpg"
+  },
+  {
+    "name": "Mountain Silhouette Landscape",
+    "author": "Carsten",
+    "dimensions": "736x1559",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "serene",
+      "nature",
+      "landscape",
+      "blue"
+    ],
+    "downloadable": true,
+    "url": "Minimal/mountain_silhouette_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/mountain_silhouette_landscape_thumb.jpg"
+  },
+  {
+    "name": "Abstract Color Texture",
+    "author": "Yasith Jayasinghe",
+    "dimensions": "750x1624",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "calm",
+      "abstract",
+      "smooth",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_color_texture.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_color_texture_thumb.jpg"
+  },
+  {
+    "name": "Mountain Biker Silhouette",
+    "author": "UniqueTutorials",
+    "dimensions": "720x1480",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "adventure",
+      "outdoors",
+      "silhouette",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Minimal/mountain_biker_silhouette.jpg",
+    "thumbnail": "thumbnails/Minimal/mountain_biker_silhouette_thumb.jpg"
+  },
+  {
+    "name": "Blue House Palm",
+    "author": "Unknown",
+    "dimensions": "736x1648",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "calm",
+      "sparse",
+      "nature",
+      "serene"
+    ],
+    "downloadable": true,
+    "url": "Minimal/blue_house_palm.jpg",
+    "thumbnail": "thumbnails/Minimal/blue_house_palm_thumb.jpg"
+  },
+  {
+    "name": "Sun Wave Background",
+    "author": "Carlos",
+    "dimensions": "735x2288",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "cheerful",
+      "minimalist",
+      "summer",
+      "ocean"
+    ],
+    "downloadable": true,
+    "url": "Minimal/sun_wave_background.jpg",
+    "thumbnail": "thumbnails/Minimal/sun_wave_background_thumb.jpg"
+  },
+  {
+    "name": "Desert Sunset View",
+    "author": "Jonathan Membreño",
+    "dimensions": "1242x2688",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "serene",
+      "landscape",
+      "nature",
+      "illustration"
+    ],
+    "downloadable": true,
+    "url": "Minimal/desert_sunset_view.jpg",
+    "thumbnail": "thumbnails/Minimal/desert_sunset_view_thumb.jpg"
+  },
+  {
+    "name": "Sunset Colorful Sky",
+    "author": "Unknown",
+    "dimensions": "750x1608",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "vibrant",
+      "nature",
+      "evening",
+      "calm"
+    ],
+    "downloadable": true,
+    "url": "Minimal/sunset_colorful_sky.jpg",
+    "thumbnail": "thumbnails/Minimal/sunset_colorful_sky_thumb.jpg"
+  },
+  {
+    "name": "Blue Tree Night",
+    "author": "Faisal Arain",
+    "dimensions": "1079x2327",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "serene",
+      "nature",
+      "minimalist",
+      "calm"
+    ],
+    "downloadable": true,
+    "url": "Minimal/blue_tree_night.jpg",
+    "thumbnail": "thumbnails/Minimal/blue_tree_night_thumb.jpg"
+  },
+  {
+    "name": "Sunset Beach Peace",
+    "author": "Zukas 🍀",
+    "dimensions": "522x1080",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "soft",
+      "calm",
+      "nature",
+      "serene",
+      "beautiful"
+    ],
+    "downloadable": true,
+    "url": "Minimal/sunset_beach_peace.jpg",
+    "thumbnail": "thumbnails/Minimal/sunset_beach_peace_thumb.jpg"
+  },
+  {
+    "name": "Sunset New York",
+    "author": "Jack Forge | Aesthetic Wallpaper and Images | Generative Art",
+    "dimensions": "2944x6400",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "warm",
+      "optimistic",
+      "city",
+      "silhouette",
+      "evening"
+    ],
+    "downloadable": true,
+    "url": "Minimal/sunset_new_york.jpg",
+    "thumbnail": "thumbnails/Minimal/sunset_new_york_thumb.jpg"
+  },
+  {
+    "name": "House Forest Sunset",
+    "author": "Faisal Arain",
+    "dimensions": "1078x2327",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "serene",
+      "nature",
+      "landscape",
+      "stylized"
+    ],
+    "downloadable": true,
+    "url": "Minimal/house_forest_sunset.jpg",
+    "thumbnail": "thumbnails/Minimal/house_forest_sunset_thumb.jpg"
+  },
+  {
+    "name": "Blue White Stripes",
+    "author": "Unknown",
+    "dimensions": "1290x2805",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "calm",
+      "abstract",
+      "minimalist",
+      "smooth"
+    ],
+    "downloadable": true,
+    "url": "Minimal/blue_white_stripes.jpg",
+    "thumbnail": "thumbnails/Minimal/blue_white_stripes_thumb.jpg"
+  },
+  {
+    "name": "Clouds Red Background",
+    "author": "Unknown",
+    "dimensions": "1509x3264",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "abstract",
+      "minimalist",
+      "sky",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Minimal/clouds_red_background.jpg",
+    "thumbnail": "thumbnails/Minimal/clouds_red_background_thumb.jpg"
+  },
+  {
+    "name": "Clouds Blue Sky",
+    "author": "Unknown",
+    "dimensions": "736x1560",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "calm",
+      "landscape",
+      "nature",
+      "minimal"
+    ],
+    "downloadable": true,
+    "url": "Minimal/clouds_blue_sky.jpg",
+    "thumbnail": "thumbnails/Minimal/clouds_blue_sky_thumb.jpg"
+  },
+  {
+    "name": "Sunset Minimal Design",
+    "author": "Satyam Gupta",
+    "dimensions": "750x1624",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "calm",
+      "abstract",
+      "colorful",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Minimal/sunset_minimal_design.jpg",
+    "thumbnail": "thumbnails/Minimal/sunset_minimal_design_thumb.jpg"
+  },
+  {
+    "name": "Blue Circle Layers",
+    "author": "Unknown",
+    "dimensions": "942x2048",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "calm",
+      "abstract",
+      "geometric",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Minimal/blue_circle_layers.jpg",
+    "thumbnail": "thumbnails/Minimal/blue_circle_layers_thumb.jpg"
+  },
+  {
+    "name": "Keep It Simple",
+    "author": "hdwallpapersfor.com",
+    "dimensions": "1572x3408",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "minimalist",
+      "text",
+      "blue",
+      "calm"
+    ],
+    "downloadable": true,
+    "url": "Minimal/keep_it_simple.jpg",
+    "thumbnail": "thumbnails/Minimal/keep_it_simple_thumb.jpg"
+  },
+  {
+    "name": "Stacked Circle Shapes",
+    "author": "WShankara",
+    "dimensions": "736x1592",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "calm",
+      "abstract",
+      "geometric",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Minimal/stacked_circle_shapes.jpg",
+    "thumbnail": "thumbnails/Minimal/stacked_circle_shapes_thumb.jpg"
+  },
+  {
+    "name": "Sailing Boat Sunset",
+    "author": "Carsten",
+    "dimensions": "736x1592",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "serene",
+      "ocean",
+      "sunset",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Minimal/sailing_boat_sunset.jpg",
+    "thumbnail": "thumbnails/Minimal/sailing_boat_sunset_thumb.jpg"
+  },
+  {
+    "name": "Kiki Black Cat",
+    "author": "Unknown",
+    "dimensions": "1242x2688",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "playful",
+      "animated",
+      "whimsical",
+      "blue"
+    ],
+    "downloadable": true,
+    "url": "Minimal/kiki_black_cat.jpg",
+    "thumbnail": "thumbnails/Minimal/kiki_black_cat_thumb.jpg"
+  },
+  {
+    "name": "Sunset Wave Horizon",
+    "author": "X (formerly Twitter)",
+    "dimensions": "878x2048",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "serene",
+      "nature",
+      "landscape",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Minimal/sunset_wave_horizon.jpg",
+    "thumbnail": "thumbnails/Minimal/sunset_wave_horizon_thumb.jpg"
+  },
+  {
+    "name": "Abstract Mountain Landscape 1",
+    "author": "𝐣𝐞𝐧𝐧𝐲 𝐭𝐞𝐭𝐳𝐥𝐚𝐟𝐟",
+    "dimensions": "1299x2813",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "serene",
+      "modern",
+      "colorful",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_mountain_landscape_1.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_mountain_landscape_1_thumb.jpg"
+  },
+  {
+    "name": "Colorful Geometric Shapes 1",
+    "author": "Unknown",
+    "dimensions": "1215x2700",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "playful",
+      "abstract",
+      "vibrant",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Minimal/colorful_geometric_shapes_1.jpg",
+    "thumbnail": "thumbnails/Minimal/colorful_geometric_shapes_1_thumb.jpg"
+  },
+  {
+    "name": "Shark Boat Silhouette",
+    "author": "Carlos",
+    "dimensions": "700x2202",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "minimalist",
+      "ocean",
+      "calm",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Minimal/shark_boat_silhouette.jpg",
+    "thumbnail": "thumbnails/Minimal/shark_boat_silhouette_thumb.jpg"
+  },
+  {
+    "name": "Bear Reading Newspaper",
+    "author": "• 𝓚 •",
+    "dimensions": "555x1200",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "humorous",
+      "animal",
+      "comic",
+      "funny"
+    ],
+    "downloadable": true,
+    "url": "Minimal/bear_reading_newspaper.jpg",
+    "thumbnail": "thumbnails/Minimal/bear_reading_newspaper_thumb.jpg"
+  },
+  {
+    "name": "Playstation Console Controller",
+    "author": "setup droid",
+    "dimensions": "734x1632",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "fun",
+      "gaming",
+      "modern",
+      "technology"
+    ],
+    "downloadable": true,
+    "url": "Minimal/playstation_console_controller.jpg",
+    "thumbnail": "thumbnails/Minimal/playstation_console_controller_thumb.jpg"
+  },
+  {
+    "name": "Lily Flower Blue",
+    "author": "Unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "serene",
+      "nature",
+      "elegant",
+      "calm"
+    ],
+    "downloadable": true,
+    "url": "Minimal/lily_flower_blue.jpg",
+    "thumbnail": "thumbnails/Minimal/lily_flower_blue_thumb.jpg"
+  },
+  {
+    "name": "House Forest Lake",
+    "author": "Unknown",
+    "dimensions": "1536x3300",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "calm",
+      "nature",
+      "scenery",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Minimal/house_forest_lake.jpg",
+    "thumbnail": "thumbnails/Minimal/house_forest_lake_thumb.jpg"
+  },
+  {
+    "name": "Pink Tree Landscape",
+    "author": "Unknown",
+    "dimensions": "1792x3964",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "soft",
+      "serene",
+      "nature",
+      "minimalist",
+      "pastel"
+    ],
+    "downloadable": true,
+    "url": "Minimal/pink_tree_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/pink_tree_landscape_thumb.jpg"
+  },
+  {
+    "name": "Mountain Landscape Pastel",
+    "author": "Bo Sun",
+    "dimensions": "1587x3436",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "soft",
+      "serene",
+      "nature",
+      "gradient",
+      "landscape"
+    ],
+    "downloadable": true,
+    "url": "Minimal/mountain_landscape_pastel.jpg",
+    "thumbnail": "thumbnails/Minimal/mountain_landscape_pastel_thumb.jpg"
+  },
+  {
+    "name": "Winter Snow Landscape",
+    "author": "Unknown",
+    "dimensions": "1386x3000",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "calm",
+      "winter",
+      "landscape",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Minimal/winter_snow_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/winter_snow_landscape_thumb.jpg"
+  },
+  {
+    "name": "Sign Post Direction",
+    "author": "Unknown",
+    "dimensions": "729x1823",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "nature",
+      "illustration",
+      "scenic",
+      "serene"
+    ],
+    "downloadable": true,
+    "url": "Minimal/sign_post_direction.jpg",
+    "thumbnail": "thumbnails/Minimal/sign_post_direction_thumb.jpg"
+  },
+  {
+    "name": "Green Color Palette",
+    "author": "Unknown",
+    "dimensions": "736x1643",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "natural",
+      "colors",
+      "design",
+      "aesthetic"
+    ],
+    "downloadable": true,
+    "url": "Minimal/green_color_palette.jpg",
+    "thumbnail": "thumbnails/Minimal/green_color_palette_thumb.jpg"
+  },
+  {
+    "name": "Moonlight Forest Silhouette",
+    "author": "Unknown",
+    "dimensions": "640x1417",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "calm",
+      "nature",
+      "night",
+      "peaceful"
+    ],
+    "downloadable": true,
+    "url": "Minimal/moonlight_forest_silhouette.jpg",
+    "thumbnail": "thumbnails/Minimal/moonlight_forest_silhouette_thumb.jpg"
+  },
+  {
+    "name": "Rainy Window Forest",
+    "author": "Thiago Vegita",
+    "dimensions": "736x1592",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "calm",
+      "nature",
+      "rain",
+      "serene"
+    ],
+    "downloadable": true,
+    "url": "Minimal/rainy_window_forest.jpg",
+    "thumbnail": "thumbnails/Minimal/rainy_window_forest_thumb.jpg"
+  },
+  {
+    "name": "Black Cat Desk",
+    "author": "Amparo.A Urueña",
+    "dimensions": "1178x2616",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "calm",
+      "cat",
+      "study",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Minimal/black_cat_desk.jpg",
+    "thumbnail": "thumbnails/Minimal/black_cat_desk_thumb.jpg"
+  },
+  {
+    "name": "Bicycle Rider Landscape",
+    "author": "Unknown",
+    "dimensions": "736x1635",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "minimalist",
+      "nature",
+      "outdoors",
+      "serene"
+    ],
+    "downloadable": true,
+    "url": "Minimal/bicycle_rider_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/bicycle_rider_landscape_thumb.jpg"
+  },
+  {
+    "name": "Mountain Cute Landscape",
+    "author": "Unknown",
+    "dimensions": "736x1635",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "calm",
+      "illustration",
+      "nature",
+      "simple"
+    ],
+    "downloadable": true,
+    "url": "Minimal/mountain_cute_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/mountain_cute_landscape_thumb.jpg"
+  },
+  {
+    "name": "Silhouette Night Landscape",
+    "author": "Unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "calm",
+      "nature",
+      "minimalist",
+      "night"
+    ],
+    "downloadable": true,
+    "url": "Minimal/silhouette_night_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/silhouette_night_landscape_thumb.jpg"
+  },
+  {
+    "name": "Less Is More",
+    "author": "iGeeksBlog.com",
+    "dimensions": "736x1593",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "minimalist",
+      "inspirational",
+      "design",
+      "text",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Minimal/less_is_more.jpg",
+    "thumbnail": "thumbnails/Minimal/less_is_more_thumb.jpg"
+  },
+  {
+    "name": "Crescent Moon Dusk",
+    "author": "Unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "calm",
+      "sky",
+      "night",
+      "serene"
+    ],
+    "downloadable": true,
+    "url": "Minimal/crescent_moon_dusk.jpg",
+    "thumbnail": "thumbnails/Minimal/crescent_moon_dusk_thumb.jpg"
+  },
+  {
+    "name": "Clouds Simple Design",
+    "author": "alliesantini",
+    "dimensions": "503x1200",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "minimalist",
+      "calm",
+      "nature",
+      "sky",
+      "illustration"
+    ],
+    "downloadable": true,
+    "url": "Minimal/clouds_simple_design.jpg",
+    "thumbnail": "thumbnails/Minimal/clouds_simple_design_thumb.jpg"
+  },
+  {
+    "name": "Mountain Forest Landscape",
+    "author": "Unknown",
+    "dimensions": "1080x2336",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "natural",
+      "calm",
+      "green",
+      "serene",
+      "scenic"
+    ],
+    "downloadable": true,
+    "url": "Minimal/mountain_forest_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/mountain_forest_landscape_thumb.jpg"
+  },
+  {
+    "name": "Autumn Lake Landscape",
+    "author": "Faisal Arain",
+    "dimensions": "810x1800",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "warm",
+      "peaceful",
+      "nature",
+      "scenery",
+      "fall"
+    ],
+    "downloadable": true,
+    "url": "Minimal/autumn_lake_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/autumn_lake_landscape_thumb.jpg"
+  },
+  {
+    "name": "Blue Flower Art",
+    "author": "Khin Shizuku",
+    "dimensions": "554x1200",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "calm",
+      "minimalist",
+      "floral",
+      "blue"
+    ],
+    "downloadable": true,
+    "url": "Minimal/blue_flower_art.jpg",
+    "thumbnail": "thumbnails/Minimal/blue_flower_art_thumb.jpg"
+  },
+  {
+    "name": "Cyclist Hill Silhouette",
+    "author": "Unknown",
+    "dimensions": "734x1632",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "minimalist",
+      "calm",
+      "bicycle",
+      "abstract",
+      "journey"
+    ],
+    "downloadable": true,
+    "url": "Minimal/cyclist_hill_silhouette.jpg",
+    "thumbnail": "thumbnails/Minimal/cyclist_hill_silhouette_thumb.jpg"
+  },
+  {
+    "name": "Flower Orange Minimal",
+    "author": "Unknown",
+    "dimensions": "3264x8512",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "calm",
+      "art",
+      "minimalism",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Minimal/flower_orange_minimal.jpg",
+    "thumbnail": "thumbnails/Minimal/flower_orange_minimal_thumb.jpg"
+  },
+  {
+    "name": "Cyberpunk Character Design",
+    "author": "Unknown",
+    "dimensions": "1080x2640",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "vibrant",
+      "edgy",
+      "urban",
+      "fashion",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Minimal/cyberpunk_character_design.jpg",
+    "thumbnail": "thumbnails/Minimal/cyberpunk_character_design_thumb.jpg"
+  },
+  {
+    "name": "Bird Window Plant",
+    "author": "Kunal",
+    "dimensions": "736x1600",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "calm",
+      "nature",
+      "minimalist",
+      "indoor"
+    ],
+    "downloadable": true,
+    "url": "Minimal/bird_window_plant.jpg",
+    "thumbnail": "thumbnails/Minimal/bird_window_plant_thumb.jpg"
+  },
+  {
+    "name": "Desert Building Sunset",
+    "author": "Unknown",
+    "dimensions": "1290x2796",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "serene",
+      "landscape",
+      "minimalist",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Minimal/desert_building_sunset.jpg",
+    "thumbnail": "thumbnails/Minimal/desert_building_sunset_thumb.jpg"
+  },
+  {
+    "name": "Glitch Art Skull",
+    "author": "Unknown",
+    "dimensions": "1228x2663",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "mysterious",
+      "digital",
+      "skull",
+      "abstract"
+    ],
+    "downloadable": true,
+    "url": "Minimal/glitch_art_skull.jpg",
+    "thumbnail": "thumbnails/Minimal/glitch_art_skull_thumb.jpg"
+  },
+  {
+    "name": "Modern House Design",
+    "author": "Raj",
+    "dimensions": "720x1520",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "calm",
+      "minimalist",
+      "architecture",
+      "outdoors"
+    ],
+    "downloadable": true,
+    "url": "Minimal/modern_house_design.jpg",
+    "thumbnail": "thumbnails/Minimal/modern_house_design_thumb.jpg"
+  },
+  {
+    "name": "Lighthouse Coastal Sky",
+    "author": "Carlos",
+    "dimensions": "736x2243",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "bright",
+      "coastal",
+      "minimalist",
+      "illustration"
+    ],
+    "downloadable": true,
+    "url": "Minimal/lighthouse_coastal_sky.jpg",
+    "thumbnail": "thumbnails/Minimal/lighthouse_coastal_sky_thumb.jpg"
+  },
+  {
+    "name": "Artistic Collage Drawing",
+    "author": "♱•❥𝖟𝖔𝖒𝖇𝖎𝖊 𝖌𝖎𝖗𝖑 •𖤐",
+    "dimensions": "1242x2688",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "creative",
+      "illustration",
+      "colorful",
+      "playful"
+    ],
+    "downloadable": true,
+    "url": "Minimal/artistic_collage_drawing.jpg",
+    "thumbnail": "thumbnails/Minimal/artistic_collage_drawing_thumb.jpg"
+  },
+  {
+    "name": "Pink Cherry Blossom",
+    "author": "Unknown",
+    "dimensions": "1080x2337",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "serene",
+      "nature",
+      "spring",
+      "peaceful"
+    ],
+    "downloadable": true,
+    "url": "Minimal/pink_cherry_blossom.jpg",
+    "thumbnail": "thumbnails/Minimal/pink_cherry_blossom_thumb.jpg"
+  },
+  {
+    "name": "Sunset Mountain Sea",
+    "author": "pluto rang",
+    "dimensions": "1242x2688",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "serene",
+      "landscape",
+      "nature",
+      "illustration"
+    ],
+    "downloadable": true,
+    "url": "Minimal/sunset_mountain_sea.jpg",
+    "thumbnail": "thumbnails/Minimal/sunset_mountain_sea_thumb.jpg"
+  },
+  {
+    "name": "Blue Round Shape",
+    "author": "Carsten",
+    "dimensions": "640x1440",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "simple",
+      "minimalist",
+      "abstract",
+      "colorful",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Minimal/blue_round_shape.jpg",
+    "thumbnail": "thumbnails/Minimal/blue_round_shape_thumb.jpg"
+  },
+  {
+    "name": "Minimalist Landscape Sunset",
+    "author": "Unknown",
+    "dimensions": "926x2160",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "warm",
+      "nature",
+      "abstract",
+      "peaceful"
+    ],
+    "downloadable": true,
+    "url": "Minimal/minimalist_landscape_sunset.jpg",
+    "thumbnail": "thumbnails/Minimal/minimalist_landscape_sunset_thumb.jpg"
+  },
+  {
+    "name": "Abstract Blue Gray",
+    "author": "Unknown",
+    "dimensions": "1190x2645",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "minimalist",
+      "modern",
+      "art",
+      "cool"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_blue_gray.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_blue_gray_thumb.jpg"
+  },
+  {
+    "name": "Minimalistic Landscape Blue",
+    "author": "Carsten",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "calm",
+      "vector",
+      "nature",
+      "simple"
+    ],
+    "downloadable": true,
+    "url": "Minimal/minimalistic_landscape_blue.jpg",
+    "thumbnail": "thumbnails/Minimal/minimalistic_landscape_blue_thumb.jpg"
+  },
+  {
+    "name": "Mountain Silhouette Sunset",
+    "author": "Unknown",
+    "dimensions": "2410x5218",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "peaceful",
+      "nature",
+      "sunset",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Minimal/mountain_silhouette_sunset.jpg",
+    "thumbnail": "thumbnails/Minimal/mountain_silhouette_sunset_thumb.jpg"
+  },
+  {
+    "name": "Minimalist House Landscape",
+    "author": "Faisal Arain",
+    "dimensions": "606x1280",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "calm",
+      "modern",
+      "landscape",
+      "simplicity"
+    ],
+    "downloadable": true,
+    "url": "Minimal/minimalist_house_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/minimalist_house_landscape_thumb.jpg"
+  },
+  {
+    "name": "Skeleton Crowning Blood",
+    "author": "Unknown",
+    "dimensions": "1125x2436",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "intense",
+      "illustration",
+      "gothic",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Minimal/skeleton_crowning_blood.jpg",
+    "thumbnail": "thumbnails/Minimal/skeleton_crowning_blood_thumb.jpg"
+  },
+  {
+    "name": "Flaming Skull Match",
+    "author": "Unknown",
+    "dimensions": "1125x2436",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "dramatic",
+      "skull",
+      "fire",
+      "illustration"
+    ],
+    "downloadable": true,
+    "url": "Minimal/flaming_skull_match.jpg",
+    "thumbnail": "thumbnails/Minimal/flaming_skull_match_thumb.jpg"
+  },
+  {
+    "name": "Minimal House Landscape",
+    "author": "Unknown",
+    "dimensions": "1190x2645",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "simple",
+      "geometric",
+      "modern",
+      "cool"
+    ],
+    "downloadable": true,
+    "url": "Minimal/minimal_house_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/minimal_house_landscape_thumb.jpg"
+  },
+  {
+    "name": "Sailing Mountains Sunset",
+    "author": "Putra",
+    "dimensions": "1080x2408",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "simplistic",
+      "nature",
+      "warm",
+      "vector"
+    ],
+    "downloadable": true,
+    "url": "Minimal/sailing_mountains_sunset.jpg",
+    "thumbnail": "thumbnails/Minimal/sailing_mountains_sunset_thumb.jpg"
+  },
+  {
+    "name": "Wind Turbines Sky",
+    "author": "Omaro",
+    "dimensions": "1242x2688",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "calm",
+      "nature",
+      "technology",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Minimal/wind_turbines_sky.jpg",
+    "thumbnail": "thumbnails/Minimal/wind_turbines_sky_thumb.jpg"
+  },
+  {
+    "name": "Samurai Mountain Sunset",
+    "author": "𝙱𝚛𝚒𝚌𝚒𝚘 Bis",
+    "dimensions": "720x1520",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "peaceful",
+      "nature",
+      "silhouette",
+      "blue"
+    ],
+    "downloadable": true,
+    "url": "Minimal/samurai_mountain_sunset.jpg",
+    "thumbnail": "thumbnails/Minimal/samurai_mountain_sunset_thumb.jpg"
+  },
+  {
+    "name": "Colorful Vertical Stripes",
+    "author": "Unknown",
+    "dimensions": "1290x2795",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "abstract",
+      "simple",
+      "colorful",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Minimal/colorful_vertical_stripes.jpg",
+    "thumbnail": "thumbnails/Minimal/colorful_vertical_stripes_thumb.jpg"
+  },
+  {
+    "name": "Sunset Mountain Landscape",
+    "author": "Pk Meena",
+    "dimensions": "737x1598",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "serene",
+      "nature",
+      "scenic",
+      "twilight"
+    ],
+    "downloadable": true,
+    "url": "Minimal/sunset_mountain_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/sunset_mountain_landscape_thumb.jpg"
+  },
+  {
+    "name": "Hot Air Balloon Sunset",
+    "author": "Faisal Arain",
+    "dimensions": "1080x2296",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "soft",
+      "peaceful",
+      "landscape",
+      "sunset",
+      "travel"
+    ],
+    "downloadable": true,
+    "url": "Minimal/hot_air_balloon_sunset.jpg",
+    "thumbnail": "thumbnails/Minimal/hot_air_balloon_sunset_thumb.jpg"
+  },
+  {
+    "name": "Cat Headphones Chill",
+    "author": "YemIdeas",
+    "dimensions": "868x2047",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "calm",
+      "cute",
+      "music",
+      "cartoon"
+    ],
+    "downloadable": true,
+    "url": "Minimal/cat_headphones_chill.jpg",
+    "thumbnail": "thumbnails/Minimal/cat_headphones_chill_thumb.jpg"
+  },
+  {
+    "name": "Pikachu Computer Work",
+    "author": "William Gomez Gomez Chambi",
+    "dimensions": "802x1756",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "playful",
+      "cartoon",
+      "cute",
+      "anime"
+    ],
+    "downloadable": true,
+    "url": "Minimal/pikachu_computer_work.jpg",
+    "thumbnail": "thumbnails/Minimal/pikachu_computer_work_thumb.jpg"
+  },
+  {
+    "name": "Pokemon Ball Landscape",
+    "author": "Unknown",
+    "dimensions": "946x2048",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "playful",
+      "nature",
+      "stylized",
+      "fantasy"
+    ],
+    "downloadable": true,
+    "url": "Minimal/pokemon_ball_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/pokemon_ball_landscape_thumb.jpg"
+  },
+  {
+    "name": "Abstract Color Shape 2",
+    "author": "Mohamed A. Metwally",
+    "dimensions": "5551x12348",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "bold",
+      "geometric",
+      "modern",
+      "graphic"
+    ],
+    "downloadable": true,
+    "url": "Minimal/abstract_color_shape_2.jpg",
+    "thumbnail": "thumbnails/Minimal/abstract_color_shape_2_thumb.jpg"
+  },
+  {
+    "name": "Cat Coffee Happiness",
+    "author": "#Peni#",
+    "dimensions": "997x2160",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "cute",
+      "whimsical",
+      "cozy",
+      "illustration"
+    ],
+    "downloadable": true,
+    "url": "Minimal/cat_coffee_happiness.jpg",
+    "thumbnail": "thumbnails/Minimal/cat_coffee_happiness_thumb.jpg"
+  },
+  {
+    "name": "Graphic Design Abstract",
+    "author": "Santino Joseph Maglalang",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "modern",
+      "vibrant",
+      "design",
+      "colorful",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Minimal/graphic_design_abstract.jpg",
+    "thumbnail": "thumbnails/Minimal/graphic_design_abstract_thumb.jpg"
+  },
+  {
+    "name": "Cat Study Desk",
+    "author": "🌬Michelle Rodrigues",
+    "dimensions": "720x1600",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "calm",
+      "illustration",
+      "cat",
+      "workspace"
+    ],
+    "downloadable": true,
+    "url": "Minimal/cat_study_desk.jpg",
+    "thumbnail": "thumbnails/Minimal/cat_study_desk_thumb.jpg"
+  },
+  {
+    "name": "Cute Shark Cartoon",
+    "author": "𖥻 ִ ۫ ּ 𝐀𝐫𝐢𝐞𝐥𓋜 ៹",
+    "dimensions": "720x1600",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "playful",
+      "animal",
+      "fun",
+      "illustration"
+    ],
+    "downloadable": true,
+    "url": "Minimal/cute_shark_cartoon.jpg",
+    "thumbnail": "thumbnails/Minimal/cute_shark_cartoon_thumb.jpg"
+  },
+  {
+    "name": "Shark Drinking Beer",
+    "author": "winterbear",
+    "dimensions": "720x1600",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "funny",
+      "playful",
+      "cartoon",
+      "cute",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Minimal/shark_drinking_beer.jpg",
+    "thumbnail": "thumbnails/Minimal/shark_drinking_beer_thumb.jpg"
+  },
+  {
+    "name": "Astronaut Space Dream",
+    "author": "Unknown",
+    "dimensions": "1179x2489",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "imaginative",
+      "cosmos",
+      "solitary",
+      "whimsical"
+    ],
+    "downloadable": true,
+    "url": "Minimal/astronaut_space_dream.jpg",
+    "thumbnail": "thumbnails/Minimal/astronaut_space_dream_thumb.jpg"
+  },
+  {
+    "name": "Keep It Simple 1",
+    "author": "Unknown",
+    "dimensions": "1125x2436",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "minimal",
+      "calm",
+      "text",
+      "modern",
+      "inspirational"
+    ],
+    "downloadable": true,
+    "url": "Minimal/keep_it_simple_1.jpg",
+    "thumbnail": "thumbnails/Minimal/keep_it_simple_1_thumb.jpg"
+  },
+  {
+    "name": "Cat Sunset Minimal",
+    "author": "欣欣",
+    "dimensions": "1080x2337",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "warm",
+      "calm",
+      "minimalist",
+      "nature",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Minimal/cat_sunset_minimal.jpg",
+    "thumbnail": "thumbnails/Minimal/cat_sunset_minimal_thumb.jpg"
+  },
+  {
+    "name": "Cat Box Black",
+    "author": "sky",
+    "dimensions": "720x1480",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "cute",
+      "playful",
+      "cartoon",
+      "funny",
+      "whimsical"
+    ],
+    "downloadable": true,
+    "url": "Minimal/cat_box_black.jpg",
+    "thumbnail": "thumbnails/Minimal/cat_box_black_thumb.jpg"
+  },
+  {
+    "name": "Cloud Plant Pot",
+    "author": "Unknown",
+    "dimensions": "1080x2246",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "minimalist",
+      "calm",
+      "nature",
+      "icon",
+      "black"
+    ],
+    "downloadable": true,
+    "url": "Minimal/cloud_plant_pot.jpg",
+    "thumbnail": "thumbnails/Minimal/cloud_plant_pot_thumb.jpg"
+  },
+  {
+    "name": "Barren Tree Landscape",
+    "author": "Unknown",
+    "dimensions": "926x2160",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "minimalist",
+      "calm",
+      "nature",
+      "silhouette",
+      "serene"
+    ],
+    "downloadable": true,
+    "url": "Minimal/barren_tree_landscape.jpg",
+    "thumbnail": "thumbnails/Minimal/barren_tree_landscape_thumb.jpg"
+  },
+  {
+    "name": "Minimalist Building Birds",
+    "author": "欣欣",
+    "dimensions": "720x1560",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "calm",
+      "sky",
+      "architecture",
+      "freedom"
+    ],
+    "downloadable": true,
+    "url": "Minimal/minimalist_building_birds.jpg",
+    "thumbnail": "thumbnails/Minimal/minimalist_building_birds_thumb.jpg"
+  },
+  {
+    "name": "Happy Cartoon Dog",
+    "author": "Unknown",
+    "dimensions": "736x1592",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "joyful",
+      "anime",
+      "dog",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Minimal/happy_cartoon_dog.jpg",
+    "thumbnail": "thumbnails/Minimal/happy_cartoon_dog_thumb.jpg"
+  },
+  {
+    "name": "Angry Boy Portrait",
+    "author": "Unknown",
+    "dimensions": "945x2048",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "defiant",
+      "illustration",
+      "character",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Minimal/angry_boy_portrait.jpg",
+    "thumbnail": "thumbnails/Minimal/angry_boy_portrait_thumb.jpg"
+  },
+  {
+    "name": "Colorful Chameleon Art",
+    "author": "Unknown",
+    "dimensions": "1386x3000",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "vibrant",
+      "animal",
+      "illustration",
+      "whimsical"
+    ],
+    "downloadable": true,
+    "url": "Minimal/colorful_chameleon_art.jpg",
+    "thumbnail": "thumbnails/Minimal/colorful_chameleon_art_thumb.jpg"
+  },
+  {
+    "name": "Blue Keyboard Design",
+    "author": "unknown",
+    "dimensions": "554x1200",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "modern",
+      "design",
+      "technology",
+      "minimal"
+    ],
+    "downloadable": true,
+    "url": "Minimal/blue_keyboard_design.jpg",
+    "thumbnail": "thumbnails/Minimal/blue_keyboard_design_thumb.jpg"
+  },
+  {
+    "name": "Amsterdam Art Stamp",
+    "author": "unknown",
+    "dimensions": "1350x3299",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "colorful",
+      "art",
+      "design",
+      "creative"
+    ],
+    "downloadable": true,
+    "url": "Minimal/amsterdam_art_stamp.jpg",
+    "thumbnail": "thumbnails/Minimal/amsterdam_art_stamp_thumb.jpg"
+  },
+  {
+    "name": "Yo Text Graphics",
+    "author": "unknown",
+    "dimensions": "736x1594",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "bold",
+      "graphic",
+      "modern",
+      "pop"
+    ],
+    "downloadable": true,
+    "url": "Minimal/yo_text_graphics.jpg",
+    "thumbnail": "thumbnails/Minimal/yo_text_graphics_thumb.jpg"
+  },
+  {
+    "name": "Coca Cola Can",
+    "author": "unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "red",
+      "iconic",
+      "modern",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Minimal/coca_cola_can.jpg",
+    "thumbnail": "thumbnails/Minimal/coca_cola_can_thumb.jpg"
+  },
+  {
+    "name": "Fried Egg Background",
+    "author": "unknown",
+    "dimensions": "720x1600",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "simple",
+      "food",
+      "yellow",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Minimal/fried_egg_background.jpg",
+    "thumbnail": "thumbnails/Minimal/fried_egg_background_thumb.jpg"
+  },
+  {
+    "name": "Simple Graphic Face",
+    "author": "unknown",
+    "dimensions": "591x1280",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "minimalist",
+      "modern",
+      "graphic",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Minimal/simple_graphic_face.jpg",
+    "thumbnail": "thumbnails/Minimal/simple_graphic_face_thumb.jpg"
+  },
+  {
+    "name": "Motorcycle Silhouette Background",
+    "author": "unknown",
+    "dimensions": "1170x2532",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "minimalist",
+      "moto",
+      "design",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Minimal/motorcycle_silhouette_background.jpg",
+    "thumbnail": "thumbnails/Minimal/motorcycle_silhouette_background_thumb.jpg"
+  },
+  {
+    "name": "Mountain Silhouette Buildings",
+    "author": "unknown",
+    "dimensions": "555x1200",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "minimalist",
+      "calm",
+      "landscape",
+      "geometric",
+      "pastel"
+    ],
+    "downloadable": true,
+    "url": "Minimal/mountain_silhouette_buildings.jpg",
+    "thumbnail": "thumbnails/Minimal/mountain_silhouette_buildings_thumb.jpg"
+  },
+  {
+    "name": "Window Blue Wall",
+    "author": "unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "minimalist",
+      "architecture",
+      "tranquil",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Minimal/window_blue_wall.jpg",
+    "thumbnail": "thumbnails/Minimal/window_blue_wall_thumb.jpg"
+  },
+  {
+    "name": "Owl Mountain Night",
+    "author": "unknown",
+    "dimensions": "722x2100",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "dark",
+      "calm",
+      "nature",
+      "night",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Minimal/owl_mountain_night.jpg",
+    "thumbnail": "thumbnails/Minimal/owl_mountain_night_thumb.jpg"
+  },
+  {
+    "name": "Campfire Friends Evening",
+    "author": "unknown",
+    "dimensions": "736x1686",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "calm",
+      "friendly",
+      "outdoors",
+      "relaxing",
+      "illustration"
+    ],
+    "downloadable": true,
+    "url": "Minimal/campfire_friends_evening.jpg",
+    "thumbnail": "thumbnails/Minimal/campfire_friends_evening_thumb.jpg"
+  },
+  {
+    "name": "Mountains Sunset Art",
+    "author": "unknown",
+    "dimensions": "1125x2436",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "calm",
+      "abstract",
+      "nature",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Minimal/mountains_sunset_art.jpg",
+    "thumbnail": "thumbnails/Minimal/mountains_sunset_art_thumb.jpg"
+  },
+  {
+    "name": "Pirate Sharks Cartoon",
+    "author": "unknown",
+    "dimensions": "663x1678",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "fun",
+      "playful",
+      "cartoon",
+      "colorful",
+      "ocean"
+    ],
+    "downloadable": true,
+    "url": "Minimal/pirate_sharks_cartoon.jpg",
+    "thumbnail": "thumbnails/Minimal/pirate_sharks_cartoon_thumb.jpg"
+  },
+  {
+    "name": "Smurf Book Stack",
+    "author": "unknown",
+    "dimensions": "736x2530",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "bright",
+      "playful",
+      "cartoon",
+      "books",
+      "whimsical"
+    ],
+    "downloadable": true,
+    "url": "Minimal/smurf_book_stack.jpg",
+    "thumbnail": "thumbnails/Minimal/smurf_book_stack_thumb.jpg"
+  },
+  {
+    "name": "Cartoon Bike Rider",
+    "author": "unknown",
+    "dimensions": "537x1635",
+    "copyright": "personal use only",
+    "collections": "Minimal",
+    "tags": [
+      "light",
+      "playful",
+      "illustration",
+      "fun",
+      "animation"
+    ],
+    "downloadable": true,
+    "url": "Minimal/cartoon_bike_rider.jpg",
+    "thumbnail": "thumbnails/Minimal/cartoon_bike_rider_thumb.jpg"
+  }
+]
+}
