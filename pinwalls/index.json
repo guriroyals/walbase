@@ -42,6 +42,16 @@
       "name": "Creatures",
       "file": "categories/Creatures.json",
       "count": 30
+    },
+    {
+      "name": "Minimal",
+      "file": "categories/Minimal.json",
+      "count": 30
+    },
+    {
+      "name": "Gradients",
+      "file": "categories/Gradients.json",
+      "count": 30
     }
   ]
 }
