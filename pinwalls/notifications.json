@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Initial release!",
         "message": "Check out the brand spanking app.",
-        "enabled": true
+        "enabled": false
     },
     "totalWallpapers": 2253
 }
