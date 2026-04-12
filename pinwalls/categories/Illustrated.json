@@ -1,6 +1,618 @@
 {
     "Wallpapers": [
   {
+    "name": "Sunset Mountain Landscape V2",
+    "author": "Wallpapers",
+    "dimensions": "750x1600",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "warm",
+      "serene",
+      "nature",
+      "scenic",
+      "landscape"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/sunset_mountain_landscape_v2.jpg",
+    "thumbnail": "thumbnails/Illustrated/sunset_mountain_landscape_v2_thumb.jpg"
+  },
+  {
+    "name": "House Red Field",
+    "author": "Eteov",
+    "dimensions": "1080x2520",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "bright",
+      "serene",
+      "landscape",
+      "minimalist",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/house_red_field.jpg",
+    "thumbnail": "thumbnails/Illustrated/house_red_field_thumb.jpg"
+  },
+  {
+    "name": "Bare Tree Night",
+    "author": "Afe̤ra XV",
+    "dimensions": "885x1919",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "dark",
+      "calm",
+      "nature",
+      "moon",
+      "silhouette"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/bare_tree_night.jpg",
+    "thumbnail": "thumbnails/Illustrated/bare_tree_night_thumb.jpg"
+  },
+  {
+    "name": "Moon Tree Clouds",
+    "author": "Unknown",
+    "dimensions": "736x1595",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "bright",
+      "serene",
+      "nature",
+      "sky",
+      "tranquil"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/moon_tree_clouds.jpg",
+    "thumbnail": "thumbnails/Illustrated/moon_tree_clouds_thumb.jpg"
+  },
+  {
+    "name": "Spider Man Action",
+    "author": "Surcos de oro",
+    "dimensions": "1179x2690",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "bright",
+      "dynamic",
+      "superhero",
+      "animation",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/spider_man_action.jpg",
+    "thumbnail": "thumbnails/Illustrated/spider_man_action_thumb.jpg"
+  },
+  {
+    "name": "Person Dog Landscape",
+    "author": "Pranjal Giri",
+    "dimensions": "1646x3966",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "bright",
+      "adventurous",
+      "nature",
+      "exploration",
+      "outdoors"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/person_dog_landscape.jpg",
+    "thumbnail": "thumbnails/Illustrated/person_dog_landscape_thumb.jpg"
+  },
+  {
+    "name": "Dark Tree Glow",
+    "author": "Afe̤ra XV",
+    "dimensions": "1125x2436",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "eerie",
+      "mysterious",
+      "fantasy",
+      "nature",
+      "ominous"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/dark_tree_glow.jpg",
+    "thumbnail": "thumbnails/Illustrated/dark_tree_glow_thumb.jpg"
+  },
+  {
+    "name": "Road Stars Night",
+    "author": "Afe̤ra XV",
+    "dimensions": "1181x2559",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "dark",
+      "mystical",
+      "nature",
+      "landscape",
+      "calm"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/road_stars_night.jpg",
+    "thumbnail": "thumbnails/Illustrated/road_stars_night_thumb.jpg"
+  },
+  {
+    "name": "Sunset Forest View",
+    "author": "Bienvenu Dans L'univers De Gohan Beast 76 !",
+    "dimensions": "1890x4092",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "vibrant",
+      "serene",
+      "nature",
+      "landscape",
+      "evening"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/sunset_forest_view.jpg",
+    "thumbnail": "thumbnails/Illustrated/sunset_forest_view_thumb.jpg"
+  },
+  {
+    "name": "City Skyline Evening",
+    "author": "Unknown",
+    "dimensions": "1339x2900",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "dark",
+      "calm",
+      "urban",
+      "cityscape",
+      "minimal"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/city_skyline_evening.jpg",
+    "thumbnail": "thumbnails/Illustrated/city_skyline_evening_thumb.jpg"
+  },
+  {
+    "name": "Moonlit Beach Scenery",
+    "author": "Unknown",
+    "dimensions": "736x1684",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "magical",
+      "serene",
+      "water",
+      "night",
+      "landscape"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/moonlit_beach_scenery.jpg",
+    "thumbnail": "thumbnails/Illustrated/moonlit_beach_scenery_thumb.jpg"
+  },
+  {
+    "name": "Mystical Mountain Landscape",
+    "author": "𝚆𝙴𝙹𝙳˖°𝜗𝜚",
+    "dimensions": "997x2160",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "dark",
+      "mysterious",
+      "reflection",
+      "nature",
+      "serene"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/mystical_mountain_landscape.jpg",
+    "thumbnail": "thumbnails/Illustrated/mystical_mountain_landscape_thumb.jpg"
+  },
+  {
+    "name": "Mountain Sunset Clouds V2",
+    "author": "Pranjal Giri",
+    "dimensions": "1920x4754",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "warm",
+      "serene",
+      "landscape",
+      "nature",
+      "adventure"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/mountain_sunset_clouds_v2.jpg",
+    "thumbnail": "thumbnails/Illustrated/mountain_sunset_clouds_v2_thumb.jpg"
+  },
+  {
+    "name": "Fence Green Field",
+    "author": "Afe̤ra XV",
+    "dimensions": "1181x2560",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "dark",
+      "calm",
+      "nature",
+      "landscape",
+      "atmospheric"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/fence_green_field.jpg",
+    "thumbnail": "thumbnails/Illustrated/fence_green_field_thumb.jpg"
+  },
+  {
+    "name": "Samurai White Dog",
+    "author": "Afe̤ra XV",
+    "dimensions": "1096x2375",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "dark",
+      "serene",
+      "landscape",
+      "anime",
+      "night"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/samurai_white_dog.jpg",
+    "thumbnail": "thumbnails/Illustrated/samurai_white_dog_thumb.jpg"
+  },
+  {
+    "name": "Samurai Mountain Snow",
+    "author": "Afe̤ra XV",
+    "dimensions": "885x1918",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "bright",
+      "epic",
+      "warrior",
+      "landscape",
+      "fantasy"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/samurai_mountain_snow.jpg",
+    "thumbnail": "thumbnails/Illustrated/samurai_mountain_snow_thumb.jpg"
+  },
+  {
+    "name": "Gothic Church Landscape",
+    "author": "Afe̤ra XV",
+    "dimensions": "1174x2544",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "bright",
+      "mystical",
+      "architecture",
+      "outdoors",
+      "scenic"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/gothic_church_landscape.jpg",
+    "thumbnail": "thumbnails/Illustrated/gothic_church_landscape_thumb.jpg"
+  },
+  {
+    "name": "Sunflower Night Sky",
+    "author": "Afe̤ra XV",
+    "dimensions": "1104x2392",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "dark",
+      "serene",
+      "nature",
+      "vibrant",
+      "starry"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/sunflower_night_sky.jpg",
+    "thumbnail": "thumbnails/Illustrated/sunflower_night_sky_thumb.jpg"
+  },
+  {
+    "name": "Night Flower Moon",
+    "author": "Afe̤ra XV",
+    "dimensions": "1104x2392",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "dark",
+      "serene",
+      "nature",
+      "flowers",
+      "night"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/night_flower_moon.jpg",
+    "thumbnail": "thumbnails/Illustrated/night_flower_moon_thumb.jpg"
+  },
+  {
+    "name": "Yellow Flower Bloom V2",
+    "author": "Pranjal Giri",
+    "dimensions": "3264x8501",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "bright",
+      "cheerful",
+      "nature",
+      "botanical",
+      "illustration"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/yellow_flower_bloom_v2.jpg",
+    "thumbnail": "thumbnails/Illustrated/yellow_flower_bloom_v2_thumb.jpg"
+  },
+  {
+    "name": "Fiery Sunset Reflection",
+    "author": "இஜ عزيز  و غالي ஜஇ",
+    "dimensions": "921x2108",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "bright",
+      "serene",
+      "nature",
+      "sky",
+      "water"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/fiery_sunset_reflection.jpg",
+    "thumbnail": "thumbnails/Illustrated/fiery_sunset_reflection_thumb.jpg"
+  },
+  {
+    "name": "Neon City Night",
+    "author": "unknown",
+    "dimensions": "720x1600",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "bright",
+      "vibrant",
+      "urban",
+      "night",
+      "futuristic"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/neon_city_night.jpg",
+    "thumbnail": "thumbnails/Illustrated/neon_city_night_thumb.jpg"
+  },
+  {
+    "name": "Tree Mountain Sunset",
+    "author": "unknown",
+    "dimensions": "1844x4000",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "calm",
+      "serene",
+      "landscape",
+      "nature",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/tree_mountain_sunset.jpg",
+    "thumbnail": "thumbnails/Illustrated/tree_mountain_sunset_thumb.jpg"
+  },
+  {
+    "name": "Surreal Landscape Silhouette",
+    "author": "unknown",
+    "dimensions": "1170x2594",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "dark",
+      "mysterious",
+      "reflection",
+      "fantasy",
+      "alone"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/surreal_landscape_silhouette.jpg",
+    "thumbnail": "thumbnails/Illustrated/surreal_landscape_silhouette_thumb.jpg"
+  },
+  {
+    "name": "Colorful Cat Pattern",
+    "author": "unknown",
+    "dimensions": "1170x2543",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "bright",
+      "playful",
+      "cats",
+      "colorful",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/colorful_cat_pattern.jpg",
+    "thumbnail": "thumbnails/Illustrated/colorful_cat_pattern_thumb.jpg"
+  },
+  {
+    "name": "Skeleton Tree Flowers",
+    "author": "unknown",
+    "dimensions": "1104x2453",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "bright",
+      "peaceful",
+      "nature",
+      "colorful",
+      "whimsical"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/skeleton_tree_flowers.jpg",
+    "thumbnail": "thumbnails/Illustrated/skeleton_tree_flowers_thumb.jpg"
+  },
+  {
+    "name": "Colorful Mountain Landscape V2",
+    "author": "unknown",
+    "dimensions": "860x1864",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "bright",
+      "cheerful",
+      "nature",
+      "landscape",
+      "peaceful"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/colorful_mountain_landscape_v2.jpg",
+    "thumbnail": "thumbnails/Illustrated/colorful_mountain_landscape_v2_thumb.jpg"
+  },
+  {
+    "name": "Skeleton Mystery Art",
+    "author": "unknown",
+    "dimensions": "1080x2395",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "dark",
+      "mysterious",
+      "ghostly",
+      "monochrome",
+      "abstract"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/skeleton_mystery_art.jpg",
+    "thumbnail": "thumbnails/Illustrated/skeleton_mystery_art_thumb.jpg"
+  },
+  {
+    "name": "Silhouettes Urban Mystery",
+    "author": "unknown",
+    "dimensions": "1845x4096",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "dark",
+      "mysterious",
+      "urban",
+      "exploration",
+      "silhouette"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/silhouettes_urban_mystery.jpg",
+    "thumbnail": "thumbnails/Illustrated/silhouettes_urban_mystery_thumb.jpg"
+  },
+  {
+    "name": "Skeleton Setting Sun",
+    "author": "unknown",
+    "dimensions": "1185x2569",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "dark",
+      "eerie",
+      "silhouette",
+      "nature",
+      "sunset"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/skeleton_setting_sun.jpg",
+    "thumbnail": "thumbnails/Illustrated/skeleton_setting_sun_thumb.jpg"
+  },
+  {
+    "name": "Deer Forest Illustration",
+    "author": "unknown",
+    "dimensions": "1185x2569",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "calm",
+      "mystical",
+      "nature",
+      "art",
+      "animals"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/deer_forest_illustration.jpg",
+    "thumbnail": "thumbnails/Illustrated/deer_forest_illustration_thumb.jpg"
+  },
+  {
+    "name": "Moonlit Village Scene",
+    "author": "unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "dark",
+      "serene",
+      "countryside",
+      "nature",
+      "night"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/moonlit_village_scene.jpg",
+    "thumbnail": "thumbnails/Illustrated/moonlit_village_scene_thumb.jpg"
+  },
+  {
+    "name": "Mountain Forest Sunset V2",
+    "author": "unknown",
+    "dimensions": "1178x2560",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "warm",
+      "serene",
+      "nature",
+      "landscape",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/mountain_forest_sunset_v2.jpg",
+    "thumbnail": "thumbnails/Illustrated/mountain_forest_sunset_v2_thumb.jpg"
+  },
+  {
+    "name": "Flaming Skull Character",
+    "author": "unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "dark",
+      "intense",
+      "fantasy",
+      "art",
+      "mysterious"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/flaming_skull_character.jpg",
+    "thumbnail": "thumbnails/Illustrated/flaming_skull_character_thumb.jpg"
+  },
+  {
+    "name": "Angry Black Wolves",
+    "author": "unknown",
+    "dimensions": "736x1624",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "dark",
+      "intense",
+      "wildlife",
+      "red",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/angry_black_wolves.jpg",
+    "thumbnail": "thumbnails/Illustrated/angry_black_wolves_thumb.jpg"
+  },
+  {
+    "name": "Mountain Sunset View V2",
+    "author": "unknown",
+    "dimensions": "640x1386",
+    "copyright": "personal use only",
+    "collections": "Illustrated",
+    "tags": [
+      "vibrant",
+      "serene",
+      "landscape",
+      "sunset",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Illustrated/mountain_sunset_view_v2.jpg",
+    "thumbnail": "thumbnails/Illustrated/mountain_sunset_view_v2_thumb.jpg"
+  },
+  {
     "name": "Mountain Sunset View",
     "author": "Unknown",
     "dimensions": "944x2048",
