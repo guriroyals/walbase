@@ -1,6 +1,635 @@
 {
     "Wallpapers":[
   {
+    "name": "White Flower Black",
+    "author": "Unknown",
+    "dimensions": "736x1595",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "serene",
+      "nature",
+      "elegant",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Amoled/white_flower_black.jpg",
+    "thumbnail": "thumbnails/Amoled/white_flower_black_thumb.jpg"
+  },
+  {
+    "name": "Red Sport Car V2",
+    "author": "Eyobed Mo",
+    "dimensions": "1200x2599",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "dynamic",
+      "car",
+      "luxury",
+      "performance"
+    ],
+    "downloadable": true,
+    "url": "Amoled/red_sport_car_v2.jpg",
+    "thumbnail": "thumbnails/Amoled/red_sport_car_v2_thumb.jpg"
+  },
+  {
+    "name": "Colorful Stripe Pattern",
+    "author": "Unknown",
+    "dimensions": "1080x2257",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "vibrant",
+      "abstract",
+      "design",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Amoled/colorful_stripe_pattern.jpg",
+    "thumbnail": "thumbnails/Amoled/colorful_stripe_pattern_thumb.jpg"
+  },
+  {
+    "name": "Skull Lightning Graphic",
+    "author": "Asif Zaman",
+    "dimensions": "1080x2640",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "edgy",
+      "graphic",
+      "bold",
+      "conceptual"
+    ],
+    "downloadable": true,
+    "url": "Amoled/skull_lightning_graphic.jpg",
+    "thumbnail": "thumbnails/Amoled/skull_lightning_graphic_thumb.jpg"
+  },
+  {
+    "name": "Skull Art Feather",
+    "author": "Unknown",
+    "dimensions": "945x2048",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "art",
+      "skull",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Amoled/skull_art_feather.jpg",
+    "thumbnail": "thumbnails/Amoled/skull_art_feather_thumb.jpg"
+  },
+  {
+    "name": "Colorful Circle Palette",
+    "author": "JB",
+    "dimensions": "736x1623",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "vibrant",
+      "abstract",
+      "minimalist",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Amoled/colorful_circle_palette.jpg",
+    "thumbnail": "thumbnails/Amoled/colorful_circle_palette_thumb.jpg"
+  },
+  {
+    "name": "Colorful Gradient Shape",
+    "author": "Unknown",
+    "dimensions": "1080x2250",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "modern",
+      "abstract",
+      "design",
+      "digital"
+    ],
+    "downloadable": true,
+    "url": "Amoled/colorful_gradient_shape.jpg",
+    "thumbnail": "thumbnails/Amoled/colorful_gradient_shape_thumb.jpg"
+  },
+  {
+    "name": "Green Leaf Flower",
+    "author": "Unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "natural",
+      "plant",
+      "calm",
+      "elegant"
+    ],
+    "downloadable": true,
+    "url": "Amoled/green_leaf_flower.jpg",
+    "thumbnail": "thumbnails/Amoled/green_leaf_flower_thumb.jpg"
+  },
+  {
+    "name": "Colorful Thai Frog",
+    "author": "Unknown",
+    "dimensions": "577x1280",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "colorful",
+      "nature",
+      "frog",
+      "animal"
+    ],
+    "downloadable": true,
+    "url": "Amoled/colorful_thai_frog.jpg",
+    "thumbnail": "thumbnails/Amoled/colorful_thai_frog_thumb.jpg"
+  },
+  {
+    "name": "Green Succulent Plant",
+    "author": "papi chulo",
+    "dimensions": "1182x2560",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "calm",
+      "nature",
+      "botanical",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Amoled/green_succulent_plant.jpg",
+    "thumbnail": "thumbnails/Amoled/green_succulent_plant_thumb.jpg"
+  },
+  {
+    "name": "Colorful Wave Pattern V2",
+    "author": "Luigi mel",
+    "dimensions": "2250x4872",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "dynamic",
+      "abstract",
+      "fluid",
+      "vibrant"
+    ],
+    "downloadable": true,
+    "url": "Amoled/colorful_wave_pattern_v2.jpg",
+    "thumbnail": "thumbnails/Amoled/colorful_wave_pattern_v2_thumb.jpg"
+  },
+  {
+    "name": "Neon City Night",
+    "author": "Unknown",
+    "dimensions": "736x1595",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "vibrant",
+      "urban",
+      "neon",
+      "atmospheric"
+    ],
+    "downloadable": true,
+    "url": "Amoled/neon_city_night.jpg",
+    "thumbnail": "thumbnails/Amoled/neon_city_night_thumb.jpg"
+  },
+  {
+    "name": "Pink White Flower",
+    "author": "Komal Kumari",
+    "dimensions": "1480x3452",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "elegant",
+      "nature",
+      "floral",
+      "delicate"
+    ],
+    "downloadable": true,
+    "url": "Amoled/pink_white_flower.jpg",
+    "thumbnail": "thumbnails/Amoled/pink_white_flower_thumb.jpg"
+  },
+  {
+    "name": "Blue Flower Macro",
+    "author": "Unknown",
+    "dimensions": "577x1280",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "floral",
+      "macro",
+      "vibrant"
+    ],
+    "downloadable": true,
+    "url": "Amoled/blue_flower_macro.jpg",
+    "thumbnail": "thumbnails/Amoled/blue_flower_macro_thumb.jpg"
+  },
+  {
+    "name": "Red Snake Sculpture",
+    "author": "User_nswsmu siblasei",
+    "dimensions": "828x1792",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "artistic",
+      "snake",
+      "colorful",
+      "contemporary"
+    ],
+    "downloadable": true,
+    "url": "Amoled/red_snake_sculpture.jpg",
+    "thumbnail": "thumbnails/Amoled/red_snake_sculpture_thumb.jpg"
+  },
+  {
+    "name": "Dragon Symbol Art",
+    "author": "Irithar",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mystical",
+      "art",
+      "fantasy",
+      "symbol"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dragon_symbol_art.jpg",
+    "thumbnail": "thumbnails/Amoled/dragon_symbol_art_thumb.jpg"
+  },
+  {
+    "name": "Colorful Flower Petals",
+    "author": "Ujjwal Chakraborty",
+    "dimensions": "924x2048",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "soft",
+      "nature",
+      "vibrant",
+      "delicate"
+    ],
+    "downloadable": true,
+    "url": "Amoled/colorful_flower_petals.jpg",
+    "thumbnail": "thumbnails/Amoled/colorful_flower_petals_thumb.jpg"
+  },
+  {
+    "name": "Black Panther Portrait",
+    "author": "Jennilama",
+    "dimensions": "945x2048",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "animal",
+      "serene",
+      "close-up"
+    ],
+    "downloadable": true,
+    "url": "Amoled/black_panther_portrait.jpg",
+    "thumbnail": "thumbnails/Amoled/black_panther_portrait_thumb.jpg"
+  },
+  {
+    "name": "White Flower Black 1",
+    "author": "Unknown",
+    "dimensions": "590x1280",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "serene",
+      "nature",
+      "minimalist",
+      "botanical"
+    ],
+    "downloadable": true,
+    "url": "Amoled/white_flower_black_1.jpg",
+    "thumbnail": "thumbnails/Amoled/white_flower_black_1_thumb.jpg"
+  },
+  {
+    "name": "Tulip Green Bloom",
+    "author": "Unknown",
+    "dimensions": "720x1600",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "serene",
+      "nature",
+      "flower",
+      "water"
+    ],
+    "downloadable": true,
+    "url": "Amoled/tulip_green_bloom.jpg",
+    "thumbnail": "thumbnails/Amoled/tulip_green_bloom_thumb.jpg"
+  },
+  {
+    "name": "Purple Flower Bloom V2",
+    "author": "𝐒𝐭𝐚𝐫𝐥𝐢𝐤𝐞𝐔",
+    "dimensions": "910x1920",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "bright",
+      "serene",
+      "nature",
+      "flower",
+      "vibrant"
+    ],
+    "downloadable": true,
+    "url": "Amoled/purple_flower_bloom_v2.jpg",
+    "thumbnail": "thumbnails/Amoled/purple_flower_bloom_v2_thumb.jpg"
+  },
+  {
+    "name": "Colorful Transparent Circles",
+    "author": "Unknown",
+    "dimensions": "734x1632",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "modern",
+      "abstract",
+      "vibrant",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Amoled/colorful_transparent_circles.jpg",
+    "thumbnail": "thumbnails/Amoled/colorful_transparent_circles_thumb.jpg"
+  },
+  {
+    "name": "Astronaut Space Darkness",
+    "author": "unknown",
+    "dimensions": "2658x5760",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "space",
+      "exploration",
+      "isolated"
+    ],
+    "downloadable": true,
+    "url": "Amoled/astronaut_space_darkness.jpg",
+    "thumbnail": "thumbnails/Amoled/astronaut_space_darkness_thumb.jpg"
+  },
+  {
+    "name": "Golden Grass Tracks",
+    "author": "unknown",
+    "dimensions": "996x2160",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mystical",
+      "landscape",
+      "tranquil",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Amoled/golden_grass_tracks.jpg",
+    "thumbnail": "thumbnails/Amoled/golden_grass_tracks_thumb.jpg"
+  },
+  {
+    "name": "Abstract Wave Pattern V2",
+    "author": "unknown",
+    "dimensions": "736x1674",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "dynamic",
+      "art",
+      "lines",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Amoled/abstract_wave_pattern_v2.jpg",
+    "thumbnail": "thumbnails/Amoled/abstract_wave_pattern_v2_thumb.jpg"
+  },
+  {
+    "name": "Mystic Warrior Silhouette",
+    "author": "unknown",
+    "dimensions": "1320x2868",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "dramatic",
+      "strength",
+      "fantasy",
+      "anime"
+    ],
+    "downloadable": true,
+    "url": "Amoled/mystic_warrior_silhouette.jpg",
+    "thumbnail": "thumbnails/Amoled/mystic_warrior_silhouette_thumb.jpg"
+  },
+  {
+    "name": "Spiral Light Pattern",
+    "author": "unknown",
+    "dimensions": "554x1200",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "abstract",
+      "dark",
+      "geometric",
+      "minimalist",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Amoled/spiral_light_pattern.jpg",
+    "thumbnail": "thumbnails/Amoled/spiral_light_pattern_thumb.jpg"
+  },
+  {
+    "name": "Abstract Color Lines V2",
+    "author": "unknown",
+    "dimensions": "1080x2280",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "vibrant",
+      "artistic",
+      "dynamic",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Amoled/abstract_color_lines_v2.jpg",
+    "thumbnail": "thumbnails/Amoled/abstract_color_lines_v2_thumb.jpg"
+  },
+  {
+    "name": "Vibrant Forest Leaves",
+    "author": "unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "nature",
+      "colorful",
+      "night"
+    ],
+    "downloadable": true,
+    "url": "Amoled/vibrant_forest_leaves.jpg",
+    "thumbnail": "thumbnails/Amoled/vibrant_forest_leaves_thumb.jpg"
+  },
+  {
+    "name": "Hand Dagger Rope",
+    "author": "unknown",
+    "dimensions": "4320x9632",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "intense",
+      "art",
+      "symbolic",
+      "sharp"
+    ],
+    "downloadable": true,
+    "url": "Amoled/hand_dagger_rope.jpg",
+    "thumbnail": "thumbnails/Amoled/hand_dagger_rope_thumb.jpg"
+  },
+  {
+    "name": "Black Hole Space V2",
+    "author": "unknown",
+    "dimensions": "736x1513",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "cosmos",
+      "science",
+      "absence"
+    ],
+    "downloadable": true,
+    "url": "Amoled/black_hole_space_v2.jpg",
+    "thumbnail": "thumbnails/Amoled/black_hole_space_v2_thumb.jpg"
+  },
+  {
+    "name": "Ghost Light Dark",
+    "author": "unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mysterious",
+      "calm",
+      "spooky",
+      "minimal"
+    ],
+    "downloadable": true,
+    "url": "Amoled/ghost_light_dark.jpg",
+    "thumbnail": "thumbnails/Amoled/ghost_light_dark_thumb.jpg"
+  },
+  {
+    "name": "Dragon Art Design",
+    "author": "unknown",
+    "dimensions": "1170x2532",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "mystical",
+      "art",
+      "symbol",
+      "dragon"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dragon_art_design.jpg",
+    "thumbnail": "thumbnails/Amoled/dragon_art_design_thumb.jpg"
+  },
+  {
+    "name": "Skeleton Gamer Computer",
+    "author": "unknown",
+    "dimensions": "675x1500",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "humorous",
+      "digital",
+      "death",
+      "retro"
+    ],
+    "downloadable": true,
+    "url": "Amoled/skeleton_gamer_computer.jpg",
+    "thumbnail": "thumbnails/Amoled/skeleton_gamer_computer_thumb.jpg"
+  },
+  {
+    "name": "Dinosaur Black Background",
+    "author": "unknown",
+    "dimensions": "736x1632",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "intense",
+      "creature",
+      "mysterious",
+      "fierce"
+    ],
+    "downloadable": true,
+    "url": "Amoled/dinosaur_black_background.jpg",
+    "thumbnail": "thumbnails/Amoled/dinosaur_black_background_thumb.jpg"
+  },
+  {
+    "name": "Mountain Red Sunset V2",
+    "author": "unknown",
+    "dimensions": "1386x3000",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dramatic",
+      "bold",
+      "landscape",
+      "nature",
+      "contrast"
+    ],
+    "downloadable": true,
+    "url": "Amoled/mountain_red_sunset_v2.jpg",
+    "thumbnail": "thumbnails/Amoled/mountain_red_sunset_v2_thumb.jpg"
+  },
+  {
+    "name": "Gaming Console Buttons",
+    "author": "unknown",
+    "dimensions": "1080x2280",
+    "copyright": "personal use only",
+    "collections": "Amoled",
+    "tags": [
+      "dark",
+      "modern",
+      "colorful",
+      "tech",
+      "gaming"
+    ],
+    "downloadable": true,
+    "url": "Amoled/gaming_console_buttons.jpg",
+    "thumbnail": "thumbnails/Amoled/gaming_console_buttons_thumb.jpg"
+  },
+    {
     "name": "Black Cat Coffee",
     "author": "Unknown",
     "dimensions": "997x2160",
