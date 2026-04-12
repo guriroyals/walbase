@@ -1,6 +1,364 @@
 {
     "Wallpapers": [
+{
+    "name": "Modern Architecture Reflection",
+    "author": "Unknown",
+    "dimensions": "736x1600",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "vibrant",
+      "calm",
+      "architecture",
+      "reflection",
+      "sunset"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_architecture_reflection.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_architecture_reflection_thumb.jpg"
+  },
   {
+    "name": "Reflected Tree Buildings",
+    "author": "TheBlondeSunshine",
+    "dimensions": "1125x2436",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "serene",
+      "twilight",
+      "reflection",
+      "architecture",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Architecture/reflected_tree_buildings.jpg",
+    "thumbnail": "thumbnails/Architecture/reflected_tree_buildings_thumb.jpg"
+  },
+  {
+    "name": "Modern Architecture Design V2",
+    "author": "Unknown",
+    "dimensions": "1349x2998",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "innovative",
+      "building",
+      "abstract",
+      "urban"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_architecture_design_v2.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_architecture_design_v2_thumb.jpg"
+  },
+  {
+    "name": "City Skyline Night V2",
+    "author": "Unknown",
+    "dimensions": "683x1517",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "urban",
+      "modern",
+      "light",
+      "nighttime"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_skyline_night_v2.jpg",
+    "thumbnail": "thumbnails/Architecture/city_skyline_night_v2_thumb.jpg"
+  },
+  {
+    "name": "Cathedral Architecture Light",
+    "author": "Elizabeth Dickison",
+    "dimensions": "555x1200",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "serene",
+      "architecture",
+      "spiritual",
+      "interior"
+    ],
+    "downloadable": true,
+    "url": "Architecture/cathedral_architecture_light.jpg",
+    "thumbnail": "thumbnails/Architecture/cathedral_architecture_light_thumb.jpg"
+  },
+  {
+    "name": "Church Interior Architecture",
+    "author": "Djux____",
+    "dimensions": "4397x9515",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "calm",
+      "architecture",
+      "spiritual",
+      "historic"
+    ],
+    "downloadable": true,
+    "url": "Architecture/church_interior_architecture.jpg",
+    "thumbnail": "thumbnails/Architecture/church_interior_architecture_thumb.jpg"
+  },
+  {
+    "name": "Cityscape Tower View",
+    "author": "Gutemberg Bacelar",
+    "dimensions": "750x1717",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "urban",
+      "modern",
+      "skyline",
+      "photography"
+    ],
+    "downloadable": true,
+    "url": "Architecture/cityscape_tower_view.jpg",
+    "thumbnail": "thumbnails/Architecture/cityscape_tower_view_thumb.jpg"
+  },
+  {
+    "name": "Modern Highrise Building",
+    "author": "unknown",
+    "dimensions": "1005x2232",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "urban",
+      "architecture",
+      "modern",
+      "minimal"
+    ],
+    "downloadable": true,
+    "url": "Architecture/modern_highrise_building.jpg",
+    "thumbnail": "thumbnails/Architecture/modern_highrise_building_thumb.jpg"
+  },
+  {
+    "name": "Hanging Lights Architecture",
+    "author": "unknown",
+    "dimensions": "946x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "elegant",
+      "interior",
+      "ornate",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Architecture/hanging_lights_architecture.jpg",
+    "thumbnail": "thumbnails/Architecture/hanging_lights_architecture_thumb.jpg"
+  },
+  {
+    "name": "Foggy Skyscraper Night V2",
+    "author": "unknown",
+    "dimensions": "720x1557",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "mystical",
+      "city",
+      "architecture",
+      "urban"
+    ],
+    "downloadable": true,
+    "url": "Architecture/foggy_skyscraper_night_v2.jpg",
+    "thumbnail": "thumbnails/Architecture/foggy_skyscraper_night_v2_thumb.jpg"
+  },
+  {
+    "name": "Bridge Sunset View",
+    "author": "unknown",
+    "dimensions": "720x1520",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "calm",
+      "serene",
+      "evening",
+      "landscape",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Architecture/bridge_sunset_view.jpg",
+    "thumbnail": "thumbnails/Architecture/bridge_sunset_view_thumb.jpg"
+  },
+  {
+    "name": "Building Silhouette Evening",
+    "author": "unknown",
+    "dimensions": "1281x2964",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "tranquil",
+      "minimalist",
+      "architecture",
+      "evening",
+      "serene"
+    ],
+    "downloadable": true,
+    "url": "Architecture/building_silhouette_evening.jpg",
+    "thumbnail": "thumbnails/Architecture/building_silhouette_evening_thumb.jpg"
+  },
+  {
+    "name": "Bird Nest Wall",
+    "author": "unknown",
+    "dimensions": "1290x2808",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "calm",
+      "nature",
+      "architecture",
+      "monochrome"
+    ],
+    "downloadable": true,
+    "url": "Architecture/bird_nest_wall.jpg",
+    "thumbnail": "thumbnails/Architecture/bird_nest_wall_thumb.jpg"
+  },
+  {
+    "name": "Twisted Modern Building",
+    "author": "unknown",
+    "dimensions": "946x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "architectural",
+      "modern",
+      "unique",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Architecture/twisted_modern_building.jpg",
+    "thumbnail": "thumbnails/Architecture/twisted_modern_building_thumb.jpg"
+  },
+  {
+    "name": "Historic Theater Night",
+    "author": "unknown",
+    "dimensions": "736x1594",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "serene",
+      "architecture",
+      "urban",
+      "night"
+    ],
+    "downloadable": true,
+    "url": "Architecture/historic_theater_night.jpg",
+    "thumbnail": "thumbnails/Architecture/historic_theater_night_thumb.jpg"
+  },
+  {
+    "name": "Torii Gate Stairs",
+    "author": "unknown",
+    "dimensions": "946x2048",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "serene",
+      "traditional",
+      "pathway",
+      "architecture"
+    ],
+    "downloadable": true,
+    "url": "Architecture/torii_gate_stairs.jpg",
+    "thumbnail": "thumbnails/Architecture/torii_gate_stairs_thumb.jpg"
+  },
+  {
+    "name": "Red Lit Building",
+    "author": "unknown",
+    "dimensions": "1200x2600",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "night",
+      "urban",
+      "vibrant",
+      "architecture",
+      "dynamic"
+    ],
+    "downloadable": true,
+    "url": "Architecture/red_lit_building.jpg",
+    "thumbnail": "thumbnails/Architecture/red_lit_building_thumb.jpg"
+  },
+  {
+    "name": "Pagoda Mountain Sunset",
+    "author": "unknown",
+    "dimensions": "926x2160",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "serene",
+      "calm",
+      "landscape",
+      "culture",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Architecture/pagoda_mountain_sunset.jpg",
+    "thumbnail": "thumbnails/Architecture/pagoda_mountain_sunset_thumb.jpg"
+  },
+  {
+    "name": "Neon City Night",
+    "author": "unknown",
+    "dimensions": "997x2160",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "dark",
+      "vibrant",
+      "urban",
+      "lights",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Architecture/neon_city_night.jpg",
+    "thumbnail": "thumbnails/Architecture/neon_city_night_thumb.jpg"
+  },
+  {
+    "name": "Taj Mahal Sunset",
+    "author": "unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "vibrant",
+      "serene",
+      "architecture",
+      "reflection",
+      "historical"
+    ],
+    "downloadable": true,
+    "url": "Architecture/taj_mahal_sunset.jpg",
+    "thumbnail": "thumbnails/Architecture/taj_mahal_sunset_thumb.jpg"
+  },
+  {
+    "name": "City Scape Evening",
+    "author": "unknown",
+    "dimensions": "738x1600",
+    "copyright": "personal use only",
+    "collections": "Architecture",
+    "tags": [
+      "bright",
+      "calm",
+      "architecture",
+      "evening",
+      "historic"
+    ],
+    "downloadable": true,
+    "url": "Architecture/city_scape_evening.jpg",
+    "thumbnail": "thumbnails/Architecture/city_scape_evening_thumb.jpg"
+  },
+  
+{
     "name": "Tokyo Tower Sunset",
     "author": "Unknown",
     "dimensions": "1200x2664",
