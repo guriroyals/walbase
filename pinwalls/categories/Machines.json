@@ -1,5 +1,192 @@
 {
     "Wallpapers": [
+        {
+    "name": "Porsche Sport Car",
+    "author": "unknown",
+    "dimensions": "1080x2386",
+    "copyright": "personal use only",
+    "collections": "Machines",
+    "tags": [
+      "light",
+      "dynamic",
+      "speed",
+      "luxury",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Machines/porsche_sport_car.jpg",
+    "thumbnail": "thumbnails/Machines/porsche_sport_car_thumb.jpg"
+  },
+  {
+    "name": "Jet Aircraft Flight V2",
+    "author": "unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Machines",
+    "tags": [
+      "light",
+      "dynamic",
+      "aircraft",
+      "highspeed",
+      "aviation"
+    ],
+    "downloadable": true,
+    "url": "Machines/jet_aircraft_flight_v2.jpg",
+    "thumbnail": "thumbnails/Machines/jet_aircraft_flight_v2_thumb.jpg"
+  },
+  {
+    "name": "Yellow Sports Car V2",
+    "author": "unknown",
+    "dimensions": "830x1800",
+    "copyright": "personal use only",
+    "collections": "Machines",
+    "tags": [
+      "bright",
+      "powerful",
+      "automobile",
+      "speed",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Machines/yellow_sports_car_v2.jpg",
+    "thumbnail": "thumbnails/Machines/yellow_sports_car_v2_thumb.jpg"
+  },
+  {
+    "name": "Porsche Wheel Brake V2",
+    "author": "unknown",
+    "dimensions": "555x1200",
+    "copyright": "personal use only",
+    "collections": "Machines",
+    "tags": [
+      "light",
+      "modern",
+      "automotive",
+      "detailed",
+      "sleek"
+    ],
+    "downloadable": true,
+    "url": "Machines/porsche_wheel_brake_v2.jpg",
+    "thumbnail": "thumbnails/Machines/porsche_wheel_brake_v2_thumb.jpg"
+  },
+  {
+    "name": "Porsche Race Car V2",
+    "author": "unknown",
+    "dimensions": "946x2048",
+    "copyright": "personal use only",
+    "collections": "Machines",
+    "tags": [
+      "dark",
+      "sleek",
+      "sport",
+      "performance",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Machines/porsche_race_car_v2.jpg",
+    "thumbnail": "thumbnails/Machines/porsche_race_car_v2_thumb.jpg"
+  },
+  {
+    "name": "Orange Sport Car V2",
+    "author": "unknown",
+    "dimensions": "1080x2270",
+    "copyright": "personal use only",
+    "collections": "Machines",
+    "tags": [
+      "bright",
+      "dynamic",
+      "forest",
+      "automobile",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Machines/orange_sport_car_v2.jpg",
+    "thumbnail": "thumbnails/Machines/orange_sport_car_v2_thumb.jpg"
+  },
+  {
+    "name": "Mustang Race Car",
+    "author": "unknown",
+    "dimensions": "1536x3414",
+    "copyright": "personal use only",
+    "collections": "Machines",
+    "tags": [
+      "dynamic",
+      "sporty",
+      "modern",
+      "speed",
+      "performance"
+    ],
+    "downloadable": true,
+    "url": "Machines/mustang_race_car.jpg",
+    "thumbnail": "thumbnails/Machines/mustang_race_car_thumb.jpg"
+  },
+  {
+    "name": "Black Sport Car V2",
+    "author": "unknown",
+    "dimensions": "830x1800",
+    "copyright": "personal use only",
+    "collections": "Machines",
+    "tags": [
+      "dark",
+      "sleek",
+      "modern",
+      "automobile",
+      "power"
+    ],
+    "downloadable": true,
+    "url": "Machines/black_sport_car_v2.jpg",
+    "thumbnail": "thumbnails/Machines/black_sport_car_v2_thumb.jpg"
+  },
+  {
+    "name": "Minimalistic Black Sailboat",
+    "author": "unknown",
+    "dimensions": "736x1631",
+    "copyright": "personal use only",
+    "collections": "Machines",
+    "tags": [
+      "dark",
+      "calm",
+      "water",
+      "sailing",
+      "minimalism"
+    ],
+    "downloadable": true,
+    "url": "Machines/minimalistic_black_sailboat.jpg",
+    "thumbnail": "thumbnails/Machines/minimalistic_black_sailboat_thumb.jpg"
+  },
+  {
+    "name": "Hot Air Balloon V2",
+    "author": "unknown",
+    "dimensions": "736x1635",
+    "copyright": "personal use only",
+    "collections": "Machines",
+    "tags": [
+      "bright",
+      "adventurous",
+      "landscape",
+      "aerial",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Machines/hot_air_balloon_v2.jpg",
+    "thumbnail": "thumbnails/Machines/hot_air_balloon_v2_thumb.jpg"
+  },
+  {
+    "name": "Airplane Sunset Sky",
+    "author": "unknown",
+    "dimensions": "1179x2555",
+    "copyright": "personal use only",
+    "collections": "Machines",
+    "tags": [
+      "bright",
+      "tranquil",
+      "travel",
+      "sky",
+      "evening"
+    ],
+    "downloadable": true,
+    "url": "Machines/airplane_sunset_sky.jpg",
+    "thumbnail": "thumbnails/Machines/airplane_sunset_sky_thumb.jpg"
+  },
   {
     "name": "Mysterious Black Car",
     "author": "Unknown",
