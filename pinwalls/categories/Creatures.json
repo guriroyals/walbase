@@ -1,5 +1,277 @@
 {
     "Wallpapers": [
+   {
+    "name": "Leopard Black And White",
+    "author": "Unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Creatures",
+    "tags": [
+      "dark",
+      "serene",
+      "animal",
+      "wildlife",
+      "contrast"
+    ],
+    "downloadable": true,
+    "url": "Creatures/leopard_black_and_white.jpg",
+    "thumbnail": "thumbnails/Creatures/leopard_black_and_white_thumb.jpg"
+  },
+  {
+    "name": "Cat Roof Evening",
+    "author": "unknown",
+    "dimensions": "736x1593",
+    "copyright": "personal use only",
+    "collections": "Creatures",
+    "tags": [
+      "soft",
+      "calm",
+      "cat",
+      "urban",
+      "evening"
+    ],
+    "downloadable": true,
+    "url": "Creatures/cat_roof_evening.jpg",
+    "thumbnail": "thumbnails/Creatures/cat_roof_evening_thumb.jpg"
+  },
+  {
+    "name": "Snake Dark Colors",
+    "author": "unknown",
+    "dimensions": "972x2160",
+    "copyright": "personal use only",
+    "collections": "Creatures",
+    "tags": [
+      "dark",
+      "mysterious",
+      "nature",
+      "wildlife",
+      "close-up"
+    ],
+    "downloadable": true,
+    "url": "Creatures/snake_dark_colors.jpg",
+    "thumbnail": "thumbnails/Creatures/snake_dark_colors_thumb.jpg"
+  },
+  {
+    "name": "Sleeping Gray Kitten",
+    "author": "unknown",
+    "dimensions": "1397x3024",
+    "copyright": "personal use only",
+    "collections": "Creatures",
+    "tags": [
+      "soft",
+      "calm",
+      "cute",
+      "pet",
+      "cozy"
+    ],
+    "downloadable": true,
+    "url": "Creatures/sleeping_gray_kitten.jpg",
+    "thumbnail": "thumbnails/Creatures/sleeping_gray_kitten_thumb.jpg"
+  },
+  {
+    "name": "Sleeping Tabby Cat V2",
+    "author": "unknown",
+    "dimensions": "736x1635",
+    "copyright": "personal use only",
+    "collections": "Creatures",
+    "tags": [
+      "soft",
+      "calm",
+      "pet",
+      "animal",
+      "cozy"
+    ],
+    "downloadable": true,
+    "url": "Creatures/sleeping_tabby_cat_v2.jpg",
+    "thumbnail": "thumbnails/Creatures/sleeping_tabby_cat_v2_thumb.jpg"
+  },
+  {
+    "name": "Cat Hiding Blanket",
+    "author": "unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Creatures",
+    "tags": [
+      "cozy",
+      "curious",
+      "pet",
+      "soft",
+      "indoor"
+    ],
+    "downloadable": true,
+    "url": "Creatures/cat_hiding_blanket.jpg",
+    "thumbnail": "thumbnails/Creatures/cat_hiding_blanket_thumb.jpg"
+  },
+  {
+    "name": "Cat Brown Blanket",
+    "author": "unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Creatures",
+    "tags": [
+      "warm",
+      "calm",
+      "pet",
+      "domestic",
+      "cozy"
+    ],
+    "downloadable": true,
+    "url": "Creatures/cat_brown_blanket.jpg",
+    "thumbnail": "thumbnails/Creatures/cat_brown_blanket_thumb.jpg"
+  },
+  {
+    "name": "Bird Sunset Color",
+    "author": "unknown",
+    "dimensions": "945x2048",
+    "copyright": "personal use only",
+    "collections": "Creatures",
+    "tags": [
+      "vibrant",
+      "calm",
+      "nature",
+      "sunset",
+      "animal"
+    ],
+    "downloadable": true,
+    "url": "Creatures/bird_sunset_color.jpg",
+    "thumbnail": "thumbnails/Creatures/bird_sunset_color_thumb.jpg"
+  },
+  {
+    "name": "Sleeping Corgi Puppy",
+    "author": "unknown",
+    "dimensions": "1125x2436",
+    "copyright": "personal use only",
+    "collections": "Creatures",
+    "tags": [
+      "light",
+      "calm",
+      "pet",
+      "adorable",
+      "relaxed"
+    ],
+    "downloadable": true,
+    "url": "Creatures/sleeping_corgi_puppy.jpg",
+    "thumbnail": "thumbnails/Creatures/sleeping_corgi_puppy_thumb.jpg"
+  },
+  {
+    "name": "Colorful Chameleon Study",
+    "author": "unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Creatures",
+    "tags": [
+      "bright",
+      "vibrant",
+      "nature",
+      "exotic",
+      "animal"
+    ],
+    "downloadable": true,
+    "url": "Creatures/colorful_chameleon_study.jpg",
+    "thumbnail": "thumbnails/Creatures/colorful_chameleon_study_thumb.jpg"
+  },
+  {
+    "name": "Green Reptile Eye",
+    "author": "unknown",
+    "dimensions": "736x1600",
+    "copyright": "personal use only",
+    "collections": "Creatures",
+    "tags": [
+      "bright",
+      "intense",
+      "nature",
+      "wildlife",
+      "macro"
+    ],
+    "downloadable": true,
+    "url": "Creatures/green_reptile_eye.jpg",
+    "thumbnail": "thumbnails/Creatures/green_reptile_eye_thumb.jpg"
+  },
+  {
+    "name": "Wolf Forest Moonlight",
+    "author": "unknown",
+    "dimensions": "3240x7184",
+    "copyright": "personal use only",
+    "collections": "Creatures",
+    "tags": [
+      "dark",
+      "mystical",
+      "nature",
+      "howling",
+      "winter"
+    ],
+    "downloadable": true,
+    "url": "Creatures/wolf_forest_moonlight.jpg",
+    "thumbnail": "thumbnails/Creatures/wolf_forest_moonlight_thumb.jpg"
+  },
+  {
+    "name": "Gray Cat Profile",
+    "author": "unknown",
+    "dimensions": "577x1280",
+    "copyright": "personal use only",
+    "collections": "Creatures",
+    "tags": [
+      "soft",
+      "curious",
+      "animal",
+      "neutral",
+      "portrait"
+    ],
+    "downloadable": true,
+    "url": "Creatures/gray_cat_profile.jpg",
+    "thumbnail": "thumbnails/Creatures/gray_cat_profile_thumb.jpg"
+  },
+  {
+    "name": "Flying Owl Black",
+    "author": "unknown",
+    "dimensions": "1170x2543",
+    "copyright": "personal use only",
+    "collections": "Creatures",
+    "tags": [
+      "dark",
+      "intense",
+      "wildlife",
+      "nature",
+      "elegant"
+    ],
+    "downloadable": true,
+    "url": "Creatures/flying_owl_black.jpg",
+    "thumbnail": "thumbnails/Creatures/flying_owl_black_thumb.jpg"
+  },
+  {
+    "name": "Bird Fence Black",
+    "author": "unknown",
+    "dimensions": "828x1792",
+    "copyright": "personal use only",
+    "collections": "Creatures",
+    "tags": [
+      "dark",
+      "calm",
+      "nature",
+      "bird",
+      "monochrome"
+    ],
+    "downloadable": true,
+    "url": "Creatures/bird_fence_black.jpg",
+    "thumbnail": "thumbnails/Creatures/bird_fence_black_thumb.jpg"
+  },
+  {
+    "name": "White Snake Hands",
+    "author": "unknown",
+    "dimensions": "590x1280",
+    "copyright": "personal use only",
+    "collections": "Creatures",
+    "tags": [
+      "dark",
+      "mysterious",
+      "snake",
+      "eerie",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Creatures/white_snake_hands.jpg",
+    "thumbnail": "thumbnails/Creatures/white_snake_hands_thumb.jpg"
+  },
   {
     "name": "Curious Gray Cat",
     "author": "Unknown",
