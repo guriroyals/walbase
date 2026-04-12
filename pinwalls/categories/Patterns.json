@@ -1,5 +1,458 @@
 {
     "Wallpapers": [
+         {
+    "name": "Abstract Color Shapes 16",
+    "author": "Satish Kumar",
+    "dimensions": "1279x2769",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "dark",
+      "calm",
+      "geometric",
+      "modern",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Patterns/abstract_color_shapes_16.jpg",
+    "thumbnail": "thumbnails/Patterns/abstract_color_shapes_16_thumb.jpg"
+  },
+  {
+    "name": "Abstract Black And White",
+    "author": "Саша",
+    "dimensions": "922x2048",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "dark",
+      "minimalist",
+      "geometric",
+      "modern",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Patterns/abstract_black_and_white.jpg",
+    "thumbnail": "thumbnails/Patterns/abstract_black_and_white_thumb.jpg"
+  },
+  {
+    "name": "Stone Wall Texture",
+    "author": "Unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "dark",
+      "neutral",
+      "texture",
+      "abstract",
+      "solid"
+    ],
+    "downloadable": true,
+    "url": "Patterns/stone_wall_texture.jpg",
+    "thumbnail": "thumbnails/Patterns/stone_wall_texture_thumb.jpg"
+  },
+  {
+    "name": "Abstract Blue Lines 16",
+    "author": "梓 屁屁",
+    "dimensions": "552x2208",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "calm",
+      "abstract",
+      "blue",
+      "smooth",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Patterns/abstract_blue_lines_16.jpg",
+    "thumbnail": "thumbnails/Patterns/abstract_blue_lines_16_thumb.jpg"
+  },
+  {
+    "name": "Green Camouflage Pattern",
+    "author": "1 1",
+    "dimensions": "600x1320",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "dark",
+      "textured",
+      "military",
+      "pattern",
+      "abstract"
+    ],
+    "downloadable": true,
+    "url": "Patterns/green_camouflage_pattern.jpg",
+    "thumbnail": "thumbnails/Patterns/green_camouflage_pattern_thumb.jpg"
+  },
+  {
+    "name": "Abstract Colorful Design 16",
+    "author": "Unknown",
+    "dimensions": "1290x2796",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "bright",
+      "modern",
+      "art",
+      "colorful",
+      "fluid"
+    ],
+    "downloadable": true,
+    "url": "Patterns/abstract_colorful_design_16.jpg",
+    "thumbnail": "thumbnails/Patterns/abstract_colorful_design_16_thumb.jpg"
+  },
+  {
+    "name": "Abstract Color Waves 12",
+    "author": "Unknown",
+    "dimensions": "1320x2868",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "bright",
+      "calm",
+      "abstract",
+      "minimalist",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Patterns/abstract_color_waves_12.jpg",
+    "thumbnail": "thumbnails/Patterns/abstract_color_waves_12_thumb.jpg"
+  },
+  {
+    "name": "Colorful Light Stripes",
+    "author": "Rachel Surratt",
+    "dimensions": "1125x2436",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "bright",
+      "abstract",
+      "vibrant",
+      "modern",
+      "cool"
+    ],
+    "downloadable": true,
+    "url": "Patterns/colorful_light_stripes.jpg",
+    "thumbnail": "thumbnails/Patterns/colorful_light_stripes_thumb.jpg"
+  },
+  {
+    "name": "Abstract Color Waves 11 V2",
+    "author": "Satish Kumar",
+    "dimensions": "998x2160",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "vibrant",
+      "calm",
+      "geometric",
+      "modern",
+      "smooth"
+    ],
+    "downloadable": true,
+    "url": "Patterns/abstract_color_waves_11_v2.jpg",
+    "thumbnail": "thumbnails/Patterns/abstract_color_waves_11_v2_thumb.jpg"
+  },
+  {
+    "name": "Dark Texture Pattern",
+    "author": "Sunil Pitchika",
+    "dimensions": "564x1435",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "dark",
+      "abstract",
+      "textile",
+      "modern",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Patterns/dark_texture_pattern.jpg",
+    "thumbnail": "thumbnails/Patterns/dark_texture_pattern_thumb.jpg"
+  },
+  {
+    "name": "Abstract Texture Pattern 16",
+    "author": "foundry.shawhospitality.com",
+    "dimensions": "768x2048",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "dark",
+      "textured",
+      "modern",
+      "art",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Patterns/abstract_texture_pattern_16.jpg",
+    "thumbnail": "thumbnails/Patterns/abstract_texture_pattern_16_thumb.jpg"
+  },
+  {
+    "name": "Abstract Black Lines",
+    "author": "Mahesh and Krishna",
+    "dimensions": "1176x2548",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "dark",
+      "minimalist",
+      "texture",
+      "monochrome",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Patterns/abstract_black_lines.jpg",
+    "thumbnail": "thumbnails/Patterns/abstract_black_lines_thumb.jpg"
+  },
+  {
+    "name": "Colorful Wave Pattern 16",
+    "author": "unknown",
+    "dimensions": "1476x3200",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "bright",
+      "vibrant",
+      "abstract",
+      "design",
+      "retro"
+    ],
+    "downloadable": true,
+    "url": "Patterns/colorful_wave_pattern_16.jpg",
+    "thumbnail": "thumbnails/Patterns/colorful_wave_pattern_16_thumb.jpg"
+  },
+  {
+    "name": "Black Geometric Pattern",
+    "author": "unknown",
+    "dimensions": "736x1799",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "dark",
+      "abstract",
+      "design",
+      "modern",
+      "minimal"
+    ],
+    "downloadable": true,
+    "url": "Patterns/black_geometric_pattern.jpg",
+    "thumbnail": "thumbnails/Patterns/black_geometric_pattern_thumb.jpg"
+  },
+  {
+    "name": "Abstract Pattern Design 16",
+    "author": "unknown",
+    "dimensions": "736x1636",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "dark",
+      "modern",
+      "geometric",
+      "texture",
+      "smooth"
+    ],
+    "downloadable": true,
+    "url": "Patterns/abstract_pattern_design_16.jpg",
+    "thumbnail": "thumbnails/Patterns/abstract_pattern_design_16_thumb.jpg"
+  },
+  {
+    "name": "Abstract Geometric Shapes 111",
+    "author": "unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "modern",
+      "minimalist",
+      "design",
+      "colorful",
+      "shapes"
+    ],
+    "downloadable": true,
+    "url": "Patterns/abstract_geometric_shapes_111.jpg",
+    "thumbnail": "thumbnails/Patterns/abstract_geometric_shapes_111_thumb.jpg"
+  },
+  {
+    "name": "Abstract Black White 1 V2",
+    "author": "unknown",
+    "dimensions": "1284x2778",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "minimal",
+      "contrast",
+      "geometric",
+      "pattern",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Patterns/abstract_black_white_1_v2.jpg",
+    "thumbnail": "thumbnails/Patterns/abstract_black_white_1_v2_thumb.jpg"
+  },
+  {
+    "name": "Abstract Geometric Shapes 12",
+    "author": "unknown",
+    "dimensions": "828x1792",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "neutral",
+      "modern",
+      "design",
+      "art",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Patterns/abstract_geometric_shapes_12.jpg",
+    "thumbnail": "thumbnails/Patterns/abstract_geometric_shapes_12_thumb.jpg"
+  },
+  {
+    "name": "Abstract Colorful Lines",
+    "author": "unknown",
+    "dimensions": "591x1280",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "bright",
+      "dynamic",
+      "abstract",
+      "colors",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Patterns/abstract_colorful_lines.jpg",
+    "thumbnail": "thumbnails/Patterns/abstract_colorful_lines_thumb.jpg"
+  },
+  {
+    "name": "Abstract Color Shapes 11 V2",
+    "author": "unknown",
+    "dimensions": "1290x2796",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "calm",
+      "minimalist",
+      "geometric",
+      "modern",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Patterns/abstract_color_shapes_11_v2.jpg",
+    "thumbnail": "thumbnails/Patterns/abstract_color_shapes_11_v2_thumb.jpg"
+  },
+  {
+    "name": "Abstract Geometric Design 1",
+    "author": "unknown",
+    "dimensions": "1179x2556",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "bright",
+      "modern",
+      "shapes",
+      "colorful",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Patterns/abstract_geometric_design_1.jpg",
+    "thumbnail": "thumbnails/Patterns/abstract_geometric_design_1_thumb.jpg"
+  },
+  {
+    "name": "Concentric Circles Pattern",
+    "author": "unknown",
+    "dimensions": "1177x2547",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "dark",
+      "abstract",
+      "geometric",
+      "smooth",
+      "blue"
+    ],
+    "downloadable": true,
+    "url": "Patterns/concentric_circles_pattern.jpg",
+    "thumbnail": "thumbnails/Patterns/concentric_circles_pattern_thumb.jpg"
+  },
+  {
+    "name": "Colorful Brick Pattern",
+    "author": "unknown",
+    "dimensions": "1039x2323",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "bright",
+      "playful",
+      "abstract",
+      "colorful",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Patterns/colorful_brick_pattern.jpg",
+    "thumbnail": "thumbnails/Patterns/colorful_brick_pattern_thumb.jpg"
+  },
+  {
+    "name": "Abstract Color Pattern 1 V2",
+    "author": "unknown",
+    "dimensions": "1110x2560",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "vibrant",
+      "dynamic",
+      "art",
+      "design",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Patterns/abstract_color_pattern_1_v2.jpg",
+    "thumbnail": "thumbnails/Patterns/abstract_color_pattern_1_v2_thumb.jpg"
+  },
+  {
+    "name": "Colorful Geometric Pattern",
+    "author": "unknown",
+    "dimensions": "1170x2532",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "bright",
+      "vibrant",
+      "abstract",
+      "modern",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Patterns/colorful_geometric_pattern.jpg",
+    "thumbnail": "thumbnails/Patterns/colorful_geometric_pattern_thumb.jpg"
+  },
+  {
+    "name": "Colorful Abstract Design 1 V2",
+    "author": "unknown",
+    "dimensions": "800x2402",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [
+      "bright",
+      "vibrant",
+      "modern",
+      "art",
+      "patterns"
+    ],
+    "downloadable": true,
+    "url": "Patterns/colorful_abstract_design_1_v2.jpg",
+    "thumbnail": "thumbnails/Patterns/colorful_abstract_design_1_v2_thumb.jpg"
+  },
+  {
+    "name": "Wallpaper 350928995987482752",
+    "author": "unknown",
+    "dimensions": "736x1635",
+    "copyright": "personal use only",
+    "collections": "Patterns",
+    "tags": [],
+    "downloadable": true,
+    "url": "Patterns/wallpaper_350928995987482752.jpg",
+    "thumbnail": "thumbnails/Patterns/wallpaper_350928995987482752_thumb.jpg"
+  },
   {
     "name": "Colorful Gradient Background",
     "author": "Unknown",
