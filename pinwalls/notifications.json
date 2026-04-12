@@ -1,9 +1,9 @@
 {
     "Notification": {
-        "id": 1,
-        "title": "Initial release!",
-        "message": "Check out the brand spanking app.",
+        "id": 2,
+        "title": "New wallpapers added!",
+        "message": "added 732 new wallpapers across all categories.",
         "enabled": false
     },
-    "totalWallpapers": 2253
+    "totalWallpapers": 2642
 }
