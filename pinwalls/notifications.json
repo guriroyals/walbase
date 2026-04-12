@@ -3,7 +3,7 @@
         "id": 2,
         "title": "New wallpapers added!",
         "message": "added 732 new wallpapers across all categories.",
-        "enabled": false
+        "enabled": true
     },
     "totalWallpapers": 2642
 }
