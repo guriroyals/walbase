@@ -1,52 +1,52 @@
 {
   "version": "2026-02-23",
-  "totalWallpapers": 2253,
+  "totalWallpapers": 2642,
   "baseUrl": "https://raw.githubusercontent.com/guriroyals/walbase/refs/heads/master/pinwalls/",
   "categories": [
     {
       "name": "Nature",
       "file": "categories/Nature.json",
-      "count": 611
+      "count": 784
     },
     {
       "name": "Amoled",
       "file": "categories/Amoled.json",
-      "count": 119
+      "count": 156
     },
     {
       "name": "Illustrated",
       "file": "categories/Illustrated.json",
-      "count": 306
+      "count": 342
     },
     {
       "name": "Architecture",
       "file": "categories/Architecture.json",
-      "count": 134
+      "count": 155
     },
     {
       "name": "Abstract",
       "file": "categories/Abstract.json",
-      "count": 108
+      "count": 144
     },
     {
       "name": "Machines",
       "file": "categories/Machines.json",
-      "count": 225
+      "count": 236
     },
     {
       "name": "Patterns",
       "file": "categories/Patterns.json",
-      "count": 393
+      "count": 420
     },
     {
       "name": "Creatures",
       "file": "categories/Creatures.json",
-      "count": 137
+      "count": 153
     },
     {
       "name": "Minimal",
       "file": "categories/Minimal.json",
-      "count": 147
+      "count": 179
     },
     {
       "name": "Gradients",
