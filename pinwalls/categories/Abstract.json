@@ -1,6 +1,618 @@
 {
     "Wallpapers": [
         {
+    "name": "Colorful Floating Balls",
+    "author": "Rhonda Gilmore",
+    "dimensions": "1125x2436",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "dark",
+      "calm",
+      "abstract",
+      "colors",
+      "light"
+    ],
+    "downloadable": true,
+    "url": "Abstract/colorful_floating_balls.jpg",
+    "thumbnail": "thumbnails/Abstract/colorful_floating_balls_thumb.jpg"
+  },
+  {
+    "name": "Abstract Shape Design V2",
+    "author": "Satish Kumar",
+    "dimensions": "828x1792",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "bright",
+      "smooth",
+      "geometric",
+      "modern",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Abstract/abstract_shape_design_v2.jpg",
+    "thumbnail": "thumbnails/Abstract/abstract_shape_design_v2_thumb.jpg"
+  },
+  {
+    "name": "Subway Train Motion",
+    "author": "Unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "dark",
+      "dynamic",
+      "urban",
+      "red",
+      "transport"
+    ],
+    "downloadable": true,
+    "url": "Abstract/subway_train_motion.jpg",
+    "thumbnail": "thumbnails/Abstract/subway_train_motion_thumb.jpg"
+  },
+  {
+    "name": "Abstract Purple Lines",
+    "author": "Unknown",
+    "dimensions": "1181x2557",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "bright",
+      "modern",
+      "geometric",
+      "colorful",
+      "minimalist"
+    ],
+    "downloadable": true,
+    "url": "Abstract/abstract_purple_lines.jpg",
+    "thumbnail": "thumbnails/Abstract/abstract_purple_lines_thumb.jpg"
+  },
+  {
+    "name": "Abstract Pattern Design V2",
+    "author": "Unknown",
+    "dimensions": "736x1634",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "dark",
+      "modern",
+      "abstract",
+      "geometric",
+      "elegant"
+    ],
+    "downloadable": true,
+    "url": "Abstract/abstract_pattern_design_v2.jpg",
+    "thumbnail": "thumbnails/Abstract/abstract_pattern_design_v2_thumb.jpg"
+  },
+  {
+    "name": "Wavy Pattern Design",
+    "author": "Wallpapers by Andrrey",
+    "dimensions": "1720x3728",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "bright",
+      "abstract",
+      "modern",
+      "fluid",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Abstract/wavy_pattern_design.jpg",
+    "thumbnail": "thumbnails/Abstract/wavy_pattern_design_thumb.jpg"
+  },
+  {
+    "name": "Colorful Abstract Art V2",
+    "author": "PinHunter",
+    "dimensions": "1000x2500",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "vibrant",
+      "dynamic",
+      "art",
+      "colorful",
+      "creative"
+    ],
+    "downloadable": true,
+    "url": "Abstract/colorful_abstract_art_v2.jpg",
+    "thumbnail": "thumbnails/Abstract/colorful_abstract_art_v2_thumb.jpg"
+  },
+  {
+    "name": "Abstract Flower Pattern",
+    "author": "Jason Taylor",
+    "dimensions": "922x2048",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "bright",
+      "intricate",
+      "abstract",
+      "colorful",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Abstract/abstract_flower_pattern.jpg",
+    "thumbnail": "thumbnails/Abstract/abstract_flower_pattern_thumb.jpg"
+  },
+  {
+    "name": "Street Lights Pink",
+    "author": "CAFT janssen",
+    "dimensions": "947x2048",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "soft",
+      "dreamy",
+      "urban",
+      "night",
+      "serene"
+    ],
+    "downloadable": true,
+    "url": "Abstract/street_lights_pink.jpg",
+    "thumbnail": "thumbnails/Abstract/street_lights_pink_thumb.jpg"
+  },
+  {
+    "name": "Blue Light Pattern",
+    "author": "Ramesh Kumar.",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "dark",
+      "mystical",
+      "abstract",
+      "light",
+      "tech"
+    ],
+    "downloadable": true,
+    "url": "Abstract/blue_light_pattern.jpg",
+    "thumbnail": "thumbnails/Abstract/blue_light_pattern_thumb.jpg"
+  },
+  {
+    "name": "Abstract Blue Petals",
+    "author": "Zubairahmad",
+    "dimensions": "750x1666",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "bright",
+      "calm",
+      "abstract",
+      "flower",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Abstract/abstract_blue_petals.jpg",
+    "thumbnail": "thumbnails/Abstract/abstract_blue_petals_thumb.jpg"
+  },
+  {
+    "name": "Abstract Color Blends",
+    "author": "Unknown",
+    "dimensions": "1080x2340",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "soft",
+      "calm",
+      "abstract",
+      "pastel",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Abstract/abstract_color_blends.jpg",
+    "thumbnail": "thumbnails/Abstract/abstract_color_blends_thumb.jpg"
+  },
+  {
+    "name": "Red Abstrace Art",
+    "author": "ВАЛЕНТЫНА ГАНЖА",
+    "dimensions": "1080x2348",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "vivid",
+      "bold",
+      "abstract",
+      "texture",
+      "colorful"
+    ],
+    "downloadable": true,
+    "url": "Abstract/red_abstrace_art.jpg",
+    "thumbnail": "thumbnails/Abstract/red_abstrace_art_thumb.jpg"
+  },
+  {
+    "name": "Abstract Blue Clouds",
+    "author": "Unknown",
+    "dimensions": "720x1560",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "calm",
+      "mysterious",
+      "blue",
+      "art",
+      "swirl"
+    ],
+    "downloadable": true,
+    "url": "Abstract/abstract_blue_clouds.jpg",
+    "thumbnail": "thumbnails/Abstract/abstract_blue_clouds_thumb.jpg"
+  },
+  {
+    "name": "Colorful Abstract Art 1 V2",
+    "author": "Fred",
+    "dimensions": "1017x2260",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "vibrant",
+      "dynamic",
+      "creative",
+      "art",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Abstract/colorful_abstract_art_1_v2.jpg",
+    "thumbnail": "thumbnails/Abstract/colorful_abstract_art_1_v2_thumb.jpg"
+  },
+  {
+    "name": "Layered Colorful Spheres",
+    "author": "Christian Arjona",
+    "dimensions": "1080x2337",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "bright",
+      "modern",
+      "abstract",
+      "vibrant",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Abstract/layered_colorful_spheres.jpg",
+    "thumbnail": "thumbnails/Abstract/layered_colorful_spheres_thumb.jpg"
+  },
+  {
+    "name": "Abstract Shape Design 1",
+    "author": "Andrey Salles",
+    "dimensions": "750x1622",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "dark",
+      "modern",
+      "geometry",
+      "minimal",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Abstract/abstract_shape_design_1.jpg",
+    "thumbnail": "thumbnails/Abstract/abstract_shape_design_1_thumb.jpg"
+  },
+  {
+    "name": "Water Drops Glass",
+    "author": "Unknown",
+    "dimensions": "736x1593",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "dark",
+      "calm",
+      "nature",
+      "drops",
+      "minimal"
+    ],
+    "downloadable": true,
+    "url": "Abstract/water_drops_glass.jpg",
+    "thumbnail": "thumbnails/Abstract/water_drops_glass_thumb.jpg"
+  },
+  {
+    "name": "Hot Air Balloon V2",
+    "author": "Unknown",
+    "dimensions": "736x1635",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "bright",
+      "serene",
+      "aerial",
+      "travel",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Abstract/hot_air_balloon_v2.jpg",
+    "thumbnail": "thumbnails/Abstract/hot_air_balloon_v2_thumb.jpg"
+  },
+  {
+    "name": "Colorful Rippling Surface",
+    "author": "இஜ عزيز  و غالي ஜஇ",
+    "dimensions": "1472x3200",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "vibrant",
+      "abstract",
+      "texture",
+      "dark",
+      "flow"
+    ],
+    "downloadable": true,
+    "url": "Abstract/colorful_rippling_surface.jpg",
+    "thumbnail": "thumbnails/Abstract/colorful_rippling_surface_thumb.jpg"
+  },
+  {
+    "name": "Fabric Texture Colors",
+    "author": "𝐊𝐢𝐞𝐮𝐮𝐥𝐢𝐧𝐡𝐡🐰ྀི",
+    "dimensions": "1472x3264",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "neutral",
+      "soft",
+      "textile",
+      "elegant",
+      "minimal"
+    ],
+    "downloadable": true,
+    "url": "Abstract/fabric_texture_colors.jpg",
+    "thumbnail": "thumbnails/Abstract/fabric_texture_colors_thumb.jpg"
+  },
+  {
+    "name": "Smooth Stone Surface",
+    "author": "unknown",
+    "dimensions": "1386x3000",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "dark",
+      "calm",
+      "texture",
+      "minimalist",
+      "abstract"
+    ],
+    "downloadable": true,
+    "url": "Abstract/smooth_stone_surface.jpg",
+    "thumbnail": "thumbnails/Abstract/smooth_stone_surface_thumb.jpg"
+  },
+  {
+    "name": "Futuristic Desert Landscape",
+    "author": "unknown",
+    "dimensions": "1472x3296",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "vibrant",
+      "surreal",
+      "abstract",
+      "vast",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Abstract/futuristic_desert_landscape.jpg",
+    "thumbnail": "thumbnails/Abstract/futuristic_desert_landscape_thumb.jpg"
+  },
+  {
+    "name": "Stacked Colorful Stones",
+    "author": "unknown",
+    "dimensions": "1080x2400",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "neutral",
+      "calm",
+      "balance",
+      "nature",
+      "art"
+    ],
+    "downloadable": true,
+    "url": "Abstract/stacked_colorful_stones.jpg",
+    "thumbnail": "thumbnails/Abstract/stacked_colorful_stones_thumb.jpg"
+  },
+  {
+    "name": "Yellow Leaf Waterdrops",
+    "author": "unknown",
+    "dimensions": "736x1560",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "bright",
+      "fresh",
+      "nature",
+      "macro",
+      "delicate"
+    ],
+    "downloadable": true,
+    "url": "Abstract/yellow_leaf_waterdrops.jpg",
+    "thumbnail": "thumbnails/Abstract/yellow_leaf_waterdrops_thumb.jpg"
+  },
+  {
+    "name": "Purple Gradient Layers",
+    "author": "unknown",
+    "dimensions": "750x1623",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "soft",
+      "calm",
+      "abstract",
+      "design",
+      "minimal"
+    ],
+    "downloadable": true,
+    "url": "Abstract/purple_gradient_layers.jpg",
+    "thumbnail": "thumbnails/Abstract/purple_gradient_layers_thumb.jpg"
+  },
+  {
+    "name": "Astronaut Space Exploration",
+    "author": "unknown",
+    "dimensions": "1181x2560",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "dark",
+      "mysterious",
+      "cosmos",
+      "science",
+      "inspiration"
+    ],
+    "downloadable": true,
+    "url": "Abstract/astronaut_space_exploration.jpg",
+    "thumbnail": "thumbnails/Abstract/astronaut_space_exploration_thumb.jpg"
+  },
+  {
+    "name": "Abstract Shape Dark",
+    "author": "unknown",
+    "dimensions": "736x1635",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "dark",
+      "mysterious",
+      "minimal",
+      "geometric",
+      "modern"
+    ],
+    "downloadable": true,
+    "url": "Abstract/abstract_shape_dark.jpg",
+    "thumbnail": "thumbnails/Abstract/abstract_shape_dark_thumb.jpg"
+  },
+  {
+    "name": "Red Bulb Hanging",
+    "author": "unknown",
+    "dimensions": "1179x2562",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "dark",
+      "moody",
+      "light",
+      "isolation",
+      "abstract"
+    ],
+    "downloadable": true,
+    "url": "Abstract/red_bulb_hanging.jpg",
+    "thumbnail": "thumbnails/Abstract/red_bulb_hanging_thumb.jpg"
+  },
+  {
+    "name": "Red Match Black",
+    "author": "unknown",
+    "dimensions": "720x1558",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "contrast",
+      "unique",
+      "matches",
+      "dark",
+      "visual"
+    ],
+    "downloadable": true,
+    "url": "Abstract/red_match_black.jpg",
+    "thumbnail": "thumbnails/Abstract/red_match_black_thumb.jpg"
+  },
+  {
+    "name": "Abstract Dark Pattern V2",
+    "author": "unknown",
+    "dimensions": "555x1200",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "dark",
+      "calm",
+      "modern",
+      "geometric",
+      "design"
+    ],
+    "downloadable": true,
+    "url": "Abstract/abstract_dark_pattern_v2.jpg",
+    "thumbnail": "thumbnails/Abstract/abstract_dark_pattern_v2_thumb.jpg"
+  },
+  {
+    "name": "Abstract Black Lines",
+    "author": "unknown",
+    "dimensions": "1080x2270",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "dark",
+      "minimalist",
+      "geometric",
+      "modern",
+      "smooth"
+    ],
+    "downloadable": true,
+    "url": "Abstract/abstract_black_lines.jpg",
+    "thumbnail": "thumbnails/Abstract/abstract_black_lines_thumb.jpg"
+  },
+  {
+    "name": "Digital Light Lines",
+    "author": "unknown",
+    "dimensions": "971x2160",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "bright",
+      "dynamic",
+      "abstract",
+      "colorful",
+      "technology"
+    ],
+    "downloadable": true,
+    "url": "Abstract/digital_light_lines.jpg",
+    "thumbnail": "thumbnails/Abstract/digital_light_lines_thumb.jpg"
+  },
+  {
+    "name": "Tower Sunset Landscape",
+    "author": "unknown",
+    "dimensions": "1890x4092",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "vibrant",
+      "serene",
+      "nature",
+      "scenic",
+      "atmospheric"
+    ],
+    "downloadable": true,
+    "url": "Abstract/tower_sunset_landscape.jpg",
+    "thumbnail": "thumbnails/Abstract/tower_sunset_landscape_thumb.jpg"
+  },
+  {
+    "name": "Abstract Geometric Design V2",
+    "author": "unknown",
+    "dimensions": "972x2160",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "calm",
+      "minimalist",
+      "modern",
+      "blue",
+      "soft"
+    ],
+    "downloadable": true,
+    "url": "Abstract/abstract_geometric_design_v2.jpg",
+    "thumbnail": "thumbnails/Abstract/abstract_geometric_design_v2_thumb.jpg"
+  },
+  {
+    "name": "Pink Flower Pot",
+    "author": "unknown",
+    "dimensions": "1080x2280",
+    "copyright": "personal use only",
+    "collections": "Abstract",
+    "tags": [
+      "bright",
+      "calm",
+      "floral",
+      "decor",
+      "nature"
+    ],
+    "downloadable": true,
+    "url": "Abstract/pink_flower_pot.jpg",
+    "thumbnail": "thumbnails/Abstract/pink_flower_pot_thumb.jpg"
+  },
+        {
             "name": "Coffee Book Table",
             "author": "Unknown",
             "dimensions": "946x2048",
